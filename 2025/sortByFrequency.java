@@ -3,13 +3,13 @@
 
 class Solution {
     public static String sortByFrequency(int n, String s) {
-        // Count frequency of each character
+        // Counting the frequency of each character
         int[] freq = new int[256]; // Assuming ASCII characters
         for (char c : s.toCharArray()) {
             freq[c]++;
         }
 
-        // Create a list of characters sorted by frequency
+        // Creating a list of characters sorted by frequency
         StringBuilder result = new StringBuilder();
         for (int i = 0; i < 256; i++) {
             if (freq[i] > 0) {
