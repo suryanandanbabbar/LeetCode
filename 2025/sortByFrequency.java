@@ -1,5 +1,6 @@
 // Sorting characters by frequency
 // Code360: https://www.naukri.com/code360/problems/sorting-characters-by-frequency_1263699
+// LeetCode: https://leetcode.com/problems/sort-characters-by-frequency/description/
 
 class Solution {
     public static String sortByFrequency(int n, String s) {
