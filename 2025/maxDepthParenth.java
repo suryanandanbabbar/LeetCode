@@ -4,23 +4,37 @@
 import java.util.Stack;
 class Solution {
     public int maxDepth(String s) {
-        Stack<Integer> stack = new Stack<>();
-        int maxDepth = 0;
-        int currentDepth = 0;
+        // Stack<Integer> stack = new Stack<>();
+        // int maxDepth = 0;
+        // int currentDepth = 0;
 
-        for (char c : s.toCharArray()) {
-            if (c == '(') {
-                currentDepth++;
-                stack.push(currentDepth);
-                maxDepth = Math.max(maxDepth, currentDepth);
-            } else if (c == ')') {
-                if (!stack.isEmpty()) {
-                    stack.pop();
-                    currentDepth--;
-                }
+        // for (char c : s.toCharArray()) {
+        //     if (c == '(') {
+        //         currentDepth++;
+        //         stack.push(currentDepth);
+        //         maxDepth = Math.max(maxDepth, currentDepth);
+        //     } else if (c == ')') {
+        //         if (!stack.isEmpty()) {
+        //             stack.pop();
+        //             currentDepth--;
+        //         }
+        //     }
+        // }
+        // return maxDepth;
+
+        // Greedy Approach
+        int max = 0;
+        int current = 0;
+
+        for(char c: s.toCharArray()) {
+            if(c == '(') {
+                current++;
+                max = Math.max(max, current);
+            } else if(c == ')') {
+                current--;
             }
         }
-        return maxDepth;
+        return max;
     }
 }
 
