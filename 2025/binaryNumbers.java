@@ -7,7 +7,7 @@ import java.util.*;
 
 public class binaryNumbers {
     static ArrayList<String> generate(int n) {
-        // Use Queue
+        // Uses Queue
         ArrayList<String> result = new ArrayList<>();
         Queue<String> queue = new ArrayDeque<>();
 
