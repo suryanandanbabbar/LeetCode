@@ -1,6 +1,9 @@
 // LeetCode Problem: 1544. Make The String Great
 // Link: https://leetcode.com/problems/make-the-string-great/
 
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
 import java.util.ArrayDeque;
 
 class makeStringGreat {
