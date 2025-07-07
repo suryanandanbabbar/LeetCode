@@ -1,13 +1,12 @@
 // LeetCode Problem: 1598. Crawler Log Folder
 // Link: https://leetcode.com/problems/crawler-log-folder/
 
-// Time Complexity: O(n)
-// Space Complexity: O(1)
-
 import java.util.ArrayDeque;
 
 public class crawlerLogFolder {
     // Brute Force Approach
+    // TC: O(n)
+    // SC: O(1)
     public int minOperations(String[] logs) {
         int depth = 0;
 
