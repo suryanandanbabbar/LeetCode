@@ -11,7 +11,7 @@ class MyQueue {
 
     }
     
-    public void push(int x) {
+    public void push1(int x) {
         if(stack1.isEmpty()) {
             stack1.push(x);
             return;
@@ -27,6 +27,17 @@ class MyQueue {
             stack1.push(stack2.pop());
         }
     }
+
+    // Using Recursion with one stack
+    public void push2(int x) {
+        if (stack1.isEmpty()) {
+            stack1.push(x);
+        } else {
+            int temp = stack1.pop();
+            push2(x);
+            stack1.push(temp);
+        }
+    }
     
     public int pop() {
         return stack1.pop();
@@ -39,6 +50,8 @@ class MyQueue {
     public boolean empty() {
         return stack1.isEmpty();
     }
+
+
 }
 
 /**
