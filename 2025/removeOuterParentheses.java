@@ -1,3 +1,9 @@
+// LeetCode Problem: 1021. Remove Outermost Parentheses
+// Link: https://leetcode.com/problems/remove-outermost-parentheses/
+
+// TC: O(n)
+// SC: O(n)
+
 import java.util.ArrayDeque;
 
 public class removeOuterParentheses {
