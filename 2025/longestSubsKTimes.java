@@ -3,7 +3,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Solution {
+class longestSubsKTimes {
     public String longestSubsequenceRepeatedK(String s, int k) {
         String r="";
         Queue<String> q=new LinkedList<>();

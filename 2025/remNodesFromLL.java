@@ -23,7 +23,7 @@ public class remNodesFromLL {
     }
 }
 
-class Solution {
+class remNodesFromLLSolution {
     public remNodesFromLL removeNodes(remNodesFromLL head) {
         if (head == null || head.next == null) {
             return head;

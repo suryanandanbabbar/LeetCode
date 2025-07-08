@@ -1,7 +1,7 @@
 // LeetCode Problem: 125. Valid Palindrome
 // Link: https://leetcode.com/problems/valid-palindrome/
 
-class Solution {
+class validPalindrome {
     public boolean isPalindrome(String s) {
         // s = s.toLowerCase();
         // StringBuilder sb = new StringBuilder();

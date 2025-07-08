@@ -2,7 +2,7 @@
 // Link: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 
 import java.util.Stack;
-class Solution {
+class removeAdjChars {
     public String removeDuplicates(String s) {
         // StringBuilder sb = new StringBuilder();
 

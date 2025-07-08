@@ -37,7 +37,7 @@ Final Length of the string: The string is "cdeabab", which has 7 characters.
 
 */
 
-class Solution {
+class SolTotalCharsInStringution {
     public int lengthAfterTransformations(String s, int t) {
         final int MOD = 1_000_000_007;
         long[] freq = new long[26];

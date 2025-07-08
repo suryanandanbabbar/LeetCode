@@ -13,7 +13,7 @@ Since the answer may be very large, return it modulo 109 + 7.
 
 import java.util.List;
 
-class Solution {
+class TotalCharsInString2 {
     private static final int mod = 1000000007;
 
     private long[][] multiplyMatrices(long[][] A, long[][] B) {

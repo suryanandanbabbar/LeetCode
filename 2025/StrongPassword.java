@@ -11,7 +11,7 @@ Louise typed a random string of length  in the password field but wasn't sure if
 Given the string she typed, can you find the minimum number of characters she must add to make her password strong?
  */
 
-class Result {
+class StrongPassword {
 
     /*
      * Complete the 'minimumNumber' function below.

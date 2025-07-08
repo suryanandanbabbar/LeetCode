@@ -3,7 +3,7 @@
 // LeetCode: https://leetcode.com/problems/sort-characters-by-frequency/description/
 import java.util.*;
 
-class Solution {
+class sortByFrequencySolution {
     public static String sortByFrequency(int n, String s) {
         // // Counting the frequency of each character
         // int[] freq = new int[256]; // Assuming ASCII characters

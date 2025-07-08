@@ -2,7 +2,7 @@
  Count the number of words in a camel case string.
  */
 
-class Result {
+class camelCaseSolution {
 
     /*
      * Complete the 'camelcase' function below.

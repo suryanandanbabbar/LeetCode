@@ -1,7 +1,7 @@
 // LeetCode Problem: 205: Isomorphic Strings
 // Link: https://leetcode.com/problems/isomorphic-strings/
 
-class Solution {
+class isomorphicStrings {
     public boolean isIsomorphic(String s, String t) {
         int n1 = s.length();
         int n2 = t.length();

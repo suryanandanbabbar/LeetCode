@@ -6,7 +6,7 @@
 
 import java.util.ArrayDeque;
 
-class Solution {
+class clearDigits {
     public String clearDigits(String s) {
         ArrayDeque<Character> stack = new ArrayDeque<>();
 

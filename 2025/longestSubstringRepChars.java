@@ -3,7 +3,7 @@
 
 import java.util.HashSet;
 
-class Solution {
+class longestSubstringRepChars {
     public int lengthOfLongestSubstring(String s) {
         int n = s.length();
         int maxLength = 0;

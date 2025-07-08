@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-class Solution {
+class UniqNoOccurr {
     public boolean uniqueOccurrences(int[] arr) {
         HashMap<Integer, Integer> map = new HashMap<>();
 

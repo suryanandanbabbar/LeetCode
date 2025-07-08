@@ -2,7 +2,8 @@
 // Link: https://leetcode.com/problems/binary-tree-inorder-traversal/
 
 import java.util.*;
-class Solution {
+
+class binaryTreeInorder {
     public static List<Integer> inorder(List<Integer> result, TreeNode root) {
         if(root == null) return result;
 

@@ -20,7 +20,7 @@ Constraints:
 s consist of only digits and English letters 
 */
 
-class Solution {
+class longestPalindromeString {
     public String longestPalindrome(String s) {
         if (s == null || s.length() < 1) return "";
         

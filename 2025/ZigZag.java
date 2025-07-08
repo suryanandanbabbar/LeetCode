@@ -11,7 +11,7 @@ Y   I   R
 And then read line by line: "PAHNAPLSIIGYIR"
 */
 
-class Solution {
+class ZigZag {
     public String convert(String s, int numRows) {
         if(numRows == 1) return s;
 
