@@ -4,7 +4,7 @@
 public class hammingWeight {
     public int setBits(int n) {
         // Naive Approach
-        // TC: O(1)
+        // TC: O(log n)
         // SC: O(1)
         // int temp = n;
         // int count2 = 0;
@@ -15,7 +15,7 @@ public class hammingWeight {
         // }
 
         // Brian Kernighan's Algorithm
-        // TC: O(k), where k is the number of set bits in n
+        // TC: O(log n), where k is the number of set bits in n
         // SC: O(1)
         int count = 0;
         while (n > 0) {
