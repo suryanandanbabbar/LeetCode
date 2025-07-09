@@ -38,7 +38,7 @@ public class nextGreaterElement {
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class nextGreaterElement2 {
     public int[] nextLargerNodes(ListNode head) {
         ArrayList<Integer> list = new ArrayList<>();
         ArrayDeque<Integer> stack = new ArrayDeque<>();
