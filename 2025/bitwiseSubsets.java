@@ -1,6 +1,6 @@
 // GfG: https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1
 
-// TC: O(2^n)
+// TC: O(n)
 // SC: O(n)
 
 import java.util.ArrayList;
