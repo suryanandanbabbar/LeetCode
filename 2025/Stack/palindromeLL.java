@@ -9,16 +9,16 @@ import java.util.ArrayDeque;
 import java.util.LinkedList;
 import java.util.Queue;
 
-class ListNode {
+class PalListNode {
     int val;
-    ListNode next;
-    ListNode() {}
-    ListNode(int val) { this.val = val; }
-    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+    PalListNode next;
+    PalListNode() {}
+    PalListNode(int val) { this.val = val; }
+    PalListNode(int val, PalListNode next) { this.val = val; this.next = next; }
 }
 
 public class palindromeLL {
-    public boolean isPalindrome(ListNode head) {
+    public boolean isPalindrome(PalListNode head) {
         ArrayDeque<Integer> st = new ArrayDeque<>();
         Queue<Integer> q = new LinkedList<>();
 
