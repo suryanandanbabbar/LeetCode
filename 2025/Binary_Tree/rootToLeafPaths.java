@@ -1,0 +1,44 @@
+package Binary_Tree;
+// GfG: https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1
+
+// TC: O(N * h)
+// SC: O(N * h) 
+// h: height of tree
+
+import java.util.ArrayList;
+
+class Node {
+    int data;
+    Node left;
+    Node right;
+
+    Node(int data) {
+        this.data = data;
+        left = null;
+        right = null;
+    }
+}
+
+public class rootToLeafPaths {
+    private static void solve(Node root, ArrayList<Integer> path, ArrayList<ArrayList<Integer>> result) {
+        if (root == null)
+            return;
+
+        path.add(root.data);
+
+        if (root.left == null && root.right == null) {
+            result.add(new ArrayList<>(path));
+        } else {
+            solve(root.left, path, result);
+            solve(root.right, path, result);
+        }
+
+        path.remove(path.size() - 1);
+    }
+
+    public static ArrayList<ArrayList<Integer>> Paths(Node root) {
+        ArrayList<ArrayList<Integer>> result = new ArrayList<>();
+        solve(root, new ArrayList<>(), result);
+        return result;
+    }
+}
