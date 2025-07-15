@@ -7,18 +7,6 @@ package Binary_Tree;
 
 import java.util.ArrayList;
 
-class Node {
-    int data;
-    Node left;
-    Node right;
-
-    Node(int data) {
-        this.data = data;
-        left = null;
-        right = null;
-    }
-}
-
 public class rootToLeafPaths {
     private static void solve(Node root, ArrayList<Integer> path, ArrayList<ArrayList<Integer>> result) {
         if (root == null)

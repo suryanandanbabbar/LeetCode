@@ -4,17 +4,6 @@ package Binary_Tree;
 // TC: O(N)
 // SC: O(H) H: Height of tree
 
-class Tree {
-    int data;
-    Tree left, right;
-
-    Tree(int d) {
-        data = d;
-        left = null;
-        right = null;
-    }
-}
-
 public class rootToLeafPathSum {
 
     private static int solve(Node root, int num) {

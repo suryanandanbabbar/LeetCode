@@ -13,24 +13,6 @@ It can be proven that there is a unique answer.
 Return the root of the trimmed binary search tree. 
 Note that the root may change depending on the given bounds. 
 */
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode() {
-    }
-
-    TreeNode(int val) {
-        this.val = val;
-    }
-
-    TreeNode(int val, TreeNode left, TreeNode right) {
-        this.val = val;
-        this.left = left;
-        this.right = right;
-    }
-}
 
 public class trimBST {
     public TreeNode trim(TreeNode root, int low, int high) {
