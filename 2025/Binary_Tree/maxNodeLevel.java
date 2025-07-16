@@ -7,17 +7,6 @@ package Binary_Tree;
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Node{
-    int data;
-    Node left,right;
-
-    Node(int item)
-    {
-        data = item;
-        left = right = null;
-    }
-}
-
 public class maxNodeLevel {
     // Return the level (0-indexed) with maximum number of nodes.
     public static int maximumNodeLevel(Node root) {
