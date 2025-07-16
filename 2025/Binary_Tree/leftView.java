@@ -23,11 +23,11 @@ public class leftView {
             return new ArrayList<>();
 
         ArrayList<Integer> result = new ArrayList<>();
+        Queue<Node> q = new LinkedList<>();
+        q.add(root);
 
         // Level-Order Traversal Approach
         /* 
-        Queue<Node> q = new LinkedList<>();
-        q.add(root);
 
         while (!q.isEmpty()) {
             int size = q.size();
