@@ -9,11 +9,23 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class leftView {
+    // For Recursion
+    private void solve(Node node, ArrayList<Integer> ans, int level) {
+        if(node == null) return;
+        if(level == ans.size()) ans.add(node.data);
+        
+        solve(node.left, ans, level + 1);
+        solve(node.right, ans, level + 1);
+    }
+
     ArrayList<Integer> left(Node root) {
         if (root == null)
             return new ArrayList<>();
 
         ArrayList<Integer> result = new ArrayList<>();
+
+        // Level-Order Traversal Approach
+        /* 
         Queue<Node> q = new LinkedList<>();
         q.add(root);
 
@@ -32,6 +44,11 @@ public class leftView {
             }
         }
 
+        return result;
+        */
+
+        // Recursive Approach
+        solve(root, result, 0);
         return result;
 
     }
