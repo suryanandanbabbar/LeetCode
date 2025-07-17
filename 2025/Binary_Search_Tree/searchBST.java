@@ -7,10 +7,18 @@ package Binary_Search_Tree;
 
 public class searchBST {
     public TreeNode search(TreeNode root, int val) {
+        // Recursive Approach
         if(root == null) return root;
         if(root.val == val) return root;
         if(val < root.val) return search(root.left, val);
         if(val > root.val) return search(root.right, val);
-        else return root;
+
+        // Iterative Approach
+        while(root != null) {
+            if(root.val == val) return root;
+            if(root.val > val) return search(root.left, val);
+            else if(root.val < val) return search(root.right, val);
+        }
+        return null;
     }
 }
