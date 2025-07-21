@@ -3,7 +3,7 @@ package Heaps;
 
 import java.util.PriorityQueue;
 
-// TC: O(N log K)
+// TC: O(N^2 log K)
 // SC: O(K) for the priority queue
 
 public class kthLargestSumSubarray {
