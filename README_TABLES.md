@@ -64,7 +64,7 @@ Below, click on any topic to view the list of solved problems with details.
 | 20 | 112. | Path Sum | [Link](https://leetcode.com/problems/path-sum/submissions/1699844158/) | LeetCode | O(N) | O(N) |
 | 21 | 669. | Trim a Binary Search Tree | [Link](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | LeetCode | O(N) | O(H) |
 | 22 | - | Bottom View of Binary Tree | [Link](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | GfG | O(N log N) | O(N) |
-| 23 | 543. | Diameter of Binary Tree | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode |  |  |
+| 23 | 543. | Diameter of Binary Tree | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode | O(n) | O(h) |
 
 </details>
 
@@ -81,7 +81,7 @@ Below, click on any topic to view the list of solved problems with details.
 | 6 | 230. | Kth Smallest Element in a BST | [Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description) | LeetCode | O(H + k) | O(H) |
 | 7 | 108. | Convert Sorted Array to Binary Search Tree | [Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | LeetCode | O(N) | O(N) |
 | 8 | - | Minimum Element in BST | [Link](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | GfG | O(H) | O(1) |
-| 9 | 99. | Recover Binary Search Tree | [Link](https://leetcode.com/problems/recover-binary-search-tree/description/) | LeetCode | O(N) | O(H) where H is the height of the tree |
+| 9 | 99. | Recover Binary Search Tree | [Link](https://leetcode.com/problems/recover-binary-search-tree/description/) | LeetCode | O(N) | O(H) |
 | 10 | - | Floor in BST | [Link](https://www.geeksforgeeks.org/problems/floor-in-bst/1) | GfG | O(h) |  |
 | 11 | - | Check Whether BST Contains Dead End | [Link](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1) | GfG | O(N) | O(N) |
 | 12 | - | Brothers from Different Root | [Link](https://www.geeksforgeeks.org/problems/brothers-from-different-root/1) | GfG | O(N1 + N2) | O(N1 + N2) |
@@ -133,7 +133,7 @@ Below, click on any topic to view the list of solved problems with details.
 | 1 | 1046. | Last Stone Weight | [Link](https://leetcode.com/problems/last-stone-weight/description/) | LeetCode | O(N log N) | O(N) |
 | 2 | - | K-th Largest Sum Contiguous Subarray | [Link](https://www.naukri.com/code360/problems/k-th-largest-sum-contiguous-subarray_920398) | Code360 | O(N^2 log K) | O(K) |
 | 3 | 347. | Top K Frequent Elements | [Link](https://leetcode.com/problems/top-k-frequent-elements/description/) | LeetCode | O(N log K) | O(K) |
-| 4 | - | Sum of Elements Between K1th and K2th Smallest Elements | [Link](https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1) | GfG | O(N long N) | O(N) for the priority queue |
+| 4 | - | Sum of Elements Between K1th and K2th Smallest Elements | [Link](https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1) | GfG | O(N long N) | O(N) |
 | 5 | - | Merge K Sorted Arrays | [Link](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | GfG | O(N log K) | O(N) |
 | 6 | - | Merge Two Binary Max Heaps | [Link](https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1) | GfG | O((N + M) log(N + M)) | O(N + M) |
 | 7 | - | Does Array Represent Heap? | [Link](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | GfG | O(N) | O(1) |
@@ -160,7 +160,10 @@ Below, click on any topic to view the list of solved problems with details.
 
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | 225. | Implement Stack using Queues | [Link](https://leetcode.com/problems/implement-stack-using-queues/) | LeetCode |  |  |
+| 1 | - | Reverse First K Elements of Queue | [Link](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue) | GfG | O(n) | O(n) |
+| 2 | 2014. | Longest Substring With K Repeating Characters | [Link](https://leetcode.com/problems/longest-substring-with-k-repeating-characters) | LeetCode | O(n * k) | O(n) |
+| 3 | 225. | Implement Stack using Queues | [Link](https://leetcode.com/problems/implement-stack-using-queues/) | LeetCode | O(n) | O(n) |
+| 4 | - | Generate Binary Numbers | [Link](https://www.geeksforgeeks.org/problems/generate-binary-numbers-1587115620) | GfG | O(n) | O(n) |
 
 </details>
 
@@ -176,13 +179,19 @@ _No problems yet._
 
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | 3304. | Kth Character in String Game I | [Link](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | LeetCode |  |  |
-| 2 | 1328. | Break a Palindrome | [Link](https://leetcode.com/problems/break-a-palindrome/) | LeetCode | O(n) | O(n) |
-| 3 | 3136. | Valid Word | [Link](https://leetcode.com/problems/valid-word/) | LeetCode |  |  |
-| 4 | 131. | Palindrome Partioning | [Link](https://leetcode.com/problems/palindrome-partitioning/) | LeetCode |  |  |
-| 5 | 17. | Letter Combinations of Phone Number | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | LeetCode |  |  |
-| 6 | 205 | : Isomorphic Strings | [Link](https://leetcode.com/problems/isomorphic-strings/) | LeetCode |  |  |
-| 7 | - | https://www.naukri.com/code360/problems/sorting-characters-by-frequency_1263699 |  | Code360 |  |  |
+| 1 | 3304. | Kth Character in String Game I | [Link](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | LeetCode | O(1) | O(1) |
+| 2 | 6. | ZigZag Conversion | [Link](https://leetcode.com/problems/zigzag-conversion/description/) | LeetCode | O(n) | O(n) |
+| 3 | 1328. | Break a Palindrome | [Link](https://leetcode.com/problems/break-a-palindrome/) | LeetCode | O(n) | O(n) |
+| 4 | 3042. | Is Prefix and Suffix | [Link](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/) | LeetCode | O(n) | O(1) |
+| 5 | 3136. | Valid Word | [Link](https://leetcode.com/problems/valid-word/) | LeetCode | O(n) | O(1) |
+| 6 | 131. | Palindrome Partioning | [Link](https://leetcode.com/problems/palindrome-partitioning/) | LeetCode | O(n * 2^n) | O(n * 2^n) |
+| 7 | 2678. | Count the Number of Senior Citizens | [Link](https://leetcode.com/problems/number-of-senior-citizens/description/) | LeetCode | O(n) | O(1) |
+| 8 | 17. | Letter Combinations of Phone Number | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | LeetCode | O(3^n) | O(3^n) |
+| 9 | 3337. | Total Characters in String After Transformations II | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/) | LeetCode | O(t * n * m) | O(n * m) |
+| 10 | 205. | Isomorphic Strings | [Link](https://leetcode.com/problems/isomorphic-strings/) | LeetCode | O(n) | O(1) |
+| 11 | 451. | Sort Characters By Frequency | [Link](https://leetcode.com/problems/sort-characters-by-frequency/description/) | LeetCode | O(n log n) | O(n) |
+| 12 | 2053. | Kth Distinct String in an Array | [Link](https://leetcode.com/problems/distinct-string/) | LeetCode | O(n) | O(n) |
+| 13 | 3335. | Total Characters in String After Transformations | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | LeetCode | O(t * n) | O(1) |
 
 </details>
 
@@ -215,17 +224,19 @@ _No problems yet._
 
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | 125. | Valid Palindrome | [Link](https://leetcode.com/problems/valid-palindrome/) | LeetCode |  |  |
+| 1 | 125. | Valid Palindrome | [Link](https://leetcode.com/problems/valid-palindrome/) | LeetCode | O(n) | O(1) |
 | 2 | 948. | Bag of Tokens | [Link](https://leetcode.com/problems/bag-of-tokens/) | LeetCode | O(n log n) | O(1) |
-| 3 | 3 | : Longest Substring Without Repeating Characters | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters) | LeetCode |  |  |
-| 4 | 1358 | : Number of Substrings Containing All Three Characters | [Link](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | LeetCode |  |  |
-| 5 | 209. | Minimum Size Subarray Sum | [Link](https://leetcode.com/problems/minimum-size-subarray-sum/) | LeetCode |  |  |
-| 6 | 128. | Longest Consecutive Sequence | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | LeetCode |  |  |
-| 7 | 2958. | Length of Longest Subarray with at most K Frequency | [Link](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency) | LeetCode |  |  |
-| 8 | 713. | Subarray Product Less Than K | [Link](https://leetcode.com/problems/subarray-product-less-than-k/) | LeetCode |  |  |
-| 9 | 167. | Two Sum II - Input array is sorted | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | LeetCode | O(n) | O(1) |
-| 10 | 881. | Boats to Save People | [Link](https://leetcode.com/problems/boats-to-save-people/) | LeetCode | O(n log n) | O(1) |
-| 11 | 875. | Koko Eating Bananas | [Link](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode |  |  |
-| 12 | 1482. | Minimum Number of Days to Make m Bouquets | [Link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | LeetCode |  |  |
+| 3 | 3 | : Longest Substring Without Repeating Characters | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters) | LeetCode | O(n) | O(min(n, m)) |
+| 4 | 1358 | : Number of Substrings Containing All Three Characters | [Link](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | LeetCode | O(n) | O(1) |
+| 5 | 209. | Minimum Size Subarray Sum | [Link](https://leetcode.com/problems/minimum-size-subarray-sum/) | LeetCode | O(n) | O(1) |
+| 6 | 392. | Is Subsequence | [Link](https://leetcode.com/problems/is-subsequence/description/) | LeetCode | O(n) | O(1) |
+| 7 | 128. | Longest Consecutive Sequence | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | LeetCode | O(n) | O(n) |
+| 8 | 2958. | Length of Longest Subarray with at most K Frequency | [Link](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency) | LeetCode | O(n) | O(n) |
+| 9 | 5. | Longest Palindromic Substring | [Link](https://leetcode.com/problems/longest-palindromic-substring/description/) | LeetCode | O(n^2) | O(1) |
+| 10 | 713. | Subarray Product Less Than K | [Link](https://leetcode.com/problems/subarray-product-less-than-k/) | LeetCode | O(n) | O(1) |
+| 11 | 167. | Two Sum II - Input array is sorted | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | LeetCode | O(n) | O(1) |
+| 12 | 881. | Boats to Save People | [Link](https://leetcode.com/problems/boats-to-save-people/) | LeetCode | O(n log n) | O(1) |
+| 13 | 875. | Koko Eating Bananas | [Link](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | O(n log(max(piles))) | O(1) |
+| 14 | 1482. | Minimum Number of Days to Make m Bouquets | [Link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | LeetCode | O(n log(max(bloomDay))) | O(1) |
 
 </details>
