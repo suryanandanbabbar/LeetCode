@@ -25,6 +25,7 @@ def extract_metadata(filepath):
     lc_match = re.search(r"LeetCode Problem:\s*([\d\.]+)\s*(.+)", content)
     # GfG format: // GfG: Print Adjacency List
     gfg_match = re.search(r"GfG:\s*([^\n]+)", content)
+    neetcode_match = re.search(r"NeetCode:\s*([\d\.]+)\s*(.+)", content)
     link = re.search(r"Link:\s*(.+)", content)
     time = re.search(r"TC:\s*(.+)", content)
     space = re.search(r"SC:\s*(.+)", content)
@@ -45,6 +46,16 @@ def extract_metadata(filepath):
             "title": gfg_match.group(1).strip(),
             "link": link.group(1).strip() if link else "",
             "platform": "GfG",
+            "time": time.group(1).strip() if time else "",
+            "space": space.group(1).strip() if space else "",
+            "file": os.path.basename(filepath)
+        }
+    elif neetcode_match:
+        return {
+            "question_number": neetcode_match.group(1).strip(),
+            "title": neetcode_match.group(2).strip(),
+            "link": link.group(1).strip() if link else "",
+            "platform": "NeetCode",
             "time": time.group(1).strip() if time else "",
             "space": space.group(1).strip() if space else "",
             "file": os.path.basename(filepath)

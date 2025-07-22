@@ -195,7 +195,7 @@ _No problems yet._
 | 7 | - | Find XOR of Numbers from L to R | [Link](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | GfG | O(1) | O(1) |
 | 8 | - | Set the Rightmost Unset Bit | [Link](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GfG | O(1) | O(1) |
 | 9 | 2220. | Minimum Bit Flips to Convert Number | [Link](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | LeetCode | O(log n) | O(1) |
-| 10 | - | Find First Set Bit |  | GfG | O(log n) | O(1) |
+| 10 | - | Find First Set Bit | [Link](https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1) | GfG | O(log n) | O(1) |
 | 11 | - | Check Kth Bit Set or Not | [Link](https://www.geeksforgeeks.org/check-kth-bit-set-not/) | GfG | O(1) | O(1) |
 | 12 | - | Swap Two Numbers | [Link](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | GfG | O(1) | O(1) |
 | 13 | - | Print All Bitwise Subsets of a Number | [Link](https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1) | GfG | O(n) | O(n) |
