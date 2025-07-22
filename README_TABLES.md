@@ -168,9 +168,29 @@ Below, click on any topic to view the list of solved problems with details.
 </details>
 
 <details>
-<summary><strong>Stacks</strong></summary>
+<summary><strong>Stack</strong></summary>
 
-_No problems yet._
+| S.No | QuestionNumber | Title | Link | Platform | Time | Space |
+|---|---|---|---|---|---|---|
+| 1 | 234. | Palindrome Linked List | [Link](https://leetcode.com/problems/palindrome-linked-list/) | LeetCode | O(n) | O(n) |
+| 2 | 3174. | Clear Digits | [Link](https://leetcode.com/problems/clear-digits/) | LeetCode | O(n) | O(n) |
+| 3 | 1544. | Make The String Great | [Link](https://leetcode.com/problems/make-the-string-great/) | LeetCode | O(n) | O(n) |
+| 4 | 1021. | Remove Outermost Parentheses | [Link](https://leetcode.com/problems/remove-outermost-parentheses/) | LeetCode | O(n) | O(n) |
+| 5 | - | Next Greater Element | [Link](https://www.naukri.com/code360/problems/next-greater-element_1112581) | Code360 | O(n) | O(n) |
+| 6 | 1019 | : Next Greater Node In Linked List | [Link](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620) | LeetCode | O(n) | O(n) |
+| 7 | 682. | Baseball Game | [Link](https://leetcode.com/problems/baseball-game/) | LeetCode | O(n) | O(n) |
+| 8 | 2487. | Remove Nodes From Linked List | [Link](https://leetcode.com/problems/remove-nodes-from-linked-list/) | LeetCode | O(n) | O(n) |
+| 9 | 1209 | : Remove All Adjacent Duplicates in String II | [Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | LeetCode | O(n) | O(n) |
+| 10 | - | Smallest Number on Left | [Link](https://www.geeksforgeeks.org/problems/smallest-number-on-left3403) | GfG | O(n) | O(n) |
+| 11 | 1653. | Minimum Deletions to Make String Balanced | [Link](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | LeetCode | O(n) | O(n) |
+| 12 | 2696. | Minimum String Length After Removing Substrings | [Link](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | LeetCode | O(n) | O(n) |
+| 13 | 921. | Minimum Add to Make Parentheses Valid | [Link](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | LeetCode | O(n) | O(n) |
+| 14 | 232. | Implement Queue using Stacks | [Link](https://leetcode.com/problems/implement-queue-using-stacks/) | LeetCode | O(n) | O(n) |
+| 15 | 1475. | Final Prices With a Special Discount in a Shop | [Link](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a) | LeetCode |  |  |
+| 16 | 150. | Evaluate Reverse Polish Notation | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | LeetCode | O(n) | O(n) |
+| 17 | 1598. | Crawler Log Folder | [Link](https://leetcode.com/problems/crawler-log-folder/) | LeetCode | O(n) | O(1) |
+| 18 | 1047 | : Remove All Adjacent Duplicates In String | [Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | LeetCode | O(n) | O(n) |
+| 19 | 735. | Asteroid Collision | [Link](https://leetcode.com/problems/asteroid-collision/) | LeetCode | O(n) | O(n) |
 
 </details>
 

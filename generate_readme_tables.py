@@ -11,7 +11,7 @@ TOPICS = [
     "Heaps",
     "Kadane_Algorithm",
     "Queues",
-    "Stacks",
+    "Stack",
     "Strings",
     "Bit_Manipulation",
     "Two_Pointers"
