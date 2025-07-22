@@ -1,5 +1,6 @@
 package Binary_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/find-the-distance-between-two-nodes4402/1
+// GfG: Find the Distance Between Two Nodes
+// Link: https://www.geeksforgeeks.org/problems/find-the-distance-between-two-nodes4402/1
 
 // TC: O(log(max(x, y)))
 // SC: O(1)

@@ -2,6 +2,9 @@ package Binary_Tree;
 // LeetCode Problem: 872. Leaf-Similar Trees
 // Link: https://leetcode.com/problems/leaf-similar-trees/
 
+// TC: O(N + M) 
+// SC: O(N + M) 
+
 import java.util.ArrayList;
 
 public class leafSimilarTrees {

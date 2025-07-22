@@ -42,28 +42,29 @@ Below, click on any topic to view the list of solved problems with details.
 
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | - | https://www.geeksforgeeks.org/problems/perfect-binary-tree/1 |  | GfG | O(N) | O(h) |
-| 2 | - | https://www.geeksforgeeks.org/problems/children-sum-parent/1 |  | GfG | O(N) | O(H) |
-| 3 | - | https://www.geeksforgeeks.org/problems/largest-value-in-each-level/1 |  | GfG |  |  |
-| 4 | 872. | Leaf-Similar Trees | [Link](https://leetcode.com/problems/leaf-similar-trees/) | LeetCode |  |  |
+| 1 | - | Perfect Binary Tree | [Link](https://www.geeksforgeeks.org/problems/perfect-binary-tree/1) | GfG | O(N) | O(h) |
+| 2 | - | Children Sum Parent | [Link](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | GfG | O(N) | O(H) |
+| 3 | - | Largest Value in Each Level | [Link](https://www.geeksforgeeks.org/problems/largest-value-in-each-level/1) | GfG | O(N) | O(N) |
+| 4 | 872. | Leaf-Similar Trees | [Link](https://leetcode.com/problems/leaf-similar-trees/) | LeetCode | O(N + M) | O(N + M) |
 | 5 | 110. | Balanced Binary Tree | [Link](https://leetcode.com/problems/balanced-binary-tree/) | LeetCode | O(N) | O(h) |
-| 6 | - | https://www.geeksforgeeks.org/problems/maximum-node-level/1 |  | GfG | O(n) | O(n) |
-| 7 | - | https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1 |  | GfG | O(N * h) | O(N * h) |
+| 6 | - | Maximum Node Level | [Link](https://www.geeksforgeeks.org/problems/maximum-node-level/1) | GfG | O(n) | O(n) |
+| 7 | - | Root to Leaf Paths | [Link](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1) | GfG | O(N * h) | O(N * h) |
 | 8 | 100. | Same Tree | [Link](https://leetcode.com/problems/same-tree/) | LeetCode | O(N) | O(N) |
-| 9 | - | https://www.geeksforgeeks.org/problems/nodes-at-odd-levels/1 |  | GfG |  |  |
-| 10 | - | https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1 |  | GfG | O(N log N) | O(N) |
+| 9 | - | Nodes at Odd Levels | [Link](https://www.geeksforgeeks.org/problems/nodes-at-odd-levels/1) | GfG | O(N) | O(N) |
+| 10 | - | Top View of Binary Tree | [Link](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | GfG | O(N log N) | O(N) |
 | 11 | 236. | Lowest Common Ancestor of a Binary Tree | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | LeetCode | O(N) | O(H) |
-| 12 | - | https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1 |  | GfG | O(N) | O(H) H: Height of tree |
+| 12 | - | Root to Leaf Path Sum | [Link](https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1) | GfG | O(N) | O(H) |
 | 13 | 101. | Symmetric Tree | [Link](https://leetcode.com/problems/symmetric-tree/) | LeetCode | O(N) | O(N) |
-| 14 | 117. | Populating Next Right Pointers in Each Node II | [Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | LeetCode | O(N) | O(1) for the next pointers, O(N) for the queue |
-| 15 | - | https://www.geeksforgeeks.org/problems/find-the-distance-between-two-nodes4402/1 |  | GfG | O(log(max(x, y))) | O(1) |
+| 14 | 117. | Populating Next Right Pointers in Each Node2 II | [Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node2-ii/description/) | LeetCode | O(N) | O(N) |
+| 15 | - | Find the Distance Between Two Nodes | [Link](https://www.geeksforgeeks.org/problems/find-the-distance-between-two-nodes4402/1) | GfG | O(log(max(x, y))) | O(1) |
 | 16 | 199. | Binary Tree Right Side View | [Link](https://leetcode.com/problems/binary-tree-right-side-view/description/) | LeetCode | O(N) | O(H) |
-| 17 | - | https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1 |  | GfG | O(N) | O(N) |
+| 17 | - | Left View of Binary Tree | [Link](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | GfG | O(N) | O(N) |
 | 18 | 226. | Binary Tree | [Link](https://leetcode.com/problems/invert-binary-tree/description/) | LeetCode | O(N) | O(H) |
-| 19 | 111. | Minimum Depth of Binary Tree | [Link](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | LeetCode |  |  |
+| 19 | 111. | Minimum Depth of Binary Tree | [Link](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | LeetCode | O(N) | O(H) |
 | 20 | 112. | Path Sum | [Link](https://leetcode.com/problems/path-sum/submissions/1699844158/) | LeetCode | O(N) | O(N) |
-| 21 | - | https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1 |  | GfG | O(N log N) | O(N) |
-| 22 | 543. | Diameter of Binary Tree | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode |  |  |
+| 21 | 669. | Trim a Binary Search Tree | [Link](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | LeetCode | O(N) | O(H) |
+| 22 | - | Bottom View of Binary Tree | [Link](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | GfG | O(N log N) | O(N) |
+| 23 | 543. | Diameter of Binary Tree | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode |  |  |
 
 </details>
 
@@ -83,7 +84,7 @@ Below, click on any topic to view the list of solved problems with details.
 | 9 | 99. | Recover Binary Search Tree | [Link](https://leetcode.com/problems/recover-binary-search-tree/description/) | LeetCode | O(N) | O(H) where H is the height of the tree |
 | 10 | - | Floor in BST | [Link](https://www.geeksforgeeks.org/problems/floor-in-bst/1) | GfG | O(h) |  |
 | 11 | - | Check Whether BST Contains Dead End | [Link](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1) | GfG | O(N) | O(N) |
-| 12 | - | https://www.geeksforgeeks.org/problems/brothers-from-different-root/1 |  | GfG | O(N1 + N2) | O(N1 + N2) |
+| 12 | - | Brothers from Different Root | [Link](https://www.geeksforgeeks.org/problems/brothers-from-different-root/1) | GfG | O(N1 + N2) | O(N1 + N2) |
 | 13 | - | Merge Two BSTs | [Link](https://www.geeksforgeeks.org/problems/merge-two-bst-s/1) | GfG | O(N + M) | O(N + M) |
 | 14 | - | Sum of K Smallest Elements in BST | [Link](https://www.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029/1) | GfG | O(N) | O(N) |
 | 15 | - | Delete Nodes Greater Than K | [Link](https://www.geeksforgeeks.org/problems/delete-nodes-greater-than-k/1) | GfG | O(N) | O(N) |

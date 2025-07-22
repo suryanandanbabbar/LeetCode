@@ -1,5 +1,6 @@
 package Binary_Search_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/brothers-from-different-root/1
+// GfG: Brothers from Different Root
+// Link: https://www.geeksforgeeks.org/problems/brothers-from-different-root/1
 
 // TC: O(N1 + N2)
 // SC: O(N1 + N2)

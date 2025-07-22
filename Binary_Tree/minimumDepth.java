@@ -2,6 +2,9 @@ package Binary_Tree;
 // LeetCode Problem: 111. Minimum Depth of Binary Tree
 // Link: https://leetcode.com/problems/minimum-depth-of-binary-tree/
 
+// TC: O(N)
+// SC: O(H) 
+
 public class minimumDepth {
     public int minDepth(TreeNode root) {
         if(root == null) return 0;

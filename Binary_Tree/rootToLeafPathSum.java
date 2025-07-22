@@ -1,8 +1,9 @@
 package Binary_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1
+// GfG: Root to Leaf Path Sum
+// Link: https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1
 
 // TC: O(N)
-// SC: O(H) H: Height of tree
+// SC: O(H) 
 
 public class rootToLeafPathSum {
 

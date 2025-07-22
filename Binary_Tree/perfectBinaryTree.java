@@ -1,5 +1,6 @@
 package Binary_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/perfect-binary-tree/1
+// GfG: Perfect Binary Tree
+// Link: https://www.geeksforgeeks.org/problems/perfect-binary-tree/1
 
 // TC: O(N)
 // SC: O(h)

@@ -1,5 +1,6 @@
 package Binary_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/children-sum-parent/1
+// GfG: Children Sum Parent
+// Link: https://www.geeksforgeeks.org/problems/children-sum-parent/1
 
 // TC: O(N)
 // SC: O(H)

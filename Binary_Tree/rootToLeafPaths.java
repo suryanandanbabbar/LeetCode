@@ -1,9 +1,9 @@
 package Binary_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1
+// GfG: Root to Leaf Paths
+// Link: https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1
 
 // TC: O(N * h)
 // SC: O(N * h) 
-// h: height of tree
 
 import java.util.ArrayList;
 
