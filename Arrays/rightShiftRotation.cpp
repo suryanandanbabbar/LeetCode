@@ -1,8 +1,8 @@
-/*
-Question: Given an integer array nums, 
-rotate the array to the right by k steps, 
-where k is non-negative.
-*/
+// LeetCode Problem: 189. Rotate Array
+// Link: https://leetcode.com/problems/rotate-array/
+
+// TC: O(n)
+// SC: O(1)
 
 #include <iostream>
 #include <vector>

@@ -1,3 +1,9 @@
+// LeetCode Problem: 69. Sqrt(x)
+// Link: https://leetcode.com/problems/sqrtx/
+
+// TC: O(log x)
+// SC: O(1)
+
 #include <iostream>
 using namespace std;
 

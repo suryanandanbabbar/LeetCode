@@ -1,6 +1,9 @@
 package Arrays;
 // GfG: https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
 
+// TC: O(n * sum)
+// SC: O(n * sum)
+
 public class subsetSum {
     static Boolean isSubsetSum(int arr[], int sum) {
         int n = arr.length;

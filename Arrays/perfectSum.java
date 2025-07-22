@@ -1,6 +1,9 @@
 package Arrays;
 // GfG: https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1
 
+// TC: O(n * target)
+// SC: O(target)
+
 public class perfectSum {
     public int perfect(int[] arr, int target) {
         int n=arr.length;

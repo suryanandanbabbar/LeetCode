@@ -1,3 +1,9 @@
+// LeetCode Problem: 1508. Range Sum of Sorted Subarray Sums
+// Link: https://leetcode.com/problems/range-sum-of-sorted-subarray-sums
+
+// TC: O(n^2 log n)
+// SC: O(n^2)
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

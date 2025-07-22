@@ -1,3 +1,9 @@
+// LeetCode Problem: 7. Reverse Integer
+// Link: https://leetcode.com/problems/reverse-integer/
+
+// TC: O(log n)
+// SC: O(1)
+
 #include <iostream>
 #include <climits>
 #include <limits>
