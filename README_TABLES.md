@@ -257,7 +257,8 @@ Below, click on any topic to view the list of solved problems with details.
 | 11 | 167. | Two Sum II - Input array is sorted | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | LeetCode | O(n) | O(1) |
 | 12 | 881. | Boats to Save People | [Link](https://leetcode.com/problems/boats-to-save-people/) | LeetCode | O(n log n) | O(1) |
 | 13 | 875. | Koko Eating Bananas | [Link](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | O(n log(max(piles))) | O(1) |
-| 14 | 1482. | Minimum Number of Days to Make m Bouquets | [Link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | LeetCode | O(n log(max(bloomDay))) | O(1) |
-| 15 | 1004. | Max Consecutive Ones III | [Link](https://leetcode.com/problems/max-consecutive-ones-iii/) | LeetCode | O(n) | O(1) |
+| 14 | 14. | Longest Common Prefix | [Link](https://leetcode.com/problems/longest-common-prefix/) | LeetCode | O(n * m) | O(1) |
+| 15 | 1482. | Minimum Number of Days to Make m Bouquets | [Link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | LeetCode | O(n log(max(bloomDay))) | O(1) |
+| 16 | 1004. | Max Consecutive Ones III | [Link](https://leetcode.com/problems/max-consecutive-ones-iii/) | LeetCode | O(n) | O(1) |
 
 </details>
