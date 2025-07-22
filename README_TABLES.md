@@ -8,7 +8,7 @@ Below, click on any topic to view the list of solved problems with details.
 | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|
 | Lucky Number in a Matrix | [Link](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | LeetCode | O(m * n) | O(m + n) |
-| Subsets II | [Link](https://leetcode.com/problems/subsets-ii/) | LeetCode |  |  |
+| Subsets II | [Link](https://leetcode.com/problems/subsets-ii/) | LeetCode | O(n^2 log n) | O(n^2) |
 | Broken Calculator | [Link](https://leetcode.com/problems/broken-calculator/) | LeetCode | O(log(target/startValue)) | O(1) |
 | Maximum Ice Cream Bars | [Link](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | LeetCode | O(n log n) | O(1) |
 | Non-overlapping Intervals | [Link](https://leetcode.com/problems/non-overlapping-intervals/) | LeetCode | O(n log n) | O(1) |
