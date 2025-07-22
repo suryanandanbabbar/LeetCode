@@ -52,15 +52,16 @@ def scan_topic(topic):
 def make_table(problems):
     if not problems:
         return "_No problems yet._"
-    header = "| Title | Link | Platform | Time | Space |\n|---|---|---|---|---|"
+    header = "| S.No | Title | Link | Platform | Time | Space |\n|---|---|---|---|---|---|"
     rows = []
-    for p in problems:
+    for idx, p in enumerate(problems, 1):
         title = p["title"]
         link = f"[Link]({p['link']})" if p["link"] else ""
         platform = p["platform"]
         time = p["time"]
         space = p["space"]
-        rows.append(f"| {title} | {link} | {platform} | {time} | {space} |")
+        rows.append(
+            f"| {idx} | {title} | {link} | {platform} | {time} | {space} |")
     return header + "\n" + "\n".join(rows)
 
 
