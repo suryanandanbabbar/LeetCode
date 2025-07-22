@@ -1,5 +1,6 @@
 package Graphs;
-// GfG: https://www.naukri.com/code360/problems/creating-and-printing_1214551
+// GfG: Creating and Printing Adjacency List
+// Link: https://www.naukri.com/code360/problems/creating-and-printing_1214551
 
 import java.util.ArrayList;
 

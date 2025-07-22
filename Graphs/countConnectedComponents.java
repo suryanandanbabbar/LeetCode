@@ -1,5 +1,6 @@
 package Graphs;
-// NeetCode: https://neetcode.io/problems/count-connected-components
+// NeetCode: Count Connected Components
+// Link: https://neetcode.io/problems/count-connected-components
 
 // TC: O(V + E) 
 // SC: O(V + E) 

@@ -1,5 +1,6 @@
 package Graphs;
-// GfG: https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1
+// GfG: Print Adjacency List
+// Link: https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1
 
 // TC: O(V + E) 
 // SC: O(V + E) 

@@ -1,5 +1,6 @@
 package Graphs;
-// GfG: https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
+// GfG: BFS Traversal of Graph
+// Link: https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
 
 // TC: O(V + E) 
 // SC: O(V + E) 
