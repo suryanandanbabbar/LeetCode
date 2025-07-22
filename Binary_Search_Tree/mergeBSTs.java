@@ -1,8 +1,9 @@
 package Binary_Search_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/merge-two-bst-s/1
+// GfG: Merge Two BSTs
+// Link: https://www.geeksforgeeks.org/problems/merge-two-bst-s/1
 
-// TC: O(N + M) where N and M are the number of nodes in the two BSTs
-// SC: O(N + M) for the result list
+// TC: O(N + M) 
+// SC: O(N + M) 
 
 import java.util.ArrayList;
 

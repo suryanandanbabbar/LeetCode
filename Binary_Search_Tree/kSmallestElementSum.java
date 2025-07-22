@@ -1,5 +1,6 @@
 package Binary_Search_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029/1
+// GfG: Sum of K Smallest Elements in BST
+// Link: https://www.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029/1
 
 // TC: O(N)
 // SC: O(N)

@@ -1,5 +1,6 @@
 package Binary_Search_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/median-of-bst/1
+// GfG: Median of BST
+// Link: https://www.geeksforgeeks.org/problems/median-of-bst/1
 
 // TC: O(N)
 // SC: O(N)

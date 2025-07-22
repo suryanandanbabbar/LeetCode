@@ -1,5 +1,6 @@
 package Binary_Search_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/predecessor-and-successor/1
+// GfG: Predecessor and Successor in BST
+// Link: https://www.geeksforgeeks.org/problems/predecessor-and-successor/1
 
 // TC: O(N)
 // SC: O(N)

@@ -21,9 +21,10 @@ TOPICS = [
 def extract_metadata(filepath):
     with open(filepath, encoding="utf-8") as f:
         content = f.read()
-    # Try LeetCode format first
+    # LeetCode format
     lc_match = re.search(r"LeetCode Problem:\s*([\d\.]+)\s*(.+)", content)
-    gfg_match = re.search(r"GfG:\s*(https?://[^\s]+)", content)
+    # GfG format: // GfG: Print Adjacency List
+    gfg_match = re.search(r"GfG:\s*([^\n]+)", content)
     link = re.search(r"Link:\s*(.+)", content)
     time = re.search(r"TC:\s*(.+)", content)
     space = re.search(r"SC:\s*(.+)", content)
@@ -41,8 +42,8 @@ def extract_metadata(filepath):
     elif gfg_match:
         return {
             "question_number": "-",
-            "title": "GfG Problem",  
-            "link": gfg_match.group(1).strip(),
+            "title": gfg_match.group(1).strip(),
+            "link": link.group(1).strip() if link else "",
             "platform": "GfG",
             "time": time.group(1).strip() if time else "",
             "space": space.group(1).strip() if space else "",

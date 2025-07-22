@@ -1,5 +1,6 @@
 package Arrays;
-// GfG: https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
+// GfG: Subset Sum Problem
+// Link: https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
 
 // TC: O(n * sum)
 // SC: O(n * sum)

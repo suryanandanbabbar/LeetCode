@@ -1,5 +1,6 @@
 package Arrays;
-// GfG: https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1
+// GfG: Perfect Sum Problem
+// Link: https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1
 
 // TC: O(n * target)
 // SC: O(target)

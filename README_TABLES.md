@@ -27,9 +27,9 @@ Below, click on any topic to view the list of solved problems with details.
 | 18 | 1846. | Maximum Element After Decrementing And Rearranging | [Link](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | LeetCode | O(n log n) | O(1) |
 | 19 | 1346. | Check If N and Its Double Exist | [Link](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | LeetCode | O(n^2) | O(1) |
 | 20 | 9. | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number/) | LeetCode | O(log n) | O(1) |
-| 21 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GfG | O(n * target) | O(target) |
+| 21 | - | https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1 |  | GfG | O(n * target) | O(target) |
 | 22 | 39. | Combination Sum | [Link](https://leetcode.com/problems/combination-sum/) | LeetCode | O(2^n) | O(k) |
-| 23 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GfG | O(n * sum) | O(n * sum) |
+| 23 | - | https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1 |  | GfG | O(n * sum) | O(n * sum) |
 | 24 | 7. | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | LeetCode | O(log n) | O(1) |
 | 25 | 69. | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | LeetCode | O(log x) | O(1) |
 | 26 | 169. | Majority Element | [Link](https://leetcode.com/problems/majority-element/) | LeetCode | O(n) | O(1) |
@@ -42,27 +42,27 @@ Below, click on any topic to view the list of solved problems with details.
 
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/perfect-binary-tree/1) | GfG | O(N) | O(h) |
-| 2 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | GfG | O(N) | O(H) |
-| 3 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/largest-value-in-each-level/1) | GfG |  |  |
+| 1 | - | https://www.geeksforgeeks.org/problems/perfect-binary-tree/1 |  | GfG | O(N) | O(h) |
+| 2 | - | https://www.geeksforgeeks.org/problems/children-sum-parent/1 |  | GfG | O(N) | O(H) |
+| 3 | - | https://www.geeksforgeeks.org/problems/largest-value-in-each-level/1 |  | GfG |  |  |
 | 4 | 872. | Leaf-Similar Trees | [Link](https://leetcode.com/problems/leaf-similar-trees/) | LeetCode |  |  |
 | 5 | 110. | Balanced Binary Tree | [Link](https://leetcode.com/problems/balanced-binary-tree/) | LeetCode | O(N) | O(h) |
-| 6 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/maximum-node-level/1) | GfG | O(n) | O(n) |
-| 7 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1) | GfG | O(N * h) | O(N * h) |
+| 6 | - | https://www.geeksforgeeks.org/problems/maximum-node-level/1 |  | GfG | O(n) | O(n) |
+| 7 | - | https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1 |  | GfG | O(N * h) | O(N * h) |
 | 8 | 100. | Same Tree | [Link](https://leetcode.com/problems/same-tree/) | LeetCode | O(N) | O(N) |
-| 9 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/nodes-at-odd-levels/1) | GfG |  |  |
-| 10 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | GfG | O(N log N) | O(N) |
+| 9 | - | https://www.geeksforgeeks.org/problems/nodes-at-odd-levels/1 |  | GfG |  |  |
+| 10 | - | https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1 |  | GfG | O(N log N) | O(N) |
 | 11 | 236. | Lowest Common Ancestor of a Binary Tree | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | LeetCode | O(N) | O(H) |
-| 12 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1) | GfG | O(N) | O(H) H: Height of tree |
+| 12 | - | https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1 |  | GfG | O(N) | O(H) H: Height of tree |
 | 13 | 101. | Symmetric Tree | [Link](https://leetcode.com/problems/symmetric-tree/) | LeetCode | O(N) | O(N) |
 | 14 | 117. | Populating Next Right Pointers in Each Node II | [Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | LeetCode | O(N) | O(1) for the next pointers, O(N) for the queue |
-| 15 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/find-the-distance-between-two-nodes4402/1) | GfG | O(log(max(x, y))) | O(1) |
+| 15 | - | https://www.geeksforgeeks.org/problems/find-the-distance-between-two-nodes4402/1 |  | GfG | O(log(max(x, y))) | O(1) |
 | 16 | 199. | Binary Tree Right Side View | [Link](https://leetcode.com/problems/binary-tree-right-side-view/description/) | LeetCode | O(N) | O(H) |
-| 17 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | GfG | O(N) | O(N) |
+| 17 | - | https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1 |  | GfG | O(N) | O(N) |
 | 18 | 226. | Binary Tree | [Link](https://leetcode.com/problems/invert-binary-tree/description/) | LeetCode | O(N) | O(H) |
 | 19 | 111. | Minimum Depth of Binary Tree | [Link](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | LeetCode |  |  |
 | 20 | 112. | Path Sum | [Link](https://leetcode.com/problems/path-sum/submissions/1699844158/) | LeetCode | O(N) | O(N) |
-| 21 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | GfG | O(N log N) | O(N) |
+| 21 | - | https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1 |  | GfG | O(N log N) | O(N) |
 | 22 | 543. | Diameter of Binary Tree | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode |  |  |
 
 </details>
@@ -72,30 +72,30 @@ Below, click on any topic to view the list of solved problems with details.
 
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | - | GfG Problem | [Link](https://practice.geeksforgeeks.org/problems/print-bst-elements-in-given-range/1) | GfG | O(N) | O(N) |
-| 2 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/largest-bst/1) | GfG | O(N) | O(N) |
+| 1 | - | https://practice.geeksforgeeks.org/problems/print-bst-elements-in-given-range/1 |  | GfG | O(N) | O(N) |
+| 2 | - | https://www.geeksforgeeks.org/problems/largest-bst/1 |  | GfG | O(N) | O(N) |
 | 3 | 450. | Delete Node in BST | [Link](https://leetcode.com/problems/delete-node-in-a-bst/submissions/1701090443/) | LeetCode | O(H) | O(H) |
 | 4 | 701. | Insert into Binary Search Tree | [Link](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | LeetCode | O(n) worst-case | O(n) worst-case |
 | 5 | 95. | Unique Binary Search Trees II | [Link](https://leetcode.com/problems/unique-binary-search-trees-ii/description) | LeetCode | O(4^n / n^(3/2)) | O(n) |
 | 6 | 230. | Kth Smallest Element in a BST | [Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description) | LeetCode | O(H + k) | O(H) |
 | 7 | 108. | Convert Sorted Array to Binary Search Tree | [Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | LeetCode | O(N) | O(N) |
-| 8 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | GfG | O(H) | O(1) |
+| 8 | - | https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1 |  | GfG | O(H) | O(1) |
 | 9 | 99. | Recover Binary Search Tree | [Link](https://leetcode.com/problems/recover-binary-search-tree/description/) | LeetCode | O(N) | O(H) where H is the height of the tree |
-| 10 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/floor-in-bst/1) | GfG | O(h) |  |
-| 11 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1) | GfG | O(N) | O(N) |
-| 12 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/brothers-from-different-root/1) | GfG | O(N1 + N2) | O(N1 + N2) |
-| 13 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/merge-two-bst-s/1) | GfG | O(N + M) where N and M are the number of nodes in the two BSTs | O(N + M) for the result list |
-| 14 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029/1) | GfG | O(N) | O(N) |
-| 15 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/delete-nodes-greater-than-k/1) | GfG | O(N) | O(N) for the recursion stack |
+| 10 | - | https://www.geeksforgeeks.org/problems/floor-in-bst/1 |  | GfG | O(h) |  |
+| 11 | - | https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1 |  | GfG | O(N) | O(N) |
+| 12 | - | https://www.geeksforgeeks.org/problems/brothers-from-different-root/1 |  | GfG | O(N1 + N2) | O(N1 + N2) |
+| 13 | - | https://www.geeksforgeeks.org/problems/merge-two-bst-s/1 |  | GfG | O(N + M) where N and M are the number of nodes in the two BSTs | O(N + M) for the result list |
+| 14 | - | https://www.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029/1 |  | GfG | O(N) | O(N) |
+| 15 | - | https://www.geeksforgeeks.org/problems/delete-nodes-greater-than-k/1 |  | GfG | O(N) | O(N) for the recursion stack |
 | 16 | 700. | Search in a Binary Search Tree | [Link](https://leetcode.com/problems/search-in-a-binary-search-tree/) | LeetCode | O(H) | O(H) |
 | 17 | 98. | Validate Binary Search Tree | [Link](https://leetcode.com/problems/validate-binary-search-tree/description/) | LeetCode | O(H) |  |
 | 18 | 109. | Convert Sorted List to Binary Search Tree | [Link](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | LeetCode | O(N) | O(log N) for the recursion stack |
-| 19 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1) | GfG | O(N1 + N2) | O(N1 + N2) |
+| 19 | - | https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1 |  | GfG | O(N1 + N2) | O(N1 + N2) |
 | 20 | 653. | Two Sum IV - Input is a BST | [Link](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | LeetCode | O(N) | O(N) |
-| 21 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | GfG | O(h) | O(1) |
+| 21 | - | https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1 |  | GfG | O(h) | O(1) |
 | 22 | 1382. | Balance a Binary Search Tree | [Link](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | LeetCode | O(N) | O(N) |
-| 23 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | GfG | O(N) | O(N) |
-| 24 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/median-of-bst/1) | GfG | O(N) | O(N) |
+| 23 | - | https://www.geeksforgeeks.org/problems/predecessor-and-successor/1 |  | GfG | O(N) | O(N) |
+| 24 | - | https://www.geeksforgeeks.org/problems/median-of-bst/1 |  | GfG | O(N) | O(N) |
 
 </details>
 
@@ -104,10 +104,10 @@ Below, click on any topic to view the list of solved problems with details.
 
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | GfG | O(V + E) | O(V + E) |
-| 2 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GfG | O(V + E) | O(V + E) |
-| 3 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GfG | O(V + E) | O(V) |
-| 4 | - | GfG Problem | [Link](https://www.naukri.com/code360/problems/creating-and-printing_1214551) | GfG | O(V + E) | O(V + E) |
+| 1 | - | Print Adjacency List | [Link](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | GfG | O(V + E) | O(V + E) |
+| 2 | - | BFS Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GfG | O(V + E) | O(V + E) |
+| 3 | - | Depth First Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GfG | O(V + E) | O(V) |
+| 4 | - | Creating and Printing Adjacency List | [Link](https://www.naukri.com/code360/problems/creating-and-printing_1214551) | GfG | O(V + E) | O(V + E) |
 
 </details>
 
@@ -125,14 +125,14 @@ _No problems yet._
 |---|---|---|---|---|---|---|
 | 1 | 1046. | Last Stone Weight | [Link](https://leetcode.com/problems/last-stone-weight/description/) | LeetCode | O(N log N) | O(N) for the priority queue |
 | 2 | 347. | Top K Frequent Elements | [Link](https://leetcode.com/problems/top-k-frequent-elements/description/) | LeetCode | O(N log K) | O(K) for the priority queue |
-| 3 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1) | GfG | O(N long N) | O(N) for the priority queue |
-| 4 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | GfG | O(N log K) | O(N) for the priority queue |
-| 5 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1) | GfG | O((N + M) log(N + M)) | O(N + M) for the priority queue |
-| 6 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | GfG | O(N) | O(1) |
-| 7 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | GfG | O(N log N) | O(N) for the priority queue |
-| 8 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | GfG | O(N log K) | O(K) for the priority queue |
+| 3 | - | https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1 |  | GfG | O(N long N) | O(N) for the priority queue |
+| 4 | - | https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1 |  | GfG | O(N log K) | O(N) for the priority queue |
+| 5 | - | https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1 |  | GfG | O((N + M) log(N + M)) | O(N + M) for the priority queue |
+| 6 | - | https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1 |  | GfG | O(N) | O(1) |
+| 7 | - | https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1 |  | GfG | O(N log N) | O(N) for the priority queue |
+| 8 | - | https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1 |  | GfG | O(N log K) | O(K) for the priority queue |
 | 9 | 2558. | Take Gifts From the Richest Pile | [Link](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | LeetCode | O(k log N) where N is the number of gifts | O(N) for the priority queue |
-| 10 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/height-of-heap5025/1) | GfG | O(log N) | O(1) |
+| 10 | - | https://www.geeksforgeeks.org/problems/height-of-heap5025/1 |  | GfG | O(log N) | O(1) |
 
 </details>
 
@@ -180,19 +180,19 @@ _No problems yet._
 
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/bit-manipulation-1666686020/1) | GfG | O(1) | O(1) |
-| 2 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | GfG | O(1) | O(1) |
+| 1 | - | https://www.geeksforgeeks.org/problems/bit-manipulation-1666686020/1 |  | GfG | O(1) | O(1) |
+| 2 | - | https://www.geeksforgeeks.org/problems/odd-or-even3618/1 |  | GfG | O(1) | O(1) |
 | 3 | 231. | Power of Two | [Link](https://leetcode.com/problems/power-of-two/) | LeetCode | O(1) | O(1) |
-| 4 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1) | GfG | O(log(max(m, n))) | O(1) |
+| 4 | - | https://www.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1 |  | GfG | O(log(max(m, n))) | O(1) |
 | 5 | 485. | Max Consecutive Ones | [Link](https://leetcode.com/problems/max-consecutive-ones/) | LeetCode |  |  |
 | 6 | 338. | Counting Bits | [Link](https://leetcode.com/problems/counting-bits/) | LeetCode | O(n) | O(n) |
-| 7 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | GfG | O(1) | O(1) |
-| 8 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GfG | O(1) | O(1) |
+| 7 | - | https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1 |  | GfG | O(1) | O(1) |
+| 8 | - | https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1 |  | GfG | O(1) | O(1) |
 | 9 | 2220. | Minimum Bit Flips to Convert Number | [Link](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | LeetCode |  |  |
-| 10 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1) | GfG | O(log n) | O(1) |
-| 11 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/check-kth-bit-set-not/) | GfG | O(1) | O(1) |
-| 12 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | GfG | O(1) | O(1) |
-| 13 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1) | GfG | O(n) | O(n) |
+| 10 | - | https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1 |  | GfG | O(log n) | O(1) |
+| 11 | - | https://www.geeksforgeeks.org/check-kth-bit-set-not/ |  | GfG | O(1) | O(1) |
+| 12 | - | https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1 |  | GfG | O(1) | O(1) |
+| 13 | - | https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1 |  | GfG | O(n) | O(n) |
 | 14 | 136. | Single Number | [Link](https://leetcode.com/problems/single-number/) | LeetCode | O(n) | O(1) |
 | 15 | 67. | Add Binary | [Link](https://leetcode.com/problems/add-binary/) | LeetCode |  |  |
 | 16 | 191. | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) | LeetCode | O(log n) | O(1) |

@@ -3,9 +3,7 @@ package Binary_Search_Tree;
 // Link: https://leetcode.com/problems/insert-into-a-binary-search-tree/
 
 // TC: O(n) worst-case
-// For average case, O(log n)
 // SC: O(n) worst-case
-// For average case, O(log n)
 
 public class insertion {
     public TreeNode insertIntoBST(TreeNode root, int val) {

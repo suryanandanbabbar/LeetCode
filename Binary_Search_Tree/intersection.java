@@ -1,5 +1,6 @@
 package Binary_Search_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1
+// GfG: Print Common Nodes in BST
+// Link: https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1
 
 // TC: O(N1 + N2)
 // SC: O(N1 + N2)

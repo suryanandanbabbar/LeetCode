@@ -2,10 +2,11 @@ package Binary_Search_Tree;
 // LeetCode Problem: 98. Validate Binary Search Tree
 // Link: https://leetcode.com/problems/validate-binary-search-tree/description/
 
+// TC: O(H)
+// SC: O(H)
+
 import java.util.ArrayList;
 
-// TC: O(H)
-// TC: O(H)
 
 public class isValidBST {
     public boolean isBST(TreeNode root) {

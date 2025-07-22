@@ -3,7 +3,7 @@ package Binary_Search_Tree;
 // Link: https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
 
 // TC: O(N)
-// SC: O(log N) for the recursion stack
+// SC: O(log N)
 
 public class linkedListToBST {
     public TreeNode sortedListToBST(ListNode head) {

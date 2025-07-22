@@ -1,8 +1,9 @@
 package Binary_Search_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/delete-nodes-greater-than-k/1
+// GfG: Delete Nodes Greater Than K
+// Link: https://www.geeksforgeeks.org/problems/delete-nodes-greater-than-k/1
 
 // TC: O(N)
-// SC: O(N) for the recursion stack
+// SC: O(N) 
 
 public class deleteNodeGreaterThanK {
     public Node deleteNode(Node root, int k) {

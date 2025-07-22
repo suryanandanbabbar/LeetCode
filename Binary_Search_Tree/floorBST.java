@@ -1,5 +1,6 @@
 package Binary_Search_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/floor-in-bst/1
+// GfG: Floor in BST
+// Link: https://www.geeksforgeeks.org/problems/floor-in-bst/1
 
 // TC: O(h)
 // TC: O(1)

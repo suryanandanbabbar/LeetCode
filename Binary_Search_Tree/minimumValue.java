@@ -1,5 +1,6 @@
 package Binary_Search_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1
+// GfG: Minimum Element in BST
+// Link: https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1
 
 // TC: O(H)
 // SC: O(1)

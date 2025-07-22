@@ -1,5 +1,6 @@
 package Binary_Search_Tree;
-// GfG: https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1
+// GfG: Check Whether BST Contains Dead End
+// Link: https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1
 
 // TC: O(N)
 // SC: O(N)
