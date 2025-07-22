@@ -1,5 +1,6 @@
 package Heaps;
-// GfG: https://www.geeksforgeeks.org/problems/height-of-heap5025/1
+// GfG: Height of Heap
+// Link: https://www.geeksforgeeks.org/problems/height-of-heap5025/1
 
 // TC: O(log N)
 // SC: O(1)

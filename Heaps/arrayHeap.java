@@ -1,5 +1,6 @@
 package Heaps;
-// GfG: https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1
+// GfG: Does Array Represent Heap?
+// Link: https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1
 
 // TC: O(N)
 // SC: O(1)

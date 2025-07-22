@@ -1,8 +1,9 @@
 package Heaps;
-// GfG: https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1
+// GfG: Kth Smallest Element
+// Link: https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1
 
 // TC: O(N log K)
-// SC: O(K) for the priority queue
+// SC: O(K) 
 
 import java.util.PriorityQueue;
 import java.util.Collections;

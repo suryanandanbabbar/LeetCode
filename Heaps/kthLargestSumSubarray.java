@@ -1,10 +1,11 @@
 package Heaps;
-// Code360: https://www.naukri.com/code360/problems/k-th-largest-sum-contiguous-subarray_920398
-
-import java.util.PriorityQueue;
+// Code360: K-th Largest Sum Contiguous Subarray
+// Link: https://www.naukri.com/code360/problems/k-th-largest-sum-contiguous-subarray_920398
 
 // TC: O(N^2 log K)
-// SC: O(K) for the priority queue
+// SC: O(K) 
+
+import java.util.PriorityQueue;
 
 public class kthLargestSumSubarray {
     public int kthLargestSum(int[] nums, int k) {

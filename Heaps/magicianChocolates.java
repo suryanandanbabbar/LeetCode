@@ -1,8 +1,9 @@
 package Heaps;
-// Code360: https://www.naukri.com/code360/problems/magician-and-chocolates_920437
+// Code360: Magician and Chocolates
+// Link: https://www.naukri.com/code360/problems/magician-and-chocolates_920437
 
 // TC: O(N log N)
-// SC: O(N) for the priority queue
+// SC: O(N) 
 
 import java.util.Collections;
 import java.util.PriorityQueue;

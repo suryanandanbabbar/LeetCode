@@ -1,9 +1,9 @@
 package Heaps;
-// leetCode Problem: 215. Kth Largest Element in an Array
+// LeetCode Problem: 215. Kth Largest Element in an Array
 // Link: https://leetcode.com/problems/kth-largest-element-in-an-array/description/
 
 // TC: O(N log K)
-// SC: O(K) for the priority queue
+// SC: O(K)
 
 import java.util.PriorityQueue;
 

@@ -1,8 +1,9 @@
 package Heaps;
-// GfG: https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
+// GfG: Minimum Cost of Ropes
+// Link: https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
 
 // TC: O(N log N)
-// SC: O(N) for the priority queue
+// SC: O(N) 
 
 import java.util.PriorityQueue;
 

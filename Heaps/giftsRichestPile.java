@@ -2,8 +2,8 @@ package Heaps;
 // LeetCode Problem: 2558. Take Gifts From the Richest Pile
 // Link: https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 
-// TC: O(k log N) where N is the number of gifts
-// SC: O(N) for the priority queue
+// TC: O(k log N) 
+// SC: O(N) 
 
 import java.util.Collections;
 import java.util.PriorityQueue;

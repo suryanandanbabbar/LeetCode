@@ -3,7 +3,7 @@ package Heaps;
 // Link: https://leetcode.com/problems/last-stone-weight/description/
 
 // TC: O(N log N)
-// SC: O(N) for the priority queue
+// SC: O(N) 
 
 import java.util.PriorityQueue;
 

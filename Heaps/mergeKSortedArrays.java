@@ -1,8 +1,9 @@
 package Heaps;
-// GfG: https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1
+// GfG: Merge K Sorted Arrays
+// Link: https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1
 
 // TC: O(N log K)
-// SC: O(N) for the priority queue
+// SC: O(N)
 
 import java.util.*;
 

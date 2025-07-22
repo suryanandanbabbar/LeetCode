@@ -1,8 +1,9 @@
 package Heaps;
-// GfG: https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1
+// GfG: Merge Two Binary Max Heaps
+// Link: https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1
 
 // TC: O((N + M) log(N + M))
-// SC: O(N + M) for the priority queue
+// SC: O(N + M) 
 
 import java.util.Collections;
 import java.util.PriorityQueue;

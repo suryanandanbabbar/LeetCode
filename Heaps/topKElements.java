@@ -2,12 +2,12 @@ package Heaps;
 // LeetCode Problem: 347. Top K Frequent Elements
 // Link: https://leetcode.com/problems/top-k-frequent-elements/description/
 
+// TC: O(N log K)
+// SC: O(K)
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.PriorityQueue;
-
-// TC: O(N log K)
-// SC: O(K) for the priority queue
 
 public class topKElements {
     public int[] topKFrequent(int[] nums, int k) {
