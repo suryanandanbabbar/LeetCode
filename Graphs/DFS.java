@@ -1,8 +1,8 @@
 package Graphs;
 // GfG: https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1
 
-// TC: O(V + E) where V is the number of vertices and E is the number of edges
-// SC: O(V) for the visited array and result list
+// TC: O(V + E) 
+// SC: O(V) 
 
 import java.util.ArrayList;
 

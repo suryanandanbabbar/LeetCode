@@ -3,8 +3,8 @@ package Graphs;
 
 import java.util.ArrayList;
 
-// TC: O(V + E) where V is the number of vertices and E is the number of edges
-// SC: O(V + E) for the adjacency list
+// TC: O(V + E) 
+// SC: O(V + E) 
 
 public class creatingAndPrinting {
     public static int[][] printAdjacency(int n, int m, int[][] edges) {

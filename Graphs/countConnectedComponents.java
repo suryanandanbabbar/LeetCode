@@ -1,8 +1,8 @@
 package Graphs;
 // NeetCode: https://neetcode.io/problems/count-connected-components
 
-// TC: O(V + E) where V is the number of vertices and E is the number of edges
-// SC: O(V + E) for the adjacency list and visited array
+// TC: O(V + E) 
+// SC: O(V + E) 
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,8 +1,8 @@
 package Graphs;
 // GfG: https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
 
-// TC: O(V + E) where V is the number of vertices and E is the number of edges
-// SC: O(V + E) for the visited array and queue
+// TC: O(V + E) 
+// SC: O(V + E) 
 
 import java.util.ArrayList;
 import java.util.LinkedList;
