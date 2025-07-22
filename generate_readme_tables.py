@@ -21,20 +21,43 @@ TOPICS = [
 def extract_metadata(filepath):
     with open(filepath, encoding="utf-8") as f:
         content = f.read()
-    # Regex for metadata
-    title_match = re.search(r"LeetCode Problem:\s*([\d\.]+)\s*(.+)", content)
+    # Try LeetCode format first
+    lc_match = re.search(r"LeetCode Problem:\s*([\d\.]+)\s*(.+)", content)
+    gfg_match = re.search(r"GfG:\s*(https?://[^\s]+)", content)
     link = re.search(r"Link:\s*(.+)", content)
     time = re.search(r"TC:\s*(.+)", content)
     space = re.search(r"SC:\s*(.+)", content)
-    return {
-        "question_number": title_match.group(1).strip() if title_match else "",
-        "title": title_match.group(2).strip() if title_match else "",
-        "link": link.group(1).strip() if link else "",
-        "platform": "LeetCode" if title_match else "",
-        "time": time.group(1).strip() if time else "",
-        "space": space.group(1).strip() if space else "",
-        "file": os.path.basename(filepath)
-    }
+
+    if lc_match:
+        return {
+            "question_number": lc_match.group(1).strip(),
+            "title": lc_match.group(2).strip(),
+            "link": link.group(1).strip() if link else "",
+            "platform": "LeetCode",
+            "time": time.group(1).strip() if time else "",
+            "space": space.group(1).strip() if space else "",
+            "file": os.path.basename(filepath)
+        }
+    elif gfg_match:
+        return {
+            "question_number": "-",
+            "title": "GfG Problem",  
+            "link": gfg_match.group(1).strip(),
+            "platform": "GfG",
+            "time": time.group(1).strip() if time else "",
+            "space": space.group(1).strip() if space else "",
+            "file": os.path.basename(filepath)
+        }
+    else:
+        return {
+            "question_number": "",
+            "title": "",
+            "link": "",
+            "platform": "",
+            "time": "",
+            "space": "",
+            "file": os.path.basename(filepath)
+        }
 
 
 def scan_topic(topic):

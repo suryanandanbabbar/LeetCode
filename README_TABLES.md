@@ -27,10 +27,12 @@ Below, click on any topic to view the list of solved problems with details.
 | 18 | 1846. | Maximum Element After Decrementing And Rearranging | [Link](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | LeetCode | O(n log n) | O(1) |
 | 19 | 1346. | Check If N and Its Double Exist | [Link](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | LeetCode | O(n^2) | O(1) |
 | 20 | 9. | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number/) | LeetCode | O(log n) | O(1) |
-| 21 | 39. | Combination Sum | [Link](https://leetcode.com/problems/combination-sum/) | LeetCode | O(2^n) | O(k) |
-| 22 | 7. | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | LeetCode | O(log n) | O(1) |
-| 23 | 69. | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | LeetCode | O(log x) | O(1) |
-| 24 | 169. | Majority Element | [Link](https://leetcode.com/problems/majority-element/) | LeetCode | O(n) | O(1) |
+| 21 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GfG | O(n * target) | O(target) |
+| 22 | 39. | Combination Sum | [Link](https://leetcode.com/problems/combination-sum/) | LeetCode | O(2^n) | O(k) |
+| 23 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GfG | O(n * sum) | O(n * sum) |
+| 24 | 7. | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | LeetCode | O(log n) | O(1) |
+| 25 | 69. | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | LeetCode | O(log x) | O(1) |
+| 26 | 169. | Majority Element | [Link](https://leetcode.com/problems/majority-element/) | LeetCode | O(n) | O(1) |
 
 </details>
 
@@ -51,7 +53,12 @@ _No problems yet._
 <details>
 <summary><strong>Graphs</strong></summary>
 
-_No problems yet._
+| S.No | QuestionNumber | Title | Link | Platform | Time | Space |
+|---|---|---|---|---|---|---|
+| 1 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | GfG | O(V + E) where V is the number of vertices and E is the number of edges | O(V + E) for the adjacency list |
+| 2 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GfG | O(V + E) where V is the number of vertices and E is the number of edges | O(V + E) for the visited array and queue |
+| 3 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GfG | O(V + E) where V is the number of vertices and E is the number of edges | O(V) for the visited array and result list |
+| 4 | - | GfG Problem | [Link](https://www.naukri.com/code360/problems/creating-and-printing_1214551) | GfG | O(V + E) where V is the number of vertices and E is the number of edges | O(V + E) for the adjacency list |
 
 </details>
 
@@ -69,7 +76,14 @@ _No problems yet._
 |---|---|---|---|---|---|---|
 | 1 | 1046. | Last Stone Weight | [Link](https://leetcode.com/problems/last-stone-weight/description/) | LeetCode | O(N log N) | O(N) for the priority queue |
 | 2 | 347. | Top K Frequent Elements | [Link](https://leetcode.com/problems/top-k-frequent-elements/description/) | LeetCode | O(N log K) | O(K) for the priority queue |
-| 3 | 2558. | Take Gifts From the Richest Pile | [Link](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | LeetCode | O(k log N) where N is the number of gifts | O(N) for the priority queue |
+| 3 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1) | GfG | O(N long N) | O(N) for the priority queue |
+| 4 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | GfG | O(N log K) | O(N) for the priority queue |
+| 5 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1) | GfG | O((N + M) log(N + M)) | O(N + M) for the priority queue |
+| 6 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | GfG | O(N) | O(1) |
+| 7 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | GfG | O(N log N) | O(N) for the priority queue |
+| 8 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | GfG | O(N log K) | O(K) for the priority queue |
+| 9 | 2558. | Take Gifts From the Richest Pile | [Link](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | LeetCode | O(k log N) where N is the number of gifts | O(N) for the priority queue |
+| 10 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/height-of-heap5025/1) | GfG | O(log N) | O(1) |
 
 </details>
 
@@ -117,13 +131,22 @@ _No problems yet._
 
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | 231. | Power of Two | [Link](https://leetcode.com/problems/power-of-two/) | LeetCode | O(1) | O(1) |
-| 2 | 485. | Max Consecutive Ones | [Link](https://leetcode.com/problems/max-consecutive-ones/) | LeetCode |  |  |
-| 3 | 338. | Counting Bits | [Link](https://leetcode.com/problems/counting-bits/) | LeetCode | O(n) | O(n) |
-| 4 | 2220. | Minimum Bit Flips to Convert Number | [Link](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | LeetCode |  |  |
-| 5 | 136. | Single Number | [Link](https://leetcode.com/problems/single-number/) | LeetCode | O(n) | O(1) |
-| 6 | 67. | Add Binary | [Link](https://leetcode.com/problems/add-binary/) | LeetCode |  |  |
-| 7 | 191. | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) | LeetCode | O(log n) | O(1) |
+| 1 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/bit-manipulation-1666686020/1) | GfG | O(1) | O(1) |
+| 2 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | GfG | O(1) | O(1) |
+| 3 | 231. | Power of Two | [Link](https://leetcode.com/problems/power-of-two/) | LeetCode | O(1) | O(1) |
+| 4 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1) | GfG | O(log(max(m, n))) | O(1) |
+| 5 | 485. | Max Consecutive Ones | [Link](https://leetcode.com/problems/max-consecutive-ones/) | LeetCode |  |  |
+| 6 | 338. | Counting Bits | [Link](https://leetcode.com/problems/counting-bits/) | LeetCode | O(n) | O(n) |
+| 7 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | GfG | O(1) | O(1) |
+| 8 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GfG | O(1) | O(1) |
+| 9 | 2220. | Minimum Bit Flips to Convert Number | [Link](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | LeetCode |  |  |
+| 10 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1) | GfG | O(log n) | O(1) |
+| 11 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/check-kth-bit-set-not/) | GfG | O(1) | O(1) |
+| 12 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | GfG | O(1) | O(1) |
+| 13 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1) | GfG | O(n) | O(n) |
+| 14 | 136. | Single Number | [Link](https://leetcode.com/problems/single-number/) | LeetCode | O(n) | O(1) |
+| 15 | 67. | Add Binary | [Link](https://leetcode.com/problems/add-binary/) | LeetCode |  |  |
+| 16 | 191. | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) | LeetCode | O(log n) | O(1) |
 
 </details>
 
