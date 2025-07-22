@@ -2,6 +2,9 @@ package Two_Pointers;
 // LeetCode Problem: 125. Valid Palindrome
 // Link: https://leetcode.com/problems/valid-palindrome/
 
+// TC: O(n)
+// SC: O(1)
+
 class validPalindrome {
     public boolean isPalindrome(String s) {
         // s = s.toLowerCase();

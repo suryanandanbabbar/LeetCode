@@ -1,5 +1,6 @@
 package Stack;
-// GfG: https://www.geeksforgeeks.org/problems/smallest-number-on-left3403
+// GfG: Smallest Number on Left
+// Link: https://www.geeksforgeeks.org/problems/smallest-number-on-left3403
 
 // TC: O(n)
 // SC: O(n)

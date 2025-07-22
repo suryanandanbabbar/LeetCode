@@ -3,7 +3,7 @@ package Heaps;
 // Link: https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1
 
 // TC: O(N long N)
-// SC: O(N) for the priority queue
+// SC: O(N)
 
 import java.util.PriorityQueue;
 

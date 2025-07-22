@@ -2,6 +2,9 @@ package Stack;
 // LeetCode Problem: 921. Minimum Add to Make Parentheses Valid
 // Link: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 
+// TC: O(n)
+// SC: O(n)
+
 import java.util.*;
 
 class minAddtoValidParentheses {

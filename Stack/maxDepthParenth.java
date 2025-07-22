@@ -2,6 +2,9 @@ package Stack;
 // LeetCode Problem 1614: Maximum Nesting Depth of the Parentheses
 // Link: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 
+// TC: O(n)
+// SC: O(1)
+
 class maxDepthParenth {
     public int maxDepth(String s) {
         // Stack<Integer> stack = new Stack<>();

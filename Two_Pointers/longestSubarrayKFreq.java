@@ -2,6 +2,9 @@ package Two_Pointers;
 // LeetCode Problem: 2958. Length of Longest Subarray with at most K Frequency
 // Link: https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency
 
+// TC: O(n)
+// SC: O(n)
+
 import java.util.HashMap;
 
 class longestSubarrayKFreq {

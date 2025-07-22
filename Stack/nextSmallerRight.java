@@ -1,5 +1,6 @@
 package Stack;
-// Code360: https://www.naukri.com/code360/problems/next-greater-element_1112581
+// Code360: Next Greater Element 
+// Link: https://www.naukri.com/code360/problems/next-greater-element_1112581
 
 // TC: O(n)
 // SC: O(n)

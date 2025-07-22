@@ -1,6 +1,9 @@
 package Strings;
-// LeetCode Problem: 205: Isomorphic Strings
+// LeetCode Problem: 205. Isomorphic Strings
 // Link: https://leetcode.com/problems/isomorphic-strings/
+
+// TC: O(n)
+// SC: O(1)
 
 class isomorphicStrings {
     public boolean isIsomorphic(String s, String t) {

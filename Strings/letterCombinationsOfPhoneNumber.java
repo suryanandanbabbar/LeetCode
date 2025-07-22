@@ -2,6 +2,9 @@ package Strings;
 // LeetCode Problem: 17. Letter Combinations of Phone Number
 // Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
+// TC: O(3^n) 
+// SC: O(3^n) 
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

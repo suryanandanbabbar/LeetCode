@@ -1,6 +1,10 @@
 package Queues;
-// LeetCode Problem : 2014. Longest Substring With K Repeating Characters
+// LeetCode Problem: 2014. Longest Substring With K Repeating Characters
 // Link: https://leetcode.com/problems/longest-substring-with-k-repeating-characters
+
+// TC: O(n * k)
+// SC: O(n)
+
 import java.util.LinkedList;
 import java.util.Queue;
 

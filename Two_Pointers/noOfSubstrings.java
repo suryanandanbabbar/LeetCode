@@ -2,6 +2,9 @@ package Two_Pointers;
 // LeetCode Problem: 1358: Number of Substrings Containing All Three Characters
 // Link: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 
+// TC: O(n)
+// SC: O(1)
+
 public class noOfSubstrings {
     public int numberOfSubstrings(String s) {
         int n = s.length();

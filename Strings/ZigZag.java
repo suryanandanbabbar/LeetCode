@@ -1,16 +1,9 @@
 package Strings;
-/* 
-6: ZigZag Conversion
+// LeetCode Problem: 6. ZigZag Conversion
+// Link: https://leetcode.com/problems/zigzag-conversion/description/
 
-The string "PAYPALISHIRING" is written in a zigzag pattern 
-on a given number of rows like this: 
-
-P   A   H   N
-A P L S I I G
-Y   I   R
-
-And then read line by line: "PAHNAPLSIIGYIR"
-*/
+// TC: O(n)
+// SC: O(n)
 
 class ZigZag {
     public String convert(String s, int numRows) {

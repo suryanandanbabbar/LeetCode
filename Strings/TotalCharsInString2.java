@@ -1,16 +1,9 @@
 package Strings;
-/*
-3337: Total Characters in a String After Transformations 2
+// LeetCode Problem: 3337. Total Characters in String After Transformations II
+// Link: https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/
 
-You are given a string s consisting of lowercase English letters, an integer t representing the number of transformations to perform, and an array nums of size 26. In one transformation, every character in s is replaced according to the following rules:
-
-Replace s[i] with the next nums[s[i] - 'a'] consecutive characters in the alphabet. For example, if s[i] = 'a' and nums[0] = 3, the character 'a' transforms into the next 3 consecutive characters ahead of it, which results in "bcd".
-The transformation wraps around the alphabet if it exceeds 'z'. For example, if s[i] = 'y' and nums[24] = 3, the character 'y' transforms into the next 3 consecutive characters ahead of it, which results in "zab".
-Return the length of the resulting string after exactly t transformations.
-
-Since the answer may be very large, return it modulo 109 + 7.
- */
-
+// TC: O(t * n * m)
+// SC: O(n * m)
 
 import java.util.List;
 

@@ -2,6 +2,9 @@ package Two_Pointers;
 // LeetCode Problem 1004: Max Consecutive Ones III
 // Link: https://leetcode.com/problems/max-consecutive-ones-iii/
 
+// TC: O(n)
+// SC: O(1)
+
 class maxOnes {
     public int longestOnes(int[] nums, int k) {
         int left = 0, right = 0, result = 0;

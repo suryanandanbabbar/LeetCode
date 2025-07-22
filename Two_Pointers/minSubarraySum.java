@@ -2,6 +2,9 @@ package Two_Pointers;
 // LeetCode Problem: 209. Minimum Size Subarray Sum
 // Link: https://leetcode.com/problems/minimum-size-subarray-sum/
 
+// TC: O(n)
+// SC: O(1)
+
 class minSubarraySum {
     public int minSubArrayLen(int target, int[] nums) {
         int n = nums.length;

@@ -2,6 +2,9 @@ package Queues;
 // LeetCode Problem: 225. Implement Stack using Queues
 // Link: https://leetcode.com/problems/implement-stack-using-queues/
 
+// TC: O(n)
+// SC: O(n)
+
 import java.util.LinkedList;
 import java.util.Queue;
 public class stackUsingQueues {

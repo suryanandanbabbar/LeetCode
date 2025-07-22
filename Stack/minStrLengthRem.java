@@ -2,8 +2,8 @@ package Stack;
 // LeetCode Problem: 2696. Minimum String Length After Removing Substrings
 // Link: https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
 
-// Time Complexity: O(n)
-// Space Complexity: O(n)
+// TC: O(n)
+// SC: O(n)
 
 import java.util.ArrayDeque;
 

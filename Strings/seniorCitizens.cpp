@@ -1,3 +1,9 @@
+// LeetCode Problem: 2678. Count the Number of Senior Citizens
+// Link: https://leetcode.com/problems/number-of-senior-citizens/description/
+
+// TC: O(n)
+// SC: O(1)
+
 #include <iostream>
 #include <string>
 using namespace std;

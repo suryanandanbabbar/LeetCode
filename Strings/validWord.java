@@ -2,6 +2,9 @@ package Strings;
 // LeetCode Problem: 3136. Valid Word
 // Link: https://leetcode.com/problems/valid-word/
 
+// TC: O(n)
+// SC: O(1)
+
 public class validWord {
     public boolean isValid(String word) {
         if(word.length() < 3) return false;

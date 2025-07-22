@@ -1,5 +1,6 @@
 package Stack;
-// GfG: https://www.geeksforgeeks.org/problems/next-larger-element-1587115620
+// GfG: Next Greater Element
+// Link: https://www.geeksforgeeks.org/problems/next-larger-element-1587115620
 
 // TC: O(n)
 // SC: O(n)

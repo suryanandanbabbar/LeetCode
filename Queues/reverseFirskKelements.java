@@ -1,5 +1,6 @@
 package Queues;
-// GFG: https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue
+// GFG: Reverse First K Elements of Queue
+// Link: https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue
 
 // TC: O(n)
 // SC: O(n)

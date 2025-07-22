@@ -2,6 +2,9 @@ package Stack;
 // LeetCode Problem: 232. Implement Queue using Stacks
 // Link: https://leetcode.com/problems/implement-queue-using-stacks/
 
+// TC: O(n)
+// SC: O(n)
+
 import java.util.ArrayDeque;
 
 class MyQueue {

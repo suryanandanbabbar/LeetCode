@@ -2,6 +2,9 @@ package Stack;
 // LeetCode Problem: 1598. Crawler Log Folder
 // Link: https://leetcode.com/problems/crawler-log-folder/
 
+// TC: O(n)
+// SC: O(1)
+
 import java.util.ArrayDeque;
 
 public class crawlerLogFolder {

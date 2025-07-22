@@ -2,6 +2,9 @@ package Two_Pointers;
 // LeetCode Problem: 128. Longest Consecutive Sequence
 // Link: https://leetcode.com/problems/longest-consecutive-sequence/
 
+// TC: O(n)
+// SC: O(n)
+
 import java.util.HashSet;
 
 public class longestConsecSeq {

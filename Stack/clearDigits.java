@@ -2,8 +2,8 @@ package Stack;
 // LeetCode Problem: 3174. Clear Digits
 // Link: https://leetcode.com/problems/clear-digits/
 
-// Time Complexity: O(n)
-// Space Complexity: O(n)
+// TC: O(n)
+// SC: O(n)
 
 import java.util.ArrayDeque;
 

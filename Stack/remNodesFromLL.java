@@ -2,8 +2,8 @@ package Stack;
 // LeetCode Problem: 2487. Remove Nodes From Linked List
 // Link: https://leetcode.com/problems/remove-nodes-from-linked-list/
 
-// Time Complexity: O(n)
-// Space Complexity: O(n)
+// TC: O(n)
+// SC: O(n)
 
 import java.util.ArrayDeque;
 

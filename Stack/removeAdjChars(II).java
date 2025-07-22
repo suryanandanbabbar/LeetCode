@@ -2,6 +2,9 @@ package Stack;
 // LeetCode Problem: 1209: Remove All Adjacent Duplicates in String II
 // Link: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
 
+// TC: O(n)
+// SC: O(n)
+
 import java.util.ArrayDeque;
 
 class removeAdjCharsII {

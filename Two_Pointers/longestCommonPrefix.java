@@ -1,6 +1,10 @@
 package Two_Pointers;
 // LeetCode Problem 14: Longest Common Prefix
 // Link: https://leetcode.com/problems/longest-common-prefix/
+
+// TC: O(n * m)
+// SC: O(1)
+
 import java.util.*;
 
 class longestCommonPrefixSolution {

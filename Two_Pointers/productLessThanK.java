@@ -1,6 +1,10 @@
 package Two_Pointers;
 // LeetCode Problem: 713. Subarray Product Less Than K
 // Link: https://leetcode.com/problems/subarray-product-less-than-k/
+
+// TC: O(n)
+// SC: O(1)
+
 class productLessThanK {
     public int numSubarrayProductLessThanK(int[] nums, int k) {
         if (k <= 1) return 0; 

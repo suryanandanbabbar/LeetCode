@@ -2,6 +2,9 @@ package Strings;
 // LeetCode Problem: 131. Palindrome Partioning
 // Link: https://leetcode.com/problems/palindrome-partitioning/
 
+// TC: O(n * 2^n)
+// SC: O(n * 2^n)
+
 import java.util.ArrayList;
 import java.util.List;
 

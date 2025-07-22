@@ -2,6 +2,9 @@ package Two_Pointers;
 // LeetCode Problem: 1482. Minimum Number of Days to Make m Bouquets
 // Link: https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 
+// TC: O(n log(max(bloomDay)))
+// SC: O(1)
+
 class bouquets {
     public int minDays(int[] bloomDay, int m, int k) {
         if (bloomDay.length < (long) m * k) return -1;

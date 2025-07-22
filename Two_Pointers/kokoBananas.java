@@ -2,6 +2,9 @@ package Two_Pointers;
 // LeetCode Problem: 875. Koko Eating Bananas
 // Link: https://leetcode.com/problems/koko-eating-bananas/
 
+// TC: O(n log(max(piles)))
+// SC: O(1)
+
 class kokoBananas {
     public boolean canEatAll(int[] piles, int speed, int h) {
         int hoursNeeded = 0;
