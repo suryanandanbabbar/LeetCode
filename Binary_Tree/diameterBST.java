@@ -2,6 +2,9 @@ package Binary_Tree;
 // LeetCode Problem: 543. Diameter of Binary Tree
 // Link: https://leetcode.com/problems/diameter-of-binary-tree/
 
+// TC: O(n)
+// SC: O(h) 
+
 public class diameterBST {
     int diameter;
 

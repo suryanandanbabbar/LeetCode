@@ -3,7 +3,7 @@ package Binary_Search_Tree;
 // Link: https://leetcode.com/problems/recover-binary-search-tree/description/
 
 // TC: O(N)
-// SC: O(H) where H is the height of the tree
+// SC: O(H) 
 
 public class recoverBST {
     TreeNode prev = null, first = null, second = null;

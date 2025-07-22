@@ -1,5 +1,5 @@
 package Queues;
-// GFG: Generate Binary Numbers
+// GfG: Generate Binary Numbers
 // Link: https://www.geeksforgeeks.org/problems/generate-binary-numbers-1587115620
 
 // TC: O(n)
