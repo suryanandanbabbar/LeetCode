@@ -7,7 +7,7 @@ TOPICS = [
     "Binary_Tree",
     "Binary_Search_Tree",
     "Graphs",
-    "HashMaps",
+    "HashMap",
     "Heaps",
     "Kadane_Algorithm",
     "Queues",

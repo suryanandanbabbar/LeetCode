@@ -1,6 +1,10 @@
 package HashMap;
 // LeetCode Problem: 930. Binary Subarrays With Sum
 // Link: https://leetcode.com/problems/binary-subarrays-with-sum/
+
+// TC: O(n)
+// SC: O(n)
+
 import java.util.HashMap;
 
 class binarySubarrays {

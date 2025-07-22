@@ -113,9 +113,12 @@ Below, click on any topic to view the list of solved problems with details.
 </details>
 
 <details>
-<summary><strong>HashMaps</strong></summary>
+<summary><strong>HashMap</strong></summary>
 
-_No problems yet._
+| S.No | QuestionNumber | Title | Link | Platform | Time | Space |
+|---|---|---|---|---|---|---|
+| 1 | 930. | Binary Subarrays With Sum | [Link](https://leetcode.com/problems/binary-subarrays-with-sum/) | LeetCode | O(n) | O(n) |
+| 2 | 383. | Ransom Note | [Link](https://leetcode.com/problems/ransom-note/description/) | LeetCode | O(n + m) | O(n) |
 
 </details>
 

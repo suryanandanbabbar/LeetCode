@@ -1,5 +1,9 @@
 package HashMap;
+// LeetCode Problem: 383. Ransom Note
+// Link: https://leetcode.com/problems/ransom-note/description/
 
+// TC: O(n + m) 
+// SC: O(n) 
 
 import java.util.HashMap;
 class Solution {
