@@ -27,6 +27,9 @@ def extract_metadata(filepath):
     gfg_match = re.search(r"GfG:\s*([^\n]+)", content)
     # NeetCode format: NeetCode: Two Sum
     neetcode_match = re.search(r"NeetCode:\s*([^\n]+)", content)
+    # Code360 format: Code360: Merge K Sorted Arrays
+    code360_match = re.search(r"Code360:\s*([^\n]+)", content)
+
     link = re.search(r"Link:\s*(.+)", content)
     time = re.search(r"TC:\s*(.+)", content)
     space = re.search(r"SC:\s*(.+)", content)
@@ -57,6 +60,16 @@ def extract_metadata(filepath):
             "title": neetcode_match.group(1).strip(),
             "link": link.group(1).strip() if link else "",
             "platform": "NeetCode",
+            "time": time.group(1).strip() if time else "",
+            "space": space.group(1).strip() if space else "",
+            "file": os.path.basename(filepath)
+        }
+    elif code360_match:
+        return {
+            "question_number": "-",
+            "title": code360_match.group(1).strip(),
+            "link": link.group(1).strip() if link else "",
+            "platform": "Code360",
             "time": time.group(1).strip() if time else "",
             "space": space.group(1).strip() if space else "",
             "file": os.path.basename(filepath)

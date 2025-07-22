@@ -130,16 +130,19 @@ Below, click on any topic to view the list of solved problems with details.
 
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | 1046. | Last Stone Weight | [Link](https://leetcode.com/problems/last-stone-weight/description/) | LeetCode | O(N log N) | O(N) for the priority queue |
-| 2 | 347. | Top K Frequent Elements | [Link](https://leetcode.com/problems/top-k-frequent-elements/description/) | LeetCode | O(N log K) | O(K) for the priority queue |
-| 3 | - | https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1 |  | GfG | O(N long N) | O(N) for the priority queue |
-| 4 | - | https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1 |  | GfG | O(N log K) | O(N) for the priority queue |
-| 5 | - | https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1 |  | GfG | O((N + M) log(N + M)) | O(N + M) for the priority queue |
-| 6 | - | https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1 |  | GfG | O(N) | O(1) |
-| 7 | - | https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1 |  | GfG | O(N log N) | O(N) for the priority queue |
-| 8 | - | https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1 |  | GfG | O(N log K) | O(K) for the priority queue |
-| 9 | 2558. | Take Gifts From the Richest Pile | [Link](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | LeetCode | O(k log N) where N is the number of gifts | O(N) for the priority queue |
-| 10 | - | https://www.geeksforgeeks.org/problems/height-of-heap5025/1 |  | GfG | O(log N) | O(1) |
+| 1 | 1046. | Last Stone Weight | [Link](https://leetcode.com/problems/last-stone-weight/description/) | LeetCode | O(N log N) | O(N) |
+| 2 | - | K-th Largest Sum Contiguous Subarray | [Link](https://www.naukri.com/code360/problems/k-th-largest-sum-contiguous-subarray_920398) | Code360 | O(N^2 log K) | O(K) |
+| 3 | 347. | Top K Frequent Elements | [Link](https://leetcode.com/problems/top-k-frequent-elements/description/) | LeetCode | O(N log K) | O(K) |
+| 4 | - | Sum of Elements Between K1th and K2th Smallest Elements | [Link](https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1) | GfG | O(N long N) | O(N) for the priority queue |
+| 5 | - | Merge K Sorted Arrays | [Link](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | GfG | O(N log K) | O(N) |
+| 6 | - | Merge Two Binary Max Heaps | [Link](https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1) | GfG | O((N + M) log(N + M)) | O(N + M) |
+| 7 | - | Does Array Represent Heap? | [Link](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | GfG | O(N) | O(1) |
+| 8 | - | Minimum Cost of Ropes | [Link](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | GfG | O(N log N) | O(N) |
+| 9 | - | Kth Smallest Element | [Link](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | GfG | O(N log K) | O(K) |
+| 10 | 215. | Kth Largest Element in an Array | [Link](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | LeetCode | O(N log K) | O(K) |
+| 11 | 2558. | Take Gifts From the Richest Pile | [Link](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | LeetCode | O(k log N) | O(N) |
+| 12 | - | Height of Heap | [Link](https://www.geeksforgeeks.org/problems/height-of-heap5025/1) | GfG | O(log N) | O(1) |
+| 13 | - | Magician and Chocolates | [Link](https://www.naukri.com/code360/problems/magician-and-chocolates_920437) | Code360 | O(N log N) | O(N) |
 
 </details>
 
@@ -179,6 +182,7 @@ _No problems yet._
 | 4 | 131. | Palindrome Partioning | [Link](https://leetcode.com/problems/palindrome-partitioning/) | LeetCode |  |  |
 | 5 | 17. | Letter Combinations of Phone Number | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | LeetCode |  |  |
 | 6 | 205 | : Isomorphic Strings | [Link](https://leetcode.com/problems/isomorphic-strings/) | LeetCode |  |  |
+| 7 | - | https://www.naukri.com/code360/problems/sorting-characters-by-frequency_1263699 |  | Code360 |  |  |
 
 </details>
 
