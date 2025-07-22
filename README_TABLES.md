@@ -27,12 +27,13 @@ Below, click on any topic to view the list of solved problems with details.
 | 18 | 1846. | Maximum Element After Decrementing And Rearranging | [Link](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | LeetCode | O(n log n) | O(1) |
 | 19 | 1346. | Check If N and Its Double Exist | [Link](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | LeetCode | O(n^2) | O(1) |
 | 20 | 9. | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number/) | LeetCode | O(log n) | O(1) |
-| 21 | - | Perfect Sum Problem | [Link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GfG | O(n * target) | O(target) |
+| 21 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GfG | O(n * target) | O(target) |
 | 22 | 39. | Combination Sum | [Link](https://leetcode.com/problems/combination-sum/) | LeetCode | O(2^n) | O(k) |
-| 23 | - | Subset Sum Problem | [Link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GfG | O(n * sum) | O(n * sum) |
+| 23 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GfG | O(n * sum) | O(n * sum) |
 | 24 | 7. | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | LeetCode | O(log n) | O(1) |
 | 25 | 69. | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | LeetCode | O(log x) | O(1) |
 | 26 | 169. | Majority Element | [Link](https://leetcode.com/problems/majority-element/) | LeetCode | O(n) | O(1) |
+| 27 | 121. | Buy and Sell Stock | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | O(n) | O(1) |
 
 </details>
 

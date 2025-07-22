@@ -1,4 +1,4 @@
-// LeetCode Problem: Buy and Sell Stock
+// LeetCode Problem: 121. Buy and Sell Stock
 // Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 // TC: O(n)
