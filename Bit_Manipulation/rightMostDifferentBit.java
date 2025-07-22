@@ -1,5 +1,6 @@
 package Bit_Manipulation;
-// GfG: https://www.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1
+// GfG: RightMost Different Bit
+// Link: https://www.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1
 
 // TC: O(log(max(m, n)))
 // SC: O(1)

@@ -2,6 +2,9 @@ package Bit_Manipulation;
 // LeetCode Problem: 2220. Minimum Bit Flips to Convert Number
 // Problem Link: https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 
+// TC: O(log n)
+// SC: O(1)
+
 public class minBitFlips {
     public int minFlips(int start, int goal) {
         // XOR

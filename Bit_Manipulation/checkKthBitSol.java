@@ -1,5 +1,6 @@
 package Bit_Manipulation;
-// GfG: https://www.geeksforgeeks.org/check-kth-bit-set-not/
+// GfG: Check Kth Bit Set or Not
+// Link: https://www.geeksforgeeks.org/check-kth-bit-set-not/
 
 // TC: O(1)
 // SC: O(1)

@@ -1,5 +1,6 @@
 package Bit_Manipulation;
-// GfG: https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1
+// GfG: Find First Set Bit
+// https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1
 
 // TC: O(log n)
 // SC: O(1)

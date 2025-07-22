@@ -1,4 +1,10 @@
 package Bit_Manipulation;
+// LeetCode Problem: 485. Max Consecutive Ones
+// Problem Link: https://leetcode.com/problems/max-consecutive-ones/
+
+// TC: O(n)
+// SC: O(1)
+
 public class maxConsOnes {
     // GfG: https://leetcode.com/problems/max-consecutive-ones/
     public static int maxConsecutiveOnes(int n) {
@@ -17,8 +23,6 @@ public class maxConsOnes {
         return result;
     }
 
-    // LeetCode Problem: 485. Max Consecutive Ones
-    // Problem Link: https://leetcode.com/problems/max-consecutive-ones/
     public int findMaxConsecutiveOnes(int[] nums) {
         int result = 0;
         int count = 0;      

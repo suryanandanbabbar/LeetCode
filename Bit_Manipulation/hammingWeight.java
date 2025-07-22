@@ -2,6 +2,9 @@ package Bit_Manipulation;
 // LeetCode Problem: 191. Number of 1 Bits
 // Link: https://leetcode.com/problems/number-of-1-bits/
 
+// TC: O(log n)
+// SC: O(1)
+
 public class hammingWeight {
     public int setBits(int n) {
         // Naive Approach

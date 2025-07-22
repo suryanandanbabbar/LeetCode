@@ -2,6 +2,9 @@ package Bit_Manipulation;
 // LeetCode Problem: 67. Add Binary
 // Link: https://leetcode.com/problems/add-binary/
 
+// TC: O(max(m, n)) 
+// SC: O(max(m, n)) 
+
 public class addBinary {
     public String addBin(String a, String b) {
         StringBuilder result = new StringBuilder();

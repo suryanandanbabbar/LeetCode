@@ -1,5 +1,6 @@
 package Bit_Manipulation;
-// GfG: https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1
+// GfG: Find XOR of Numbers from L to R
+// Link: https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1
 
 // TC: O(1)
 // SC: O(1)

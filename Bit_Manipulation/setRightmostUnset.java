@@ -1,5 +1,6 @@
 package Bit_Manipulation;
-// GfG: https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1
+// GfG: Set the Rightmost Unset Bit
+// Link: https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1
 
 // TC: O(1)
 // SC: O(1)

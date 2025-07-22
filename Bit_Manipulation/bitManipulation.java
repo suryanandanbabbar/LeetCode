@@ -1,5 +1,6 @@
 package Bit_Manipulation;
-// GfG: https://www.geeksforgeeks.org/problems/bit-manipulation-1666686020/1
+// GfG: Bit Manipulation
+// Link: https://www.geeksforgeeks.org/problems/bit-manipulation-1666686020/1
 
 // TC: O(1)
 // SC: O(1)

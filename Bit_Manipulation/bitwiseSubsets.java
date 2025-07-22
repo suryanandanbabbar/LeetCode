@@ -1,5 +1,6 @@
 package Bit_Manipulation;
-// GfG: https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1
+// GfG: Print All Bitwise Subsets of a Number
+// Link: https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1
 
 // TC: O(n)
 // SC: O(n)
