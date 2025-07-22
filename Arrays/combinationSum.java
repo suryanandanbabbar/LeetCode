@@ -2,6 +2,9 @@ package Arrays;
 // LeetCode Problem: 39. Combination Sum
 // Link: https://leetcode.com/problems/combination-sum/
 
+// TC: O(2^n)
+// SC: O(k)
+
 import java.util.ArrayList;
 import java.util.List;
 

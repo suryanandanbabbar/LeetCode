@@ -1,3 +1,9 @@
+// LeetCode Problem: 202. Happy Number
+// Link: https://leetcode.com/problems/happy-number/
+
+// TC: O(log n)
+// SC: O(1)
+
 #include <iostream>
 using namespace std;
 

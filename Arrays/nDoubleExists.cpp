@@ -1,18 +1,8 @@
-/*
-Question: Given an array arr of integers,
-check if there exist two indices i and j such that :
+// LeetCode Problem: 1346. Check If N and Its Double Exist
+// Link: https://leetcode.com/problems/check-if-n-and-its-double-exist/
 
-1. i != j
-2. 0 <= i, j < arr.length
-3. arr[i] == 2 * arr[j]
-
-
-Example 1:
-
-Input: arr = [10,2,5,3]
-Output: true
-Explanation: For i = 0 and j = 2, arr[i] == 10 == 2 * 5 == 2 * arr[j]
- */
+// TC: O(n^2)
+// SC: O(1)
 
 #include <iostream>
 #include <vector>

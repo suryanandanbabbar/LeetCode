@@ -2,6 +2,9 @@ package Arrays;
 // LeetCode Problem: 56. Merge Intervals
 // Link: https://leetcode.com/problems/merge-intervals/
 
+// TC: O(n log n)
+// SC: O(n)
+
 import java.util.*;
 
 public class mergeIntervals {

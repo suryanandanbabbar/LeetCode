@@ -7,14 +7,23 @@ Below, click on any topic to view the list of solved problems with details.
 
 | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|
+| Lucky Number in a Matrix | [Link](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | LeetCode | O(m * n) | O(m + n) |
 | Subsets II | [Link](https://leetcode.com/problems/subsets-ii/) | LeetCode |  |  |
 | Broken Calculator | [Link](https://leetcode.com/problems/broken-calculator/) | LeetCode | O(log(target/startValue)) | O(1) |
 | Maximum Ice Cream Bars | [Link](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | LeetCode | O(n log n) | O(1) |
 | Non-overlapping Intervals | [Link](https://leetcode.com/problems/non-overlapping-intervals/) | LeetCode | O(n log n) | O(1) |
-| Combinations | [Link](https://leetcode.com/problems/combinations/) | LeetCode |  |  |
-| Merge Intervals | [Link](https://leetcode.com/problems/merge-intervals/) | LeetCode |  |  |
+| Combinations | [Link](https://leetcode.com/problems/combinations/) | LeetCode | O(n! / (k! * (n - k)!)) | O(k) |
+| Happy Number | [Link](https://leetcode.com/problems/happy-number/) | LeetCode | O(log n) | O(1) |
+| Merge Intervals | [Link](https://leetcode.com/problems/merge-intervals/) | LeetCode | O(n log n) | O(n) |
+| Merge Sorted Array | [Link](https://leetcode.com/problems/merge-sorted-array/) | LeetCode | O((m + n) log(m + n)) | O(1) |
+| Minimum Add to Make Parentheses Valid | [Link](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | LeetCode | O(n) | O(n) |
+| Height Checker | [Link](https://leetcode.com/problems/height-checker/) | LeetCode | O(n log n) | O(n) |
 | Maximum Element After Decrementing And Rearranging | [Link](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | LeetCode | O(n log n) | O(1) |
-| Combination Sum | [Link](https://leetcode.com/problems/combination-sum/) | LeetCode |  |  |
+| Check If N and Its Double Exist | [Link](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | LeetCode | O(n^2) | O(1) |
+| Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number/) | LeetCode | O(log n) | O(1) |
+| Combination Sum | [Link](https://leetcode.com/problems/combination-sum/) | LeetCode | O(2^n) | O(k) |
+| Majority Element | [Link](https://leetcode.com/problems/majority-element/) | LeetCode | O(n) | O(1) |
+| Buy and Sell Stock | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | O(n) | O(1) |
 
 </details>
 

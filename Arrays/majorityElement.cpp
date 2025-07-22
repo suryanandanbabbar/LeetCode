@@ -1,12 +1,8 @@
-/*
-Question: Given an array num of size n,
-return the majority element.
+// LeetCode Problem: 169. Majority Element
+// Link: https://leetcode.com/problems/majority-element/
 
-The majority element is the element
-that appears more than ⌊n / 2⌋ times.
-You may assume that the majority element
-always exists in the array.
-*/
+// TC: O(n)
+// SC: O(1)
 
 #include <iostream>
 #include <algorithm>

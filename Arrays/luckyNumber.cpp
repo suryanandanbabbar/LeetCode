@@ -1,11 +1,8 @@
-/*
-Question: Given an m x n M of distinct numbers,
-return all lucky numbers in the M in any order.
+// LeetCode Problem: 1380. Lucky Number in a Matrix
+// Link: https://leetcode.com/problems/lucky-numbers-in-a-matrix/
 
-A lucky number is an element of the M,
-such that it is the minimum element in its row
-and maximum in its column.
-*/
+// TC: O(m * n)
+// SC: O(m + n)
 
 #include <iostream>
 #include <algorithm>

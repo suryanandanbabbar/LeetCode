@@ -1,3 +1,9 @@
+// LeetCode Problem: 9. Palindrome Number
+// Link: https://leetcode.com/problems/palindrome-number/
+
+// TC: O(log n)
+// SC: O(1)
+
 #include <iostream>
 using namespace std;
 

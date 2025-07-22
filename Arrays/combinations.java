@@ -2,6 +2,9 @@ package Arrays;
 // LeetCode Problem: 77. Combinations
 // Link: https://leetcode.com/problems/combinations/
 
+// TC: O(n! / (k! * (n - k)!))
+// SC: O(k)
+
 import java.util.ArrayList;
 import java.util.List;
 
