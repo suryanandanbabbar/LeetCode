@@ -104,10 +104,10 @@ Below, click on any topic to view the list of solved problems with details.
 
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | GfG | O(V + E) where V is the number of vertices and E is the number of edges | O(V + E) for the adjacency list |
-| 2 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GfG | O(V + E) where V is the number of vertices and E is the number of edges | O(V + E) for the visited array and queue |
-| 3 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GfG | O(V + E) where V is the number of vertices and E is the number of edges | O(V) for the visited array and result list |
-| 4 | - | GfG Problem | [Link](https://www.naukri.com/code360/problems/creating-and-printing_1214551) | GfG | O(V + E) where V is the number of vertices and E is the number of edges | O(V + E) for the adjacency list |
+| 1 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | GfG | O(V + E) | O(V + E) |
+| 2 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GfG | O(V + E) | O(V + E) |
+| 3 | - | GfG Problem | [Link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GfG | O(V + E) | O(V) |
+| 4 | - | GfG Problem | [Link](https://www.naukri.com/code360/problems/creating-and-printing_1214551) | GfG | O(V + E) | O(V + E) |
 
 </details>
 
