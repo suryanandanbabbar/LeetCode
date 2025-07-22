@@ -22,12 +22,13 @@ def extract_metadata(filepath):
     with open(filepath, encoding="utf-8") as f:
         content = f.read()
     # Regex for metadata
-    title_match = re.search(r"LeetCode Problem:\s*[\d\.]*\s*(.+)", content)
+    title_match = re.search(r"LeetCode Problem:\s*([\d\.]+)\s*(.+)", content)
     link = re.search(r"Link:\s*(.+)", content)
     time = re.search(r"TC:\s*(.+)", content)
     space = re.search(r"SC:\s*(.+)", content)
     return {
-        "title": title_match.group(1).strip() if title_match else "",
+        "question_number": title_match.group(1).strip() if title_match else "",
+        "title": title_match.group(2).strip() if title_match else "",
         "link": link.group(1).strip() if link else "",
         "platform": "LeetCode" if title_match else "",
         "time": time.group(1).strip() if time else "",
@@ -52,16 +53,17 @@ def scan_topic(topic):
 def make_table(problems):
     if not problems:
         return "_No problems yet._"
-    header = "| S.No | Title | Link | Platform | Time | Space |\n|---|---|---|---|---|---|"
+    header = "| S.No | QuestionNumber | Title | Link | Platform | Time | Space |\n|---|---|---|---|---|---|---|"
     rows = []
     for idx, p in enumerate(problems, 1):
+        qnum = p["question_number"]
         title = p["title"]
         link = f"[Link]({p['link']})" if p["link"] else ""
         platform = p["platform"]
         time = p["time"]
         space = p["space"]
         rows.append(
-            f"| {idx} | {title} | {link} | {platform} | {time} | {space} |")
+            f"| {idx} | {qnum} | {title} | {link} | {platform} | {time} | {space} |")
     return header + "\n" + "\n".join(rows)
 
 
