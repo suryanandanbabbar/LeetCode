@@ -106,9 +106,10 @@ Below, click on any topic to view the list of solved problems with details.
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
 | 1 | - | Print Adjacency List | [Link](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | GfG | O(V + E) | O(V + E) |
-| 2 | - | BFS Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GfG | O(V + E) | O(V + E) |
-| 3 | - | Depth First Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GfG | O(V + E) | O(V) |
-| 4 | - | Creating and Printing Adjacency List | [Link](https://www.naukri.com/code360/problems/creating-and-printing_1214551) | GfG | O(V + E) | O(V + E) |
+| 2 | 200. | Number of Islands | [Link](https://leetcode.com/problems/number-of-islands/) | LeetCode | O(m * n) | O(m * n) |
+| 3 | - | BFS Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GfG | O(V + E) | O(V + E) |
+| 4 | - | Depth First Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GfG | O(V + E) | O(V) |
+| 5 | - | Creating and Printing Adjacency List | [Link](https://www.naukri.com/code360/problems/creating-and-printing_1214551) | GfG | O(V + E) | O(V + E) |
 
 </details>
 
@@ -117,8 +118,9 @@ Below, click on any topic to view the list of solved problems with details.
 
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | 930. | Binary Subarrays With Sum | [Link](https://leetcode.com/problems/binary-subarrays-with-sum/) | LeetCode | O(n) | O(n) |
-| 2 | 383. | Ransom Note | [Link](https://leetcode.com/problems/ransom-note/description/) | LeetCode | O(n + m) | O(n) |
+| 1 | 1207. | Unique Number of Occurrences | [Link](https://leetcode.com/problems/unique-number-of-occurrences/) | LeetCode | O(n) | O(n) |
+| 2 | 930. | Binary Subarrays With Sum | [Link](https://leetcode.com/problems/binary-subarrays-with-sum/) | LeetCode | O(n) | O(n) |
+| 3 | 383. | Ransom Note | [Link](https://leetcode.com/problems/ransom-note/description/) | LeetCode | O(n + m) | O(n) |
 
 </details>
 
@@ -184,21 +186,21 @@ _No problems yet._
 
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | - | https://www.geeksforgeeks.org/problems/bit-manipulation-1666686020/1 |  | GfG | O(1) | O(1) |
-| 2 | - | https://www.geeksforgeeks.org/problems/odd-or-even3618/1 |  | GfG | O(1) | O(1) |
+| 1 | - | Bit Manipulation | [Link](https://www.geeksforgeeks.org/problems/bit-manipulation-1666686020/1) | GfG | O(1) | O(1) |
+| 2 | - | Odd or Even | [Link](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | GfG | O(1) | O(1) |
 | 3 | 231. | Power of Two | [Link](https://leetcode.com/problems/power-of-two/) | LeetCode | O(1) | O(1) |
-| 4 | - | https://www.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1 |  | GfG | O(log(max(m, n))) | O(1) |
-| 5 | 485. | Max Consecutive Ones | [Link](https://leetcode.com/problems/max-consecutive-ones/) | LeetCode |  |  |
+| 4 | - | RightMost Different Bit | [Link](https://www.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1) | GfG | O(log(max(m, n))) | O(1) |
+| 5 | 485. | Max Consecutive Ones | [Link](https://leetcode.com/problems/max-consecutive-ones/) | LeetCode | O(n) | O(1) |
 | 6 | 338. | Counting Bits | [Link](https://leetcode.com/problems/counting-bits/) | LeetCode | O(n) | O(n) |
-| 7 | - | https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1 |  | GfG | O(1) | O(1) |
-| 8 | - | https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1 |  | GfG | O(1) | O(1) |
-| 9 | 2220. | Minimum Bit Flips to Convert Number | [Link](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | LeetCode |  |  |
-| 10 | - | https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1 |  | GfG | O(log n) | O(1) |
-| 11 | - | https://www.geeksforgeeks.org/check-kth-bit-set-not/ |  | GfG | O(1) | O(1) |
-| 12 | - | https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1 |  | GfG | O(1) | O(1) |
-| 13 | - | https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1 |  | GfG | O(n) | O(n) |
+| 7 | - | Find XOR of Numbers from L to R | [Link](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | GfG | O(1) | O(1) |
+| 8 | - | Set the Rightmost Unset Bit | [Link](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GfG | O(1) | O(1) |
+| 9 | 2220. | Minimum Bit Flips to Convert Number | [Link](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | LeetCode | O(log n) | O(1) |
+| 10 | - | Find First Set Bit |  | GfG | O(log n) | O(1) |
+| 11 | - | Check Kth Bit Set or Not | [Link](https://www.geeksforgeeks.org/check-kth-bit-set-not/) | GfG | O(1) | O(1) |
+| 12 | - | Swap Two Numbers | [Link](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | GfG | O(1) | O(1) |
+| 13 | - | Print All Bitwise Subsets of a Number | [Link](https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1) | GfG | O(n) | O(n) |
 | 14 | 136. | Single Number | [Link](https://leetcode.com/problems/single-number/) | LeetCode | O(n) | O(1) |
-| 15 | 67. | Add Binary | [Link](https://leetcode.com/problems/add-binary/) | LeetCode |  |  |
+| 15 | 67. | Add Binary | [Link](https://leetcode.com/problems/add-binary/) | LeetCode | O(max(m, n)) | O(max(m, n)) |
 | 16 | 191. | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) | LeetCode | O(log n) | O(1) |
 
 </details>
