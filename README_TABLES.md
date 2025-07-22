@@ -110,6 +110,7 @@ Below, click on any topic to view the list of solved problems with details.
 | 3 | - | BFS Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GfG | O(V + E) | O(V + E) |
 | 4 | - | Depth First Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GfG | O(V + E) | O(V) |
 | 5 | - | Creating and Printing Adjacency List | [Link](https://www.naukri.com/code360/problems/creating-and-printing_1214551) | GfG | O(V + E) | O(V + E) |
+| 6 | - | Count Connected Components | [Link](https://neetcode.io/problems/count-connected-components) | NeetCode | O(V + E) | O(V + E) |
 
 </details>
 
