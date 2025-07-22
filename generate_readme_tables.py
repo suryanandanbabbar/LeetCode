@@ -4,8 +4,8 @@ import re
 ROOT = os.path.dirname(os.path.abspath(__file__))
 TOPICS = [
     "Arrays",
-    "Binary_Trees",
-    "Binary_Search_Trees",
+    "Binary_Tree",
+    "Binary_Search_Tree",
     "Graphs",
     "HashMaps",
     "Heaps",
