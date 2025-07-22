@@ -189,7 +189,7 @@ Below, click on any topic to view the list of solved problems with details.
 | 15 | 1475. | Final Prices With a Special Discount in a Shop | [Link](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a) | LeetCode |  |  |
 | 16 | 150. | Evaluate Reverse Polish Notation | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | LeetCode | O(n) | O(n) |
 | 17 | 1598. | Crawler Log Folder | [Link](https://leetcode.com/problems/crawler-log-folder/) | LeetCode | O(n) | O(1) |
-| 18 | 1047 | : Remove All Adjacent Duplicates In String | [Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | LeetCode | O(n) | O(n) |
+| 18 | 1047. | Remove All Adjacent Duplicates In String | [Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | LeetCode | O(n) | O(n) |
 | 19 | 735. | Asteroid Collision | [Link](https://leetcode.com/problems/asteroid-collision/) | LeetCode | O(n) | O(n) |
 
 </details>
@@ -246,8 +246,8 @@ Below, click on any topic to view the list of solved problems with details.
 |---|---|---|---|---|---|---|
 | 1 | 125. | Valid Palindrome | [Link](https://leetcode.com/problems/valid-palindrome/) | LeetCode | O(n) | O(1) |
 | 2 | 948. | Bag of Tokens | [Link](https://leetcode.com/problems/bag-of-tokens/) | LeetCode | O(n log n) | O(1) |
-| 3 | 3 | : Longest Substring Without Repeating Characters | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters) | LeetCode | O(n) | O(min(n, m)) |
-| 4 | 1358 | : Number of Substrings Containing All Three Characters | [Link](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | LeetCode | O(n) | O(1) |
+| 3 | 3. | Longest Substring Without Repeating Characters | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters) | LeetCode | O(n) | O(min(n, m)) |
+| 4 | 1358. | Number of Substrings Containing All Three Characters | [Link](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | LeetCode | O(n) | O(1) |
 | 5 | 209. | Minimum Size Subarray Sum | [Link](https://leetcode.com/problems/minimum-size-subarray-sum/) | LeetCode | O(n) | O(1) |
 | 6 | 392. | Is Subsequence | [Link](https://leetcode.com/problems/is-subsequence/description/) | LeetCode | O(n) | O(1) |
 | 7 | 128. | Longest Consecutive Sequence | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | LeetCode | O(n) | O(n) |
@@ -258,5 +258,6 @@ Below, click on any topic to view the list of solved problems with details.
 | 12 | 881. | Boats to Save People | [Link](https://leetcode.com/problems/boats-to-save-people/) | LeetCode | O(n log n) | O(1) |
 | 13 | 875. | Koko Eating Bananas | [Link](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | O(n log(max(piles))) | O(1) |
 | 14 | 1482. | Minimum Number of Days to Make m Bouquets | [Link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | LeetCode | O(n log(max(bloomDay))) | O(1) |
+| 15 | 1004. | Max Consecutive Ones III | [Link](https://leetcode.com/problems/max-consecutive-ones-iii/) | LeetCode | O(n) | O(1) |
 
 </details>

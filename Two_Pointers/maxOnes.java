@@ -1,5 +1,5 @@
 package Two_Pointers;
-// LeetCode Problem 1004: Max Consecutive Ones III
+// LeetCode Problem: 1004. Max Consecutive Ones III
 // Link: https://leetcode.com/problems/max-consecutive-ones-iii/
 
 // TC: O(n)

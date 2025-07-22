@@ -1,5 +1,5 @@
 package Two_Pointers;
-// LeetCode Problem: 1358: Number of Substrings Containing All Three Characters
+// LeetCode Problem: 1358. Number of Substrings Containing All Three Characters
 // Link: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 
 // TC: O(n)

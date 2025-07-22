@@ -1,5 +1,5 @@
 package Two_Pointers;
-// LeetCode Problem: 3: Longest Substring Without Repeating Characters
+// LeetCode Problem: 3. Longest Substring Without Repeating Characters
 // Link: https://leetcode.com/problems/longest-substring-without-repeating-characters
 
 // TC: O(n)
