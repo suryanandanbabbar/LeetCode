@@ -181,10 +181,10 @@ Below, click on any topic to view the list of solved problems with details.
 | 3 | 1544. | Make The String Great | [Link](https://leetcode.com/problems/make-the-string-great/) | LeetCode | O(n) | O(n) |
 | 4 | 1021. | Remove Outermost Parentheses | [Link](https://leetcode.com/problems/remove-outermost-parentheses/) | LeetCode | O(n) | O(n) |
 | 5 | - | Next Greater Element | [Link](https://www.naukri.com/code360/problems/next-greater-element_1112581) | Code360 | O(n) | O(n) |
-| 6 | 1019 | : Next Greater Node In Linked List | [Link](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620) | LeetCode | O(n) | O(n) |
+| 6 | 101 | 9 | [Link](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620) | LeetCode | O(n) | O(n) |
 | 7 | 682. | Baseball Game | [Link](https://leetcode.com/problems/baseball-game/) | LeetCode | O(n) | O(n) |
 | 8 | 2487. | Remove Nodes From Linked List | [Link](https://leetcode.com/problems/remove-nodes-from-linked-list/) | LeetCode | O(n) | O(n) |
-| 9 | 1209 | : Remove All Adjacent Duplicates in String II | [Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | LeetCode | O(n) | O(n) |
+| 9 | 120 | 9 | [Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | LeetCode | O(n) | O(n) |
 | 10 | - | Smallest Number on Left | [Link](https://www.geeksforgeeks.org/problems/smallest-number-on-left3403) | GfG | O(n) | O(n) |
 | 11 | 1653. | Minimum Deletions to Make String Balanced | [Link](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | LeetCode | O(n) | O(n) |
 | 12 | 2696. | Minimum String Length After Removing Substrings | [Link](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | LeetCode | O(n) | O(n) |
