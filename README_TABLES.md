@@ -111,6 +111,8 @@ Below, click on any topic to view the list of solved problems with details.
 | 4 | - | Depth First Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GfG | O(V + E) | O(V) |
 | 5 | - | Creating and Printing Adjacency List | [Link](https://www.naukri.com/code360/problems/creating-and-printing_1214551) | GfG | O(V + E) | O(V + E) |
 | 6 | - | Count Connected Components | [Link](https://neetcode.io/problems/count-connected-components) | NeetCode | O(V + E) | O(V + E) |
+| 7 | - | Detect Cycle in an Undirected Graph | [Link](https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-) | GfG | O(V + E) | O(V + E) |
+| 8 | 994. | Rotting Oranges | [Link](https://leetcode.com/problems/rotting-oranges/description/) | LeetCode | O(m * n) | O(m * n) |
 
 </details>
 
