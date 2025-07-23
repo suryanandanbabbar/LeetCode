@@ -21,14 +21,14 @@ TOPICS = [
 def extract_metadata(filepath):
     with open(filepath, encoding="utf-8") as f:
         content = f.read()
-    # LeetCode format
-    lc_match = re.search(r"LeetCode Problem:\s*([\d\.]+)\s*(.+)", content)
-    # GfG format: // GfG: Print Adjacency List
-    gfg_match = re.search(r"GfG:\s*([^\n]+)", content)
+    # LeetCode format: LeetCode Problem: 69. Sqrt(x)
+    lc_match = re.search(r"LeetCode Problem:\s*([\d\.]+)\s*([^\n:]+)", content)
+    # GfG format: GfG: Print Adjacency List
+    gfg_match = re.search(r"GfG:\s*([^\n:]+)", content)
     # NeetCode format: NeetCode: Two Sum
-    neetcode_match = re.search(r"NeetCode:\s*([^\n]+)", content)
+    neetcode_match = re.search(r"NeetCode:\s*([^\n:]+)", content)
     # Code360 format: Code360: Merge K Sorted Arrays
-    code360_match = re.search(r"Code360:\s*([^\n]+)", content)
+    code360_match = re.search(r"Code360:\s*([^\n:]+)", content)
 
     link = re.search(r"Link:\s*(.+)", content)
     time = re.search(r"TC:\s*(.+)", content)
