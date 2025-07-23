@@ -130,7 +130,8 @@ Below, click on any topic to view the list of solved problems with details.
 | 7 | - | Count Connected Components | [Link](https://neetcode.io/problems/count-connected-components) | NeetCode | O(V + E) | O(V + E) |
 | 8 | - | Detect Cycle in an Undirected Graph | [Link](https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-) | GfG | O(V + E) | O(V + E) |
 | 9 | 130. | Surrounded Regions | [Link](https://leetcode.com/problems/surrounded-regions/description/) | LeetCode | O(m * n) | O(m * n) |
-| 10 | 994. | Rotting Oranges | [Link](https://leetcode.com/problems/rotting-oranges/description/) | LeetCode | O(m * n) | O(m * n) |
+| 10 | 133. | Clone Graph | [Link](https://leetcode.com/problems/clone-graph/description/) | LeetCode | O(V + E) | O(V) |
+| 11 | 994. | Rotting Oranges | [Link](https://leetcode.com/problems/rotting-oranges/description/) | LeetCode | O(m * n) | O(m * n) |
 
 </details>
 
