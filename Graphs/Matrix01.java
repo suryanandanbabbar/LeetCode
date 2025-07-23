@@ -9,12 +9,11 @@ import java.util.Queue;
 import java.util.LinkedList;
 
 public class Matrix01 {
+    // Using Multi-source BFS
     public int[][] updateMatrix(int[][] mat) {
         int[][] result = new int[mat.length][mat[0].length];
         int rows = mat.length;
         int cols = mat[0].length;
-
-        // Using BFS
         Queue<int[]> q = new LinkedList<>();
         boolean[][] visited = new boolean[rows][cols];
 
@@ -52,5 +51,46 @@ public class Matrix01 {
             }
         }
         return result;
+    }
+
+    // Using DFS (Not Recommended)
+    public int[][] updateMatrixDFS(int[][] mat) {
+        int rows = mat.length;
+        int cols = mat[0].length;
+        int[][] result = new int[rows][cols];
+
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                result[i][j] = mat[i][j] == 0 ? 0 : Integer.MAX_VALUE;
+            }
+        }
+
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                if (mat[i][j] == 0) {
+                    dfs(mat, result, i + 1, j, 1);
+                    dfs(mat, result, i - 1, j, 1);
+                    dfs(mat, result, i, j + 1, 1);
+                    dfs(mat, result, i, j - 1, 1);
+                }
+            }
+        }
+
+        return result;
+    }
+
+    private void dfs(int[][] mat, int[][] result, int i, int j, int dist) {
+        if (i < 0 || i >= mat.length || j < 0 || j >= mat[0].length)
+            return;
+
+        if (result[i][j] <= dist)
+            return; 
+
+        result[i][j] = dist;
+
+        dfs(mat, result, i + 1, j, dist + 1);
+        dfs(mat, result, i - 1, j, dist + 1);
+        dfs(mat, result, i, j + 1, dist + 1);
+        dfs(mat, result, i, j - 1, dist + 1);
     }
 }
