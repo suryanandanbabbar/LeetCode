@@ -51,7 +51,7 @@ public class topologicalSort {
         stack.push(u);
     }  
 
-    // Using Kahn's Algorithm(BFS)
+    // Using Kahn's Algorithm (BFS)
     public static ArrayList<Integer> topoSort(int V, int[][] edges) {
         ArrayList<Integer> result = new ArrayList<>();
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
