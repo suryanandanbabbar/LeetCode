@@ -108,14 +108,16 @@ Below, click on any topic to view the list of solved problems with details.
 | 1 | - | Print Adjacency List | [Link](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | GfG | O(V + E) | O(V + E) |
 | 2 | 200. | Number of Islands | [Link](https://leetcode.com/problems/number-of-islands/) | LeetCode | O(m * n) | O(m * n) |
 | 3 | - | BFS Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GfG | O(V + E) | O(V + E) |
-| 4 | - | Depth First Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GfG | O(V + E) | O(V) |
-| 5 | 542. | 01 Matrix | [Link](https://leetcode.com/problems/01-matrix/description/) | LeetCode | O(m * n) | O(m * n) |
-| 6 | - | Creating and Printing Adjacency List | [Link](https://www.naukri.com/code360/problems/creating-and-printing_1214551) | GfG | O(V + E) | O(V + E) |
-| 7 | - | Count Connected Components | [Link](https://neetcode.io/problems/count-connected-components) | NeetCode | O(V + E) | O(V + E) |
-| 8 | - | Detect Cycle in an Undirected Graph | [Link](https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-) | GfG | O(V + E) | O(V + E) |
-| 9 | 130. | Surrounded Regions | [Link](https://leetcode.com/problems/surrounded-regions/description/) | LeetCode | O(m * n) | O(m * n) |
-| 10 | 133. | Clone Graph | [Link](https://leetcode.com/problems/clone-graph/description/) | LeetCode | O(V + E) | O(V) |
-| 11 | 994. | Rotting Oranges | [Link](https://leetcode.com/problems/rotting-oranges/description/) | LeetCode | O(m * n) | O(m * n) |
+| 4 | - | Topological Sort | [Link](https://www.geeksforgeeks.org/problems/topological-sort/1) | GfG | O(V + E) | O(V + E) |
+| 5 | - | Depth First Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GfG | O(V + E) | O(V) |
+| 6 | 542. | 01 Matrix | [Link](https://leetcode.com/problems/01-matrix/description/) | LeetCode | O(m * n) | O(m * n) |
+| 7 | - | Creating and Printing Adjacency List | [Link](https://www.naukri.com/code360/problems/creating-and-printing_1214551) | GfG | O(V + E) | O(V + E) |
+| 8 | - | Count Connected Components | [Link](https://neetcode.io/problems/count-connected-components) | NeetCode | O(V + E) | O(V + E) |
+| 9 | - | Detect Cycle in an Undirected Graph | [Link](https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-) | GfG | O(V + E) | O(V + E) |
+| 10 | 130. | Surrounded Regions | [Link](https://leetcode.com/problems/surrounded-regions/description/) | LeetCode | O(m * n) | O(m * n) |
+| 11 | 133. | Clone Graph | [Link](https://leetcode.com/problems/clone-graph/description/) | LeetCode | O(V + E) | O(V) |
+| 12 | - | Detect Cycle in a Directed Graph | [Link](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | GfG | O(V + E) | O(V) |
+| 13 | 994. | Rotting Oranges | [Link](https://leetcode.com/problems/rotting-oranges/description/) | LeetCode | O(m * n) | O(m * n) |
 
 </details>
 
