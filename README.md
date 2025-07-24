@@ -4,6 +4,7 @@ This repository contains my personal collection of LeetCode solutions. The solut
 
 - Arrays
 - Binary Trees & Binary Search Trees
+- Graphs
 - HashMaps
 - Heaps (Priority Queues)
 - Kadane's Algorithm
