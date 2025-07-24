@@ -1,14 +1,17 @@
 package Graphs;
-// Code360: Topological Sort
-// Link: https://www.naukri.com/code360/problems/topological-sort_982938?leftPanelTabValue=SUBMISSION&customSource=studio_nav&isSignin=true
+// GfG: Topological Sort
+// Link: https://www.geeksforgeeks.org/problems/topological-sort/1
 
 // TC: O(V + E)
 // SC: O(V + E)
 
 import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Stack;
 
 public class topologicalSort {
+    // Using DFS
     public static ArrayList<Integer> topoSort(ArrayList<ArrayList<Integer>> edges, int V, int e) 
     {
         ArrayList<Integer> result = new ArrayList<>();
@@ -47,4 +50,44 @@ public class topologicalSort {
 
         stack.push(u);
     }  
+
+    // Using Kahn's Algorithm(BFS)
+    public static ArrayList<Integer> topoSort(int V, int[][] edges) {
+        ArrayList<Integer> result = new ArrayList<>();
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        Queue<Integer> q = new LinkedList<>();
+        int[] inDegree = new int[V];
+        
+        for(int i = 0; i < V; i++) {
+            adj.add(new ArrayList<Integer>());
+        }
+        
+        for(int[] edge: edges) {
+            int u = edge[0];
+            int v = edge[1];
+            
+            adj.get(u).add(v);
+            inDegree[v]++;
+        }
+        
+        for(int i = 0; i < V; i++) {
+            if(inDegree[i] == 0) {
+                q.offer(i);
+            }
+        }
+        
+        while(!q.isEmpty()) {
+            int node = q.poll();
+            result.add(node);
+            
+            for(int v: adj.get(node)) {
+                inDegree[v]--;
+                if(inDegree[v] == 0) {
+                    q.offer(v);
+                }
+            }
+        }
+        
+        return result;
+    }
 }
