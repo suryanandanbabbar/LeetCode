@@ -129,12 +129,13 @@ Below, click on any topic to view the list of solved problems with details.
 | 5 | - | Depth First Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GfG | O(V + E) | O(V) |
 | 6 | 542. | 01 Matrix | [Link](https://leetcode.com/problems/01-matrix/description/) | LeetCode | O(m * n) | O(m * n) |
 | 7 | - | Creating and Printing Adjacency List | [Link](https://www.naukri.com/code360/problems/creating-and-printing_1214551) | GfG | O(V + E) | O(V + E) |
-| 8 | - | Count Connected Components | [Link](https://neetcode.io/problems/count-connected-components) | NeetCode | O(V + E) | O(V + E) |
-| 9 | - | Detect Cycle in an Undirected Graph | [Link](https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-) | GfG | O(V + E) | O(V + E) |
-| 10 | 130. | Surrounded Regions | [Link](https://leetcode.com/problems/surrounded-regions/description/) | LeetCode | O(m * n) | O(m * n) |
-| 11 | 133. | Clone Graph | [Link](https://leetcode.com/problems/clone-graph/description/) | LeetCode | O(V + E) | O(V) |
-| 12 | - | Detect Cycle in a Directed Graph | [Link](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | GfG | O(V + E) | O(V) |
-| 13 | 994. | Rotting Oranges | [Link](https://leetcode.com/problems/rotting-oranges/description/) | LeetCode | O(m * n) | O(m * n) |
+| 8 | 841. | Keys and Rooms | [Link](https://leetcode.com/problems/keys-and-rooms/description/) | LeetCode | O(V + E) | O(V) |
+| 9 | - | Count Connected Components | [Link](https://neetcode.io/problems/count-connected-components) | NeetCode | O(V + E) | O(V + E) |
+| 10 | - | Detect Cycle in an Undirected Graph | [Link](https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-) | GfG | O(V + E) | O(V + E) |
+| 11 | 130. | Surrounded Regions | [Link](https://leetcode.com/problems/surrounded-regions/description/) | LeetCode | O(m * n) | O(m * n) |
+| 12 | 133. | Clone Graph | [Link](https://leetcode.com/problems/clone-graph/description/) | LeetCode | O(V + E) | O(V) |
+| 13 | - | Detect Cycle in a Directed Graph | [Link](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | GfG | O(V + E) | O(V) |
+| 14 | 994. | Rotting Oranges | [Link](https://leetcode.com/problems/rotting-oranges/description/) | LeetCode | O(m * n) | O(m * n) |
 
 </details>
 
