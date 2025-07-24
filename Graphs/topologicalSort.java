@@ -87,6 +87,10 @@ public class topologicalSort {
                 }
             }
         }
+
+        // Optional check for cycle
+        // return result.size() != V ? true : false;
+        // True - No cycle, False - Cycle exists
         
         return result;
     }
