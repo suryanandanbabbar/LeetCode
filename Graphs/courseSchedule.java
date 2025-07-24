@@ -5,6 +5,7 @@ package Graphs;
 // TC: O(V + E)
 // SC: O(V + E)
 
+// Same as directedGraphCycle.java, but with a different context
 import java.util.ArrayList;
 
 public class courseSchedule {
