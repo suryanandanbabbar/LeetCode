@@ -1,6 +1,6 @@
 package Graphs;
 // GfG: Dijkstra's Algorithm for Shortest Path
-// Link: https://www.geeksforgeeks.org/dijkstras-shortest-path-al
+// Link: https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1
 
 // TC: O(E log V)
 // SC: O(V + E)
