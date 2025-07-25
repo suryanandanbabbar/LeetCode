@@ -123,22 +123,24 @@ Below, click on any topic to view the list of solved problems with details.
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
 | 1 | - | Print Adjacency List | [Link](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | GfG | O(V + E) | O(V + E) |
-| 2 | 200. | Number of Islands | [Link](https://leetcode.com/problems/number-of-islands/) | LeetCode | O(m * n) | O(m * n) |
-| 3 | - | BFS Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GfG | O(V + E) | O(V + E) |
-| 4 | 210. | Course Schedule II | [Link](https://leetcode.com/problems/course-schedule-ii/description/) | LeetCode | O(V + E) | O(V + E) |
-| 5 | - | Topological Sort | [Link](https://www.geeksforgeeks.org/problems/topological-sort/1) | GfG | O(V + E) | O(V + E) |
-| 6 | - | Depth First Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GfG | O(V + E) | O(V) |
-| 7 | 542. | 01 Matrix | [Link](https://leetcode.com/problems/01-matrix/description/) | LeetCode | O(m * n) | O(m * n) |
-| 8 | - | Creating and Printing Adjacency List | [Link](https://www.naukri.com/code360/problems/creating-and-printing_1214551) | GfG | O(V + E) | O(V + E) |
-| 9 | 841. | Keys and Rooms | [Link](https://leetcode.com/problems/keys-and-rooms/description/) | LeetCode | O(V + E) | O(V) |
-| 10 | - | Count Connected Components | [Link](https://neetcode.io/problems/count-connected-components) | NeetCode | O(V + E) | O(V + E) |
-| 11 | - | Detect Cycle in an Undirected Graph | [Link](https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-) | GfG | O(V + E) | O(V + E) |
-| 12 | 130. | Surrounded Regions | [Link](https://leetcode.com/problems/surrounded-regions/description/) | LeetCode | O(m * n) | O(m * n) |
-| 13 | 207. | Course Schedule | [Link](https://leetcode.com/problems/course-schedule/description/) | LeetCode | O(V + E) | O(V + E) |
-| 14 | 133. | Clone Graph | [Link](https://leetcode.com/problems/clone-graph/description/) | LeetCode | O(V + E) | O(V) |
-| 15 | 797. | All Paths From Source to Target | [Link](https://leetcode.com/problems/all-paths-from-source-to-target/) | LeetCode | O(2^N) | O(N) |
-| 16 | - | Detect Cycle in a Directed Graph | [Link](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | GfG | O(V + E) | O(V) |
-| 17 | 994. | Rotting Oranges | [Link](https://leetcode.com/problems/rotting-oranges/description/) | LeetCode | O(m * n) | O(m * n) |
+| 2 | - | Shortest Path in Undirected Graph | [Link](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297?leftPanelTabValue=PROBLEM) | Code360 | O(V + E) | O(V + E) |
+| 3 | 200. | Number of Islands | [Link](https://leetcode.com/problems/number-of-islands/) | LeetCode | O(m * n) | O(m * n) |
+| 4 | - | Dijkstra's Algorithm for Shortest Path | [Link](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | GfG | O(E log V) | O(V + E) |
+| 5 | - | BFS Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GfG | O(V + E) | O(V + E) |
+| 6 | 210. | Course Schedule II | [Link](https://leetcode.com/problems/course-schedule-ii/description/) | LeetCode | O(V + E) | O(V + E) |
+| 7 | - | Topological Sort | [Link](https://www.geeksforgeeks.org/problems/topological-sort/1) | GfG | O(V + E) | O(V + E) |
+| 8 | - | Depth First Traversal of Graph | [Link](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GfG | O(V + E) | O(V) |
+| 9 | 542. | 01 Matrix | [Link](https://leetcode.com/problems/01-matrix/description/) | LeetCode | O(m * n) | O(m * n) |
+| 10 | - | Creating and Printing Adjacency List | [Link](https://www.naukri.com/code360/problems/creating-and-printing_1214551) | GfG | O(V + E) | O(V + E) |
+| 11 | 841. | Keys and Rooms | [Link](https://leetcode.com/problems/keys-and-rooms/description/) | LeetCode | O(V + E) | O(V) |
+| 12 | - | Count Connected Components | [Link](https://neetcode.io/problems/count-connected-components) | NeetCode | O(V + E) | O(V + E) |
+| 13 | - | Detect Cycle in an Undirected Graph | [Link](https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-) | GfG | O(V + E) | O(V + E) |
+| 14 | 130. | Surrounded Regions | [Link](https://leetcode.com/problems/surrounded-regions/description/) | LeetCode | O(m * n) | O(m * n) |
+| 15 | 207. | Course Schedule | [Link](https://leetcode.com/problems/course-schedule/description/) | LeetCode | O(V + E) | O(V + E) |
+| 16 | 133. | Clone Graph | [Link](https://leetcode.com/problems/clone-graph/description/) | LeetCode | O(V + E) | O(V) |
+| 17 | 797. | All Paths From Source to Target | [Link](https://leetcode.com/problems/all-paths-from-source-to-target/) | LeetCode | O(2^N) | O(N) |
+| 18 | - | Detect Cycle in a Directed Graph | [Link](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | GfG | O(V + E) | O(V) |
+| 19 | 994. | Rotting Oranges | [Link](https://leetcode.com/problems/rotting-oranges/description/) | LeetCode | O(m * n) | O(m * n) |
 
 </details>
 
