@@ -16,6 +16,7 @@ class fibonacciSeries {
 
     // Tabulation approach
     public int fibTab(int n) {
+        if(n <= 0) return 0;
         int[] dp = new int[n + 1];
         dp[0] = 0;
         dp[1] = 1;
