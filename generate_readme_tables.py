@@ -14,7 +14,8 @@ TOPICS = [
     "Stack",
     "Strings",
     "Bit_Manipulation",
-    "Two_Pointers"
+    "Two_Pointers",
+    "Dynamic_Programming"
 ]
 
 

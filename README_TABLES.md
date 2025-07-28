@@ -275,3 +275,12 @@ Below, click on any topic to view the list of solved problems with details.
 | 16 | 1004. | Max Consecutive Ones III | [Link](https://leetcode.com/problems/max-consecutive-ones-iii/) | LeetCode | O(n) | O(1) |
 
 </details>
+
+<details>
+<summary><strong>Dynamic_Programming</strong></summary>
+
+| S.No | QuestionNumber | Title | Link | Platform | Time | Space |
+|---|---|---|---|---|---|---|
+| 1 | 509. | Fibonacci Number | [Link](https://leetcode.com/problems/fibonacci-number/description/) | LeetCode | O(n) | O(n) |
+
+</details>
