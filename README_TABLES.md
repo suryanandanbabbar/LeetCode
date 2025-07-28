@@ -281,6 +281,14 @@ Below, click on any topic to view the list of solved problems with details.
 
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | 509. | Fibonacci Number | [Link](https://leetcode.com/problems/fibonacci-number/description/) | LeetCode | O(n) | O(n) |
+| 1 | 70. | Climbing Stairs | [Link](https://leetcode.com/problems/climbing-stairs/) | LeetCode | O(n) | O(n) |
+| 2 | 63. | Unique Paths II | [Link](https://leetcode.com/problems/unique-paths-ii/description/) | LeetCode | O(m * n) | O(m * n) |
+| 3 | 509. | Fibonacci Number | [Link](https://leetcode.com/problems/fibonacci-number/description/) | LeetCode | O(n) | O(n) |
+| 4 | 62. | Unique Paths | [Link](https://leetcode.com/problems/unique-paths/description/) | LeetCode | O(m * n) | O(m * n) |
+| 5 | 139. | Word Break | [Link](https://leetcode.com/problems/word-break/description/) | LeetCode | O(n^2 * m) | O(n) |
+| 6 | 213. | House Robber II | [Link](https://leetcode.com/problems/house-robber-ii/description/) | LeetCode | O(n) | O(n) |
+| 7 | 198. | House Robber | [Link](https://leetcode.com/problems/house-robber/description/) | LeetCode | O(n) | O(n) |
+| 8 | 1137. | N-th Tribonacci Number | [Link](https://leetcode.com/problems/n-th-tribonacci-number/) | LeetCode | O(n) | O(n) |
+| 9 | 64. | Minimum Path Sum | [Link](https://leetcode.com/problems/minimum-path-sum/description/) | LeetCode | O(m * n) | O(1) |
 
 </details>
