@@ -6,7 +6,6 @@ package Bit_Manipulation;
 // SC: O(1)
 
 public class maxConsOnes {
-    // GfG: https://leetcode.com/problems/max-consecutive-ones/
     public static int maxConsecutiveOnes(int n) {
         int result = 0;
 
