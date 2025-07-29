@@ -2,10 +2,10 @@ package Binary_Search_Tree;
 // LeetCode Problem: 450. Delete Node in BST
 // Link: https://leetcode.com/problems/delete-node-in-a-bst/submissions/1701090443/
 
-import java.util.ArrayList;
-
 // TC: O(H)
 // SC: O(H)
+
+import java.util.ArrayList;
 
 public class deletion {
     private TreeNode findMin(TreeNode node) {
