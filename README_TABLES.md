@@ -286,9 +286,14 @@ Below, click on any topic to view the list of solved problems with details.
 | 3 | 509. | Fibonacci Number | [Link](https://leetcode.com/problems/fibonacci-number/description/) | LeetCode | O(n) | O(n) |
 | 4 | 62. | Unique Paths | [Link](https://leetcode.com/problems/unique-paths/description/) | LeetCode | O(m * n) | O(m * n) |
 | 5 | 139. | Word Break | [Link](https://leetcode.com/problems/word-break/description/) | LeetCode | O(n^2 * m) | O(n) |
-| 6 | 213. | House Robber II | [Link](https://leetcode.com/problems/house-robber-ii/description/) | LeetCode | O(n) | O(n) |
-| 7 | 198. | House Robber | [Link](https://leetcode.com/problems/house-robber/description/) | LeetCode | O(n) | O(n) |
-| 8 | 1137. | N-th Tribonacci Number | [Link](https://leetcode.com/problems/n-th-tribonacci-number/) | LeetCode | O(n) | O(n) |
-| 9 | 64. | Minimum Path Sum | [Link](https://leetcode.com/problems/minimum-path-sum/description/) | LeetCode | O(m * n) | O(1) |
+| 6 | 120. | Triangle | [Link](https://leetcode.com/problems/triangle/) | LeetCode | O(n^2) | O(n) |
+| 7 | 213. | House Robber II | [Link](https://leetcode.com/problems/house-robber-ii/description/) | LeetCode | O(n) | O(n) |
+| 8 | 416. | Partition Equal Subset Sum | [Link](https://leetcode.com/problems/partition-equal-subset-sum/) | LeetCode | O(n * sum) | O(n * sum) |
+| 9 | 198. | House Robber | [Link](https://leetcode.com/problems/house-robber/description/) | LeetCode | O(n) | O(n) |
+| 10 | - | Perfect Sum Problem | [Link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GfG | O(n * target) | O(target) |
+| 11 | - | 0/1 Knapsack Problem | [Link](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | GfG | O(n * W) | O(n * W) |
+| 12 | 1137. | N-th Tribonacci Number | [Link](https://leetcode.com/problems/n-th-tribonacci-number/) | LeetCode | O(n) | O(n) |
+| 13 | - | Subset Sum Problem | [Link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GfG | O(n * sum) | O(n * sum) |
+| 14 | 64. | Minimum Path Sum | [Link](https://leetcode.com/problems/minimum-path-sum/description/) | LeetCode | O(m * n) | O(1) |
 
 </details>
