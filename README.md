@@ -79,9 +79,8 @@ Below, click on any topic to view the list of solved problems with details.
 | 18 | 226. | Binary Tree | [Link](https://leetcode.com/problems/invert-binary-tree/description/) | LeetCode | O(N) | O(H) |
 | 19 | 111. | Minimum Depth of Binary Tree | [Link](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | LeetCode | O(N) | O(H) |
 | 20 | 112. | Path Sum | [Link](https://leetcode.com/problems/path-sum/submissions/1699844158/) | LeetCode | O(N) | O(N) |
-| 21 | 669. | Trim a Binary Search Tree | [Link](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | LeetCode | O(N) | O(H) |
-| 22 | - | Bottom View of Binary Tree | [Link](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | GfG | O(N log N) | O(N) |
-| 23 | 543. | Diameter of Binary Tree | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode | O(n) | O(h) |
+| 21 | - | Bottom View of Binary Tree | [Link](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | GfG | O(N log N) | O(N) |
+| 22 | 543. | Diameter of Binary Tree | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode | O(n) | O(h) |
 
 </details>
 
@@ -99,7 +98,7 @@ Below, click on any topic to view the list of solved problems with details.
 | 7 | 108. | Convert Sorted Array to Binary Search Tree | [Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | LeetCode | O(N) | O(N) |
 | 8 | - | Minimum Element in BST | [Link](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | GfG | O(H) | O(1) |
 | 9 | 99. | Recover Binary Search Tree | [Link](https://leetcode.com/problems/recover-binary-search-tree/description/) | LeetCode | O(N) | O(H) |
-| 10 | - | Floor in BST | [Link](https://www.geeksforgeeks.org/problems/floor-in-bst/1) | GfG | O(h) |  |
+| 10 | - | Floor in BST | [Link](https://www.geeksforgeeks.org/problems/floor-in-bst/1) | GfG | O(h) | O(1) |
 | 11 | - | Check Whether BST Contains Dead End | [Link](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1) | GfG | O(N) | O(N) |
 | 12 | - | Brothers from Different Root | [Link](https://www.geeksforgeeks.org/problems/brothers-from-different-root/1) | GfG | O(N1 + N2) | O(N1 + N2) |
 | 13 | - | Merge Two BSTs | [Link](https://www.geeksforgeeks.org/problems/merge-two-bst-s/1) | GfG | O(N + M) | O(N + M) |
@@ -113,7 +112,8 @@ Below, click on any topic to view the list of solved problems with details.
 | 21 | - | Implementing Ceil in BST | [Link](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | GfG | O(h) | O(1) |
 | 22 | 1382. | Balance a Binary Search Tree | [Link](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | LeetCode | O(N) | O(N) |
 | 23 | - | Predecessor and Successor in BST | [Link](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | GfG | O(N) | O(N) |
-| 24 | - | Median of BST | [Link](https://www.geeksforgeeks.org/problems/median-of-bst/1) | GfG | O(N) | O(N) |
+| 24 | 669. | Trim a Binary Search Tree | [Link](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | LeetCode | O(N) | O(H) |
+| 25 | - | Median of BST | [Link](https://www.geeksforgeeks.org/problems/median-of-bst/1) | GfG | O(N) | O(N) |
 
 </details>
 
