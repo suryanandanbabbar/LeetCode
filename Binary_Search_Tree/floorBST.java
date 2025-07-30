@@ -3,7 +3,7 @@ package Binary_Search_Tree;
 // Link: https://www.geeksforgeeks.org/problems/floor-in-bst/1
 
 // TC: O(h)
-// TC: O(1)
+// SC: O(1)
 
 public class floorBST {
    public static int floor(Node root, int key) {
