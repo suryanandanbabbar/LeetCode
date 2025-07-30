@@ -1,4 +1,4 @@
-package Binary_Tree;
+package Binary_Search_Tree;
 // LeetCode Problem: 669. Trim a Binary Search Tree
 // Link: https://leetcode.com/problems/trim-a-binary-search-tree/description/
 
