@@ -257,15 +257,16 @@ Below, click on any topic to view the list of solved problems with details.
 | 5 | 485. | Max Consecutive Ones | [Link](https://leetcode.com/problems/max-consecutive-ones/) | LeetCode | O(n) | O(1) |
 | 6 | 338. | Counting Bits | [Link](https://leetcode.com/problems/counting-bits/) | LeetCode | O(n) | O(n) |
 | 7 | - | Find XOR of Numbers from L to R | [Link](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | GfG | O(1) | O(1) |
-| 8 | - | Set the Rightmost Unset Bit | [Link](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GfG | O(1) | O(1) |
-| 9 | 2220. | Minimum Bit Flips to Convert Number | [Link](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | LeetCode | O(log n) | O(1) |
-| 10 | - | Find First Set Bit | [Link](https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1) | GfG | O(log n) | O(1) |
-| 11 | - | Check Kth Bit Set or Not | [Link](https://www.geeksforgeeks.org/check-kth-bit-set-not/) | GfG | O(1) | O(1) |
-| 12 | - | Swap Two Numbers | [Link](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | GfG | O(1) | O(1) |
-| 13 | - | Print All Bitwise Subsets of a Number | [Link](https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1) | GfG | O(n) | O(n) |
-| 14 | 136. | Single Number | [Link](https://leetcode.com/problems/single-number/) | LeetCode | O(n) | O(1) |
-| 15 | 67. | Add Binary | [Link](https://leetcode.com/problems/add-binary/) | LeetCode | O(max(m, n)) | O(max(m, n)) |
-| 16 | 191. | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) | LeetCode | O(log n) | O(1) |
+| 8 | 869. | Reordered Power of 2 | [Link](https://leetcode.com/problems/reordered-power-of-2/description/) | LeetCode | O(n log n) | O(n) |
+| 9 | - | Set the Rightmost Unset Bit | [Link](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GfG | O(1) | O(1) |
+| 10 | 2220. | Minimum Bit Flips to Convert Number | [Link](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | LeetCode | O(log n) | O(1) |
+| 11 | - | Find First Set Bit | [Link](https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1) | GfG | O(log n) | O(1) |
+| 12 | - | Check Kth Bit Set or Not | [Link](https://www.geeksforgeeks.org/check-kth-bit-set-not/) | GfG | O(1) | O(1) |
+| 13 | - | Swap Two Numbers | [Link](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | GfG | O(1) | O(1) |
+| 14 | - | Print All Bitwise Subsets of a Number | [Link](https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1) | GfG | O(n) | O(n) |
+| 15 | 136. | Single Number | [Link](https://leetcode.com/problems/single-number/) | LeetCode | O(n) | O(1) |
+| 16 | 67. | Add Binary | [Link](https://leetcode.com/problems/add-binary/) | LeetCode | O(max(m, n)) | O(max(m, n)) |
+| 17 | 191. | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) | LeetCode | O(log n) | O(1) |
 
 </details>
 
@@ -299,19 +300,22 @@ Below, click on any topic to view the list of solved problems with details.
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
 | 1 | 70. | Climbing Stairs | [Link](https://leetcode.com/problems/climbing-stairs/) | LeetCode | O(n) | O(n) |
-| 2 | 63. | Unique Paths II | [Link](https://leetcode.com/problems/unique-paths-ii/description/) | LeetCode | O(m * n) | O(m * n) |
-| 3 | 509. | Fibonacci Number | [Link](https://leetcode.com/problems/fibonacci-number/description/) | LeetCode | O(n) | O(n) |
-| 4 | 62. | Unique Paths | [Link](https://leetcode.com/problems/unique-paths/description/) | LeetCode | O(m * n) | O(m * n) |
-| 5 | 139. | Word Break | [Link](https://leetcode.com/problems/word-break/description/) | LeetCode | O(n^2 * m) | O(n) |
-| 6 | 120. | Triangle | [Link](https://leetcode.com/problems/triangle/) | LeetCode | O(n^2) | O(n) |
-| 7 | 213. | House Robber II | [Link](https://leetcode.com/problems/house-robber-ii/description/) | LeetCode | O(n) | O(n) |
-| 8 | 416. | Partition Equal Subset Sum | [Link](https://leetcode.com/problems/partition-equal-subset-sum/) | LeetCode | O(n * sum) | O(n * sum) |
-| 9 | 198. | House Robber | [Link](https://leetcode.com/problems/house-robber/description/) | LeetCode | O(n) | O(n) |
-| 10 | - | Perfect Sum Problem | [Link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GfG | O(n * target) | O(target) |
-| 11 | - | 0/1 Knapsack Problem | [Link](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | GfG | O(n * W) | O(n * W) |
-| 12 | 1137. | N-th Tribonacci Number | [Link](https://leetcode.com/problems/n-th-tribonacci-number/) | LeetCode | O(n) | O(n) |
-| 13 | - | Subset Sum Problem | [Link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GfG | O(n * sum) | O(n * sum) |
-| 14 | 64. | Minimum Path Sum | [Link](https://leetcode.com/problems/minimum-path-sum/description/) | LeetCode | O(m * n) | O(1) |
+| 2 | - | Matrix Chain Multiplication | [Link](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) | GfG | O(n^3) | O(n^2) |
+| 3 | 63. | Unique Paths II | [Link](https://leetcode.com/problems/unique-paths-ii/description/) | LeetCode | O(m * n) | O(m * n) |
+| 4 | 509. | Fibonacci Number | [Link](https://leetcode.com/problems/fibonacci-number/description/) | LeetCode | O(n) | O(n) |
+| 5 | 62. | Unique Paths | [Link](https://leetcode.com/problems/unique-paths/description/) | LeetCode | O(m * n) | O(m * n) |
+| 6 | 139. | Word Break | [Link](https://leetcode.com/problems/word-break/description/) | LeetCode | O(n^2 * m) | O(n) |
+| 7 | 120. | Triangle | [Link](https://leetcode.com/problems/triangle/) | LeetCode | O(n^2) | O(n) |
+| 8 | 516. | Longest Palindromic Subsequence | [Link](https://leetcode.com/problems/longest-palindromic-subsequence/description) | LeetCode | O(n^2) | O(n^2) |
+| 9 | 213. | House Robber II | [Link](https://leetcode.com/problems/house-robber-ii/description/) | LeetCode | O(n) | O(n) |
+| 10 | 416. | Partition Equal Subset Sum | [Link](https://leetcode.com/problems/partition-equal-subset-sum/) | LeetCode | O(n * sum) | O(n * sum) |
+| 11 | 198. | House Robber | [Link](https://leetcode.com/problems/house-robber/description/) | LeetCode | O(n) | O(n) |
+| 12 | 1143. | Longest Common Subsequence | [Link](https://leetcode.com/problems/longest-common-subsequence/description/) | LeetCode | O(n * m) | O(n * m) |
+| 13 | - | Perfect Sum Problem | [Link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GfG | O(n * target) | O(target) |
+| 14 | - | 0/1 Knapsack Problem | [Link](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | GfG | O(n * W) | O(n * W) |
+| 15 | 1137. | N-th Tribonacci Number | [Link](https://leetcode.com/problems/n-th-tribonacci-number/) | LeetCode | O(n) | O(n) |
+| 16 | - | Subset Sum Problem | [Link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GfG | O(n * sum) | O(n * sum) |
+| 17 | 64. | Minimum Path Sum | [Link](https://leetcode.com/problems/minimum-path-sum/description/) | LeetCode | O(m * n) | O(1) |
 
 </details>
 
