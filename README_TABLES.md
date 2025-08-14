@@ -216,15 +216,16 @@ Below, click on any topic to view the list of solved problems with details.
 | 2 | 6. | ZigZag Conversion | [Link](https://leetcode.com/problems/zigzag-conversion/description/) | LeetCode | O(n) | O(n) |
 | 3 | 1328. | Break a Palindrome | [Link](https://leetcode.com/problems/break-a-palindrome/) | LeetCode | O(n) | O(n) |
 | 4 | 3042. | Is Prefix and Suffix | [Link](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/) | LeetCode | O(n) | O(1) |
-| 5 | 3136. | Valid Word | [Link](https://leetcode.com/problems/valid-word/) | LeetCode | O(n) | O(1) |
-| 6 | 131. | Palindrome Partioning | [Link](https://leetcode.com/problems/palindrome-partitioning/) | LeetCode | O(n * 2^n) | O(n * 2^n) |
-| 7 | 2678. | Count the Number of Senior Citizens | [Link](https://leetcode.com/problems/number-of-senior-citizens/description/) | LeetCode | O(n) | O(1) |
-| 8 | 17. | Letter Combinations of Phone Number | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | LeetCode | O(3^n) | O(3^n) |
-| 9 | 3337. | Total Characters in String After Transformations II | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/) | LeetCode | O(t * n * m) | O(n * m) |
-| 10 | 205. | Isomorphic Strings | [Link](https://leetcode.com/problems/isomorphic-strings/) | LeetCode | O(n) | O(1) |
-| 11 | 451. | Sort Characters By Frequency | [Link](https://leetcode.com/problems/sort-characters-by-frequency/description/) | LeetCode | O(n log n) | O(n) |
-| 12 | 2053. | Kth Distinct String in an Array | [Link](https://leetcode.com/problems/distinct-string/) | LeetCode | O(n) | O(n) |
-| 13 | 3335. | Total Characters in String After Transformations | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | LeetCode | O(t * n) | O(1) |
+| 5 | 2264. | Largest 3-Digit Number in a String | [Link](https://leetcode.com/problems/largest-3-digit-number-in-a-string) | LeetCode | O(n) | O(1) |
+| 6 | 3136. | Valid Word | [Link](https://leetcode.com/problems/valid-word/) | LeetCode | O(n) | O(1) |
+| 7 | 131. | Palindrome Partioning | [Link](https://leetcode.com/problems/palindrome-partitioning/) | LeetCode | O(n * 2^n) | O(n * 2^n) |
+| 8 | 2678. | Count the Number of Senior Citizens | [Link](https://leetcode.com/problems/number-of-senior-citizens/description/) | LeetCode | O(n) | O(1) |
+| 9 | 17. | Letter Combinations of Phone Number | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | LeetCode | O(3^n) | O(3^n) |
+| 10 | 3337. | Total Characters in String After Transformations II | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/) | LeetCode | O(t * n * m) | O(n * m) |
+| 11 | 205. | Isomorphic Strings | [Link](https://leetcode.com/problems/isomorphic-strings/) | LeetCode | O(n) | O(1) |
+| 12 | 451. | Sort Characters By Frequency | [Link](https://leetcode.com/problems/sort-characters-by-frequency/description/) | LeetCode | O(n log n) | O(n) |
+| 13 | 2053. | Kth Distinct String in an Array | [Link](https://leetcode.com/problems/distinct-string/) | LeetCode | O(n) | O(n) |
+| 14 | 3335. | Total Characters in String After Transformations | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | LeetCode | O(t * n) | O(1) |
 
 </details>
 
