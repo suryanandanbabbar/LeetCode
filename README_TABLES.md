@@ -249,8 +249,9 @@ Below, click on any topic to view the list of solved problems with details.
 | 13 | - | Swap Two Numbers | [Link](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | GfG | O(1) | O(1) |
 | 14 | - | Print All Bitwise Subsets of a Number | [Link](https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1) | GfG | O(n) | O(n) |
 | 15 | 136. | Single Number | [Link](https://leetcode.com/problems/single-number/) | LeetCode | O(n) | O(1) |
-| 16 | 67. | Add Binary | [Link](https://leetcode.com/problems/add-binary/) | LeetCode | O(max(m, n)) | O(max(m, n)) |
-| 17 | 191. | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) | LeetCode | O(log n) | O(1) |
+| 16 | 342. | Power of Four | [Link](https://leetcode.com/problems/power-of-four/) | LeetCode | O(1) | O(1) |
+| 17 | 67. | Add Binary | [Link](https://leetcode.com/problems/add-binary/) | LeetCode | O(max(m, n)) | O(max(m, n)) |
+| 18 | 191. | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) | LeetCode | O(log n) | O(1) |
 
 </details>
 
