@@ -238,11 +238,12 @@ Below, click on any topic to view the list of solved problems with details.
 | 7 | 131. | Palindrome Partioning | [Link](https://leetcode.com/problems/palindrome-partitioning/) | LeetCode | O(n * 2^n) | O(n * 2^n) |
 | 8 | 2678. | Count the Number of Senior Citizens | [Link](https://leetcode.com/problems/number-of-senior-citizens/description/) | LeetCode | O(n) | O(1) |
 | 9 | 17. | Letter Combinations of Phone Number | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | LeetCode | O(3^n) | O(3^n) |
-| 10 | 3337. | Total Characters in String After Transformations II | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/) | LeetCode | O(t * n * m) | O(n * m) |
-| 11 | 205. | Isomorphic Strings | [Link](https://leetcode.com/problems/isomorphic-strings/) | LeetCode | O(n) | O(1) |
-| 12 | 451. | Sort Characters By Frequency | [Link](https://leetcode.com/problems/sort-characters-by-frequency/description/) | LeetCode | O(n log n) | O(n) |
-| 13 | 2053. | Kth Distinct String in an Array | [Link](https://leetcode.com/problems/distinct-string/) | LeetCode | O(n) | O(n) |
-| 14 | 3335. | Total Characters in String After Transformations | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | LeetCode | O(t * n) | O(1) |
+| 10 | 1323. | Maximum 69 Number | [Link](https://leetcode.com/problems/maximum-69-number/) | LeetCode | O(n) | O(n) |
+| 11 | 3337. | Total Characters in String After Transformations II | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/) | LeetCode | O(t * n * m) | O(n * m) |
+| 12 | 205. | Isomorphic Strings | [Link](https://leetcode.com/problems/isomorphic-strings/) | LeetCode | O(n) | O(1) |
+| 13 | 451. | Sort Characters By Frequency | [Link](https://leetcode.com/problems/sort-characters-by-frequency/description/) | LeetCode | O(n log n) | O(n) |
+| 14 | 2053. | Kth Distinct String in an Array | [Link](https://leetcode.com/problems/distinct-string/) | LeetCode | O(n) | O(n) |
+| 15 | 3335. | Total Characters in String After Transformations | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | LeetCode | O(t * n) | O(1) |
 
 </details>
 
