@@ -1,6 +1,6 @@
 package Dynamic_Programming;
-// LeetCode 837. New 21 Game
-// https://leetcode.com/problems/new-21-game/description/
+// LeetCode Problem: 837. New 21 Game
+// Link: https://leetcode.com/problems/new-21-game/description/
 
 // TC: O(n)
 // SC: O(n)
