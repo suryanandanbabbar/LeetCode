@@ -312,13 +312,14 @@ Below, click on any topic to view the list of solved problems with details.
 | 8 | 516. | Longest Palindromic Subsequence | [Link](https://leetcode.com/problems/longest-palindromic-subsequence/description) | LeetCode | O(n^2) | O(n^2) |
 | 9 | 213. | House Robber II | [Link](https://leetcode.com/problems/house-robber-ii/description/) | LeetCode | O(n) | O(n) |
 | 10 | 416. | Partition Equal Subset Sum | [Link](https://leetcode.com/problems/partition-equal-subset-sum/) | LeetCode | O(n * sum) | O(n * sum) |
-| 11 | 198. | House Robber | [Link](https://leetcode.com/problems/house-robber/description/) | LeetCode | O(n) | O(n) |
-| 12 | 1143. | Longest Common Subsequence | [Link](https://leetcode.com/problems/longest-common-subsequence/description/) | LeetCode | O(n * m) | O(n * m) |
-| 13 | - | Perfect Sum Problem | [Link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GfG | O(n * target) | O(target) |
-| 14 | - | 0/1 Knapsack Problem | [Link](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | GfG | O(n * W) | O(n * W) |
-| 15 | 1137. | N-th Tribonacci Number | [Link](https://leetcode.com/problems/n-th-tribonacci-number/) | LeetCode | O(n) | O(n) |
-| 16 | - | Subset Sum Problem | [Link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GfG | O(n * sum) | O(n * sum) |
-| 17 | 64. | Minimum Path Sum | [Link](https://leetcode.com/problems/minimum-path-sum/description/) | LeetCode | O(m * n) | O(1) |
+| 11 | 837. | New 21 Game | [Link](https://leetcode.com/problems/new-21-game/description/) | LeetCode | O(n) | O(n) |
+| 12 | 198. | House Robber | [Link](https://leetcode.com/problems/house-robber/description/) | LeetCode | O(n) | O(n) |
+| 13 | 1143. | Longest Common Subsequence | [Link](https://leetcode.com/problems/longest-common-subsequence/description/) | LeetCode | O(n * m) | O(n * m) |
+| 14 | - | Perfect Sum Problem | [Link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GfG | O(n * target) | O(target) |
+| 15 | - | 0/1 Knapsack Problem | [Link](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | GfG | O(n * W) | O(n * W) |
+| 16 | 1137. | N-th Tribonacci Number | [Link](https://leetcode.com/problems/n-th-tribonacci-number/) | LeetCode | O(n) | O(n) |
+| 17 | - | Subset Sum Problem | [Link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GfG | O(n * sum) | O(n * sum) |
+| 18 | 64. | Minimum Path Sum | [Link](https://leetcode.com/problems/minimum-path-sum/description/) | LeetCode | O(m * n) | O(1) |
 
 </details>
 
