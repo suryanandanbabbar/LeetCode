@@ -25,33 +25,34 @@ Below, click on any topic to view the list of solved problems with details.
 | S.No | QuestionNumber | Title | Link | Platform | Time | Space |
 |---|---|---|---|---|---|---|
 | 1 | 1380. | Lucky Number in a Matrix | [Link](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | LeetCode | O(m * n) | O(m + n) |
-| 2 | 90. | Subsets II | [Link](https://leetcode.com/problems/subsets-ii/) | LeetCode | O(n^2 log n) | O(n^2) |
-| 3 | 1508. | Range Sum of Sorted Subarray Sums | [Link](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums) | LeetCode | O(n^2 log n) | O(n^2) |
-| 4 | 991. | Broken Calculator | [Link](https://leetcode.com/problems/broken-calculator/) | LeetCode | O(log(target/startValue)) | O(1) |
-| 5 | 1833. | Maximum Ice Cream Bars | [Link](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | LeetCode | O(n log n) | O(1) |
-| 6 | 27. | Remove Element | [Link](https://leetcode.com/problems/remove-element/) | LeetCode | O(n) | O(1) |
-| 7 | 26. | Remove Duplicates from Sorted Array | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | LeetCode | O(n log n) | O(1) |
-| 8 | 435. | Non-overlapping Intervals | [Link](https://leetcode.com/problems/non-overlapping-intervals/) | LeetCode | O(n log n) | O(1) |
-| 9 | 80. | Remove Duplicates from Sorted Array II | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | LeetCode | O(n) | O(1) |
-| 10 | 2270. | Valid Split of an Array | [Link](https://leetcode.com/problems/number-of-ways-to-split-array/) | LeetCode | O(n) | O(1) |
-| 11 | 77. | Combinations | [Link](https://leetcode.com/problems/combinations/) | LeetCode | O(n! / (k! * (n - k)!)) | O(k) |
-| 12 | 202. | Happy Number | [Link](https://leetcode.com/problems/happy-number/) | LeetCode | O(log n) | O(1) |
-| 13 | 56. | Merge Intervals | [Link](https://leetcode.com/problems/merge-intervals/) | LeetCode | O(n log n) | O(n) |
-| 14 | 88. | Merge Sorted Array | [Link](https://leetcode.com/problems/merge-sorted-array/) | LeetCode | O((m + n) log(m + n)) | O(1) |
-| 15 | 921. | Minimum Add to Make Parentheses Valid | [Link](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | LeetCode | O(n) | O(n) |
-| 16 | 1051. | Height Checker | [Link](https://leetcode.com/problems/height-checker/) | LeetCode | O(n log n) | O(n) |
-| 17 | 189. | Rotate Array | [Link](https://leetcode.com/problems/rotate-array/) | LeetCode | O(n) | O(1) |
-| 18 | 1846. | Maximum Element After Decrementing And Rearranging | [Link](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | LeetCode | O(n log n) | O(1) |
-| 19 | 1346. | Check If N and Its Double Exist | [Link](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | LeetCode | O(n^2) | O(1) |
-| 20 | 9. | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number/) | LeetCode | O(log n) | O(1) |
-| 21 | - | Perfect Sum Problem | [Link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GfG | O(n * target) | O(target) |
-| 22 | 39. | Combination Sum | [Link](https://leetcode.com/problems/combination-sum/) | LeetCode | O(2^n) | O(k) |
-| 23 | - | Subset Sum Problem | [Link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GfG | O(n * sum) | O(n * sum) |
-| 24 | 7. | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | LeetCode | O(log n) | O(1) |
-| 25 | 2348. | Number of Zero-Filled Subarrays | [Link](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | LeetCode | O(n) | O(1) |
-| 26 | 69. | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | LeetCode | O(log x) | O(1) |
-| 27 | 169. | Majority Element | [Link](https://leetcode.com/problems/majority-element/) | LeetCode | O(n) | O(1) |
-| 28 | 121. | Buy and Sell Stock | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | O(n) | O(1) |
+| 2 | 3195. | Minimum Area to Cover All Ones | [Link](https://leetcode.com/problems/minimum-area-to-cover-all-ones/) | LeetCode | O(m * n) | O(1) |
+| 3 | 90. | Subsets II | [Link](https://leetcode.com/problems/subsets-ii/) | LeetCode | O(n^2 log n) | O(n^2) |
+| 4 | 1508. | Range Sum of Sorted Subarray Sums | [Link](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums) | LeetCode | O(n^2 log n) | O(n^2) |
+| 5 | 991. | Broken Calculator | [Link](https://leetcode.com/problems/broken-calculator/) | LeetCode | O(log(target/startValue)) | O(1) |
+| 6 | 1833. | Maximum Ice Cream Bars | [Link](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | LeetCode | O(n log n) | O(1) |
+| 7 | 27. | Remove Element | [Link](https://leetcode.com/problems/remove-element/) | LeetCode | O(n) | O(1) |
+| 8 | 26. | Remove Duplicates from Sorted Array | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | LeetCode | O(n log n) | O(1) |
+| 9 | 435. | Non-overlapping Intervals | [Link](https://leetcode.com/problems/non-overlapping-intervals/) | LeetCode | O(n log n) | O(1) |
+| 10 | 80. | Remove Duplicates from Sorted Array II | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | LeetCode | O(n) | O(1) |
+| 11 | 2270. | Valid Split of an Array | [Link](https://leetcode.com/problems/number-of-ways-to-split-array/) | LeetCode | O(n) | O(1) |
+| 12 | 77. | Combinations | [Link](https://leetcode.com/problems/combinations/) | LeetCode | O(n! / (k! * (n - k)!)) | O(k) |
+| 13 | 202. | Happy Number | [Link](https://leetcode.com/problems/happy-number/) | LeetCode | O(log n) | O(1) |
+| 14 | 56. | Merge Intervals | [Link](https://leetcode.com/problems/merge-intervals/) | LeetCode | O(n log n) | O(n) |
+| 15 | 88. | Merge Sorted Array | [Link](https://leetcode.com/problems/merge-sorted-array/) | LeetCode | O((m + n) log(m + n)) | O(1) |
+| 16 | 921. | Minimum Add to Make Parentheses Valid | [Link](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | LeetCode | O(n) | O(n) |
+| 17 | 1051. | Height Checker | [Link](https://leetcode.com/problems/height-checker/) | LeetCode | O(n log n) | O(n) |
+| 18 | 189. | Rotate Array | [Link](https://leetcode.com/problems/rotate-array/) | LeetCode | O(n) | O(1) |
+| 19 | 1846. | Maximum Element After Decrementing And Rearranging | [Link](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | LeetCode | O(n log n) | O(1) |
+| 20 | 1346. | Check If N and Its Double Exist | [Link](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | LeetCode | O(n^2) | O(1) |
+| 21 | 9. | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number/) | LeetCode | O(log n) | O(1) |
+| 22 | - | Perfect Sum Problem | [Link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GfG | O(n * target) | O(target) |
+| 23 | 39. | Combination Sum | [Link](https://leetcode.com/problems/combination-sum/) | LeetCode | O(2^n) | O(k) |
+| 24 | - | Subset Sum Problem | [Link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GfG | O(n * sum) | O(n * sum) |
+| 25 | 7. | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | LeetCode | O(log n) | O(1) |
+| 26 | 2348. | Number of Zero-Filled Subarrays | [Link](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | LeetCode | O(n) | O(1) |
+| 27 | 69. | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | LeetCode | O(log x) | O(1) |
+| 28 | 169. | Majority Element | [Link](https://leetcode.com/problems/majority-element/) | LeetCode | O(n) | O(1) |
+| 29 | 121. | Buy and Sell Stock | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | O(n) | O(1) |
 
 </details>
 
