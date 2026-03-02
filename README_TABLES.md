@@ -140,6 +140,7 @@ Below, click on any topic to view the list of solved problems with details.
 | 1 | 1207. | Unique Number of Occurrences | [Link](https://leetcode.com/problems/unique-number-of-occurrences/) | LeetCode | O(n) | O(n) |
 | 2 | 930. | Binary Subarrays With Sum | [Link](https://leetcode.com/problems/binary-subarrays-with-sum/) | LeetCode | O(n) | O(n) |
 | 3 | 383. | Ransom Note | [Link](https://leetcode.com/problems/ransom-note/description/) | LeetCode | O(n + m) | O(n) |
+| 4 | 79. | Word Search | [Link](https://leetcode.com/problems/word-search/description/) | LeetCode | O(m * n * 4^k) | O(k) |
 
 </details>
 
