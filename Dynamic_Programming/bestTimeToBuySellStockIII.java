@@ -1,4 +1,4 @@
-package Arrays;
+package Dynamic_Programming;
 // LeetCode Problem: 123. Best Time to Buy and Sell Stock III
 // Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/?envType=study-plan-v2&envId=top-interview-150
 
