@@ -248,16 +248,17 @@ Below, click on any topic to view the list of solved problems with details.
 | 6 | 338. | Counting Bits | [Link](https://leetcode.com/problems/counting-bits/) | LeetCode | O(n) | O(n) |
 | 7 | - | Find XOR of Numbers from L to R | [Link](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | GfG | O(1) | O(1) |
 | 8 | 869. | Reordered Power of 2 | [Link](https://leetcode.com/problems/reordered-power-of-2/description/) | LeetCode | O(n log n) | O(n) |
-| 9 | - | Set the Rightmost Unset Bit | [Link](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GfG | O(1) | O(1) |
-| 10 | 2220. | Minimum Bit Flips to Convert Number | [Link](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | LeetCode | O(log n) | O(1) |
-| 11 | - | Find First Set Bit | [Link](https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1) | GfG | O(log n) | O(1) |
-| 12 | - | Check Kth Bit Set or Not | [Link](https://www.geeksforgeeks.org/check-kth-bit-set-not/) | GfG | O(1) | O(1) |
-| 13 | - | Swap Two Numbers | [Link](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | GfG | O(1) | O(1) |
-| 14 | - | Print All Bitwise Subsets of a Number | [Link](https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1) | GfG | O(n) | O(n) |
-| 15 | 136. | Single Number | [Link](https://leetcode.com/problems/single-number/) | LeetCode | O(n) | O(1) |
-| 16 | 342. | Power of Four | [Link](https://leetcode.com/problems/power-of-four/) | LeetCode | O(1) | O(1) |
-| 17 | 67. | Add Binary | [Link](https://leetcode.com/problems/add-binary/) | LeetCode | O(max(m, n)) | O(max(m, n)) |
-| 18 | 191. | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) | LeetCode | O(log n) | O(1) |
+| 9 | 137. | Single Number II | [Link](https://leetcode.com/problems/single-number-ii/) | LeetCode | O(n) | O(1) |
+| 10 | - | Set the Rightmost Unset Bit | [Link](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GfG | O(1) | O(1) |
+| 11 | 2220. | Minimum Bit Flips to Convert Number | [Link](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | LeetCode | O(log n) | O(1) |
+| 12 | - | Find First Set Bit | [Link](https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1) | GfG | O(log n) | O(1) |
+| 13 | - | Check Kth Bit Set or Not | [Link](https://www.geeksforgeeks.org/check-kth-bit-set-not/) | GfG | O(1) | O(1) |
+| 14 | - | Swap Two Numbers | [Link](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | GfG | O(1) | O(1) |
+| 15 | - | Print All Bitwise Subsets of a Number | [Link](https://www.geeksforgeeks.org/problems/print-all-bitwise-subsets-of-a-number-n3301/1) | GfG | O(n) | O(n) |
+| 16 | 136. | Single Number | [Link](https://leetcode.com/problems/single-number/) | LeetCode | O(n) | O(1) |
+| 17 | 342. | Power of Four | [Link](https://leetcode.com/problems/power-of-four/) | LeetCode | O(1) | O(1) |
+| 18 | 67. | Add Binary | [Link](https://leetcode.com/problems/add-binary/) | LeetCode | O(max(m, n)) | O(max(m, n)) |
+| 19 | 191. | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) | LeetCode | O(log n) | O(1) |
 
 </details>
 
