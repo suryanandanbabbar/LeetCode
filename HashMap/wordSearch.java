@@ -6,7 +6,7 @@ package HashMap;
 // SC: O(k) 
 
 import java.util.*;
-class Solution {
+class wordSearch {
     private int rows;
     private int cols;
     private Set<String> visited;

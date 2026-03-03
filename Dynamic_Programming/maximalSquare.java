@@ -5,7 +5,7 @@ package Dynamic_Programming;
 // TC: O(m * n)
 // SC: O(m * n)
 
-class Solution {
+class MaximalSquare {
     public int maximalSquare(char[][] matrix) {
         if (matrix.length == 0 || matrix[0].length == 0) {
             return 0;
