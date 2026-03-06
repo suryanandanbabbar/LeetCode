@@ -28,18 +28,19 @@ Below, click on any topic to view the list of solved problems with details.
 | 19 | 1051. | Height Checker | [Link](https://leetcode.com/problems/height-checker/) | LeetCode | O(n log n) | O(n) |
 | 20 | 189. | Rotate Array | [Link](https://leetcode.com/problems/rotate-array/) | LeetCode | O(n) | O(1) |
 | 21 | 3634. | Minimum Removals to Balance an Array | [Link](https://leetcode.com/problems/minimum-removals-to-balance-array/) | LeetCode | O(n) | O(1) |
-| 22 | 1846. | Maximum Element After Decrementing And Rearranging | [Link](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | LeetCode | O(n log n) | O(1) |
-| 23 | 1404. | Number of Steps to Reduce a Number in Binary Representation to One | [Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/?envType=daily-question&envId=2026-02-26) | LeetCode |  |  |
-| 24 | 1346. | Check If N and Its Double Exist | [Link](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | LeetCode | O(n^2) | O(1) |
-| 25 | 9. | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number/) | LeetCode | O(log n) | O(1) |
-| 26 | - | Perfect Sum Problem | [Link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GfG | O(n * target) | O(target) |
-| 27 | 39. | Combination Sum | [Link](https://leetcode.com/problems/combination-sum/) | LeetCode | O(2^n) | O(k) |
-| 28 | - | Subset Sum Problem | [Link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GfG | O(n * sum) | O(n * sum) |
-| 29 | 7. | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | LeetCode | O(log n) | O(1) |
-| 30 | 2348. | Number of Zero-Filled Subarrays | [Link](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | LeetCode | O(n) | O(1) |
-| 31 | 69. | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | LeetCode | O(log x) | O(1) |
-| 32 | 169. | Majority Element | [Link](https://leetcode.com/problems/majority-element/) | LeetCode | O(n) | O(1) |
-| 33 | 121. | Buy and Sell Stock | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | O(n) | O(1) |
+| 22 | 1784. | Check if Binary String Has at Most One Segment of Ones | [Link](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/) | LeetCode | O(n) | O(1) |
+| 23 | 1846. | Maximum Element After Decrementing And Rearranging | [Link](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | LeetCode | O(n log n) | O(1) |
+| 24 | 1404. | Number of Steps to Reduce a Number in Binary Representation to One | [Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/?envType=daily-question&envId=2026-02-26) | LeetCode |  |  |
+| 25 | 1346. | Check If N and Its Double Exist | [Link](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | LeetCode | O(n^2) | O(1) |
+| 26 | 9. | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number/) | LeetCode | O(log n) | O(1) |
+| 27 | - | Perfect Sum Problem | [Link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | GfG | O(n * target) | O(target) |
+| 28 | 39. | Combination Sum | [Link](https://leetcode.com/problems/combination-sum/) | LeetCode | O(2^n) | O(k) |
+| 29 | - | Subset Sum Problem | [Link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | GfG | O(n * sum) | O(n * sum) |
+| 30 | 7. | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | LeetCode | O(log n) | O(1) |
+| 31 | 2348. | Number of Zero-Filled Subarrays | [Link](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | LeetCode | O(n) | O(1) |
+| 32 | 69. | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | LeetCode | O(log x) | O(1) |
+| 33 | 169. | Majority Element | [Link](https://leetcode.com/problems/majority-element/) | LeetCode | O(n) | O(1) |
+| 34 | 121. | Buy and Sell Stock | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | O(n) | O(1) |
 
 </details>
 
