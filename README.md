@@ -233,8 +233,9 @@ Below, click on any topic to view the list of solved problems with details.
 | 11 | 3337. | Total Characters in String After Transformations II | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/) | LeetCode | O(t * n * m) | O(n * m) |
 | 12 | 205. | Isomorphic Strings | [Link](https://leetcode.com/problems/isomorphic-strings/) | LeetCode | O(n) | O(1) |
 | 13 | 451. | Sort Characters By Frequency | [Link](https://leetcode.com/problems/sort-characters-by-frequency/description/) | LeetCode | O(n log n) | O(n) |
-| 14 | 2053. | Kth Distinct String in an Array | [Link](https://leetcode.com/problems/distinct-string/) | LeetCode | O(n) | O(n) |
-| 15 | 3335. | Total Characters in String After Transformations | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | LeetCode | O(t * n) | O(1) |
+| 14 | 1888. | Minimum Number of Flips to Make the Binary String Alternating | [Link](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/) | LeetCode | O(n) | O(1) |
+| 15 | 2053. | Kth Distinct String in an Array | [Link](https://leetcode.com/problems/distinct-string/) | LeetCode | O(n) | O(n) |
+| 16 | 3335. | Total Characters in String After Transformations | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | LeetCode | O(t * n) | O(1) |
 
 </details>
 
