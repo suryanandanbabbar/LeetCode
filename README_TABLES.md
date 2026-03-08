@@ -228,14 +228,15 @@ Below, click on any topic to view the list of solved problems with details.
 | 6 | 3136. | Valid Word | [Link](https://leetcode.com/problems/valid-word/) | LeetCode | O(n) | O(1) |
 | 7 | 131. | Palindrome Partioning | [Link](https://leetcode.com/problems/palindrome-partitioning/) | LeetCode | O(n * 2^n) | O(n * 2^n) |
 | 8 | 2678. | Count the Number of Senior Citizens | [Link](https://leetcode.com/problems/number-of-senior-citizens/description/) | LeetCode | O(n) | O(1) |
-| 9 | 17. | Letter Combinations of Phone Number | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | LeetCode | O(3^n) | O(3^n) |
-| 10 | 1323. | Maximum 69 Number | [Link](https://leetcode.com/problems/maximum-69-number/) | LeetCode | O(n) | O(n) |
-| 11 | 3337. | Total Characters in String After Transformations II | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/) | LeetCode | O(t * n * m) | O(n * m) |
-| 12 | 205. | Isomorphic Strings | [Link](https://leetcode.com/problems/isomorphic-strings/) | LeetCode | O(n) | O(1) |
-| 13 | 451. | Sort Characters By Frequency | [Link](https://leetcode.com/problems/sort-characters-by-frequency/description/) | LeetCode | O(n log n) | O(n) |
-| 14 | 1888. | Minimum Number of Flips to Make the Binary String Alternating | [Link](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/) | LeetCode | O(n) | O(1) |
-| 15 | 2053. | Kth Distinct String in an Array | [Link](https://leetcode.com/problems/distinct-string/) | LeetCode | O(n) | O(n) |
-| 16 | 3335. | Total Characters in String After Transformations | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | LeetCode | O(t * n) | O(1) |
+| 9 | 1980. | Find Unique Binary String | [Link](https://leetcode.com/problems/find-unique-binary-string/description/) | LeetCode | O(n) | O(1) |
+| 10 | 17. | Letter Combinations of Phone Number | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | LeetCode | O(3^n) | O(3^n) |
+| 11 | 1323. | Maximum 69 Number | [Link](https://leetcode.com/problems/maximum-69-number/) | LeetCode | O(n) | O(n) |
+| 12 | 3337. | Total Characters in String After Transformations II | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/) | LeetCode | O(t * n * m) | O(n * m) |
+| 13 | 205. | Isomorphic Strings | [Link](https://leetcode.com/problems/isomorphic-strings/) | LeetCode | O(n) | O(1) |
+| 14 | 451. | Sort Characters By Frequency | [Link](https://leetcode.com/problems/sort-characters-by-frequency/description/) | LeetCode | O(n log n) | O(n) |
+| 15 | 1888. | Minimum Number of Flips to Make the Binary String Alternating | [Link](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/) | LeetCode | O(n) | O(1) |
+| 16 | 2053. | Kth Distinct String in an Array | [Link](https://leetcode.com/problems/distinct-string/) | LeetCode | O(n) | O(n) |
+| 17 | 3335. | Total Characters in String After Transformations | [Link](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | LeetCode | O(t * n) | O(1) |
 
 </details>
 
