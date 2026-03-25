@@ -326,10 +326,12 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [2906-construct-product-matrix](https://github.com/suryanandanbabbar/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [2906-construct-product-matrix](https://github.com/suryanandanbabbar/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -343,4 +345,16 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0018-4sum/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
