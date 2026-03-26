@@ -325,6 +325,7 @@ Below, click on any topic to view the list of solved problems with details.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [2906-construct-product-matrix](https://github.com/suryanandanbabbar/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -371,5 +372,6 @@ Below, click on any topic to view the list of solved problems with details.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 <!---LeetCode Topics End-->
