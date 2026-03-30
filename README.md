@@ -448,4 +448,12 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/suryanandanbabbar/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/suryanandanbabbar/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
