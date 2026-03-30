@@ -360,6 +360,7 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [0018-4sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/suryanandanbabbar/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -393,6 +394,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryanandanbabbar/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/suryanandanbabbar/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/suryanandanbabbar/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/suryanandanbabbar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -460,6 +462,7 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/suryanandanbabbar/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/suryanandanbabbar/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
