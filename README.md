@@ -335,6 +335,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0347-top-k-frequent-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [2751-robot-collisions](https://github.com/suryanandanbabbar/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/suryanandanbabbar/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/suryanandanbabbar/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -370,6 +371,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0242-valid-anagram](https://github.com/suryanandanbabbar/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2751-robot-collisions](https://github.com/suryanandanbabbar/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -419,6 +421,7 @@ Below, click on any topic to view the list of solved problems with details.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2751-robot-collisions](https://github.com/suryanandanbabbar/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/suryanandanbabbar/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -479,6 +482,7 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/suryanandanbabbar/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/suryanandanbabbar/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [2751-robot-collisions](https://github.com/suryanandanbabbar/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
