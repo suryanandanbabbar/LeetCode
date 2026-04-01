@@ -356,6 +356,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [2906-construct-product-matrix](https://github.com/suryanandanbabbar/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3714-longest-balanced-substring-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3714-longest-balanced-substring-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +405,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0424-longest-repeating-character-replacement](https://github.com/suryanandanbabbar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3714-longest-balanced-substring-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3714-longest-balanced-substring-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,6 +435,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0424-longest-repeating-character-replacement](https://github.com/suryanandanbabbar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/suryanandanbabbar/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3714-longest-balanced-substring-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3714-longest-balanced-substring-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
