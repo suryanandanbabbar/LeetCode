@@ -455,10 +455,12 @@ Below, click on any topic to view the list of solved problems with details.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -476,6 +478,7 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/suryanandanbabbar/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/suryanandanbabbar/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -514,4 +517,8 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
