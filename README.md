@@ -341,6 +341,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0643-maximum-average-subarray-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/suryanandanbabbar/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/suryanandanbabbar/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suryanandanbabbar/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2751-robot-collisions](https://github.com/suryanandanbabbar/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/suryanandanbabbar/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/suryanandanbabbar/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -474,6 +475,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0209-minimum-size-subarray-sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/suryanandanbabbar/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suryanandanbabbar/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/suryanandanbabbar/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -493,6 +495,7 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suryanandanbabbar/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
