@@ -392,6 +392,7 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -536,14 +537,17 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
