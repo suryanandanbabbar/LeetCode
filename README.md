@@ -331,6 +331,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0042-trapping-rain-water](https://github.com/suryanandanbabbar/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/suryanandanbabbar/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/suryanandanbabbar/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/suryanandanbabbar/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0162-find-peak-element](https://github.com/suryanandanbabbar/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/suryanandanbabbar/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
@@ -381,6 +382,7 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [0018-4sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/suryanandanbabbar/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/suryanandanbabbar/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/suryanandanbabbar/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
