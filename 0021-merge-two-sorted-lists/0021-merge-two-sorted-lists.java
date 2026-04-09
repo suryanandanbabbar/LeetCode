@@ -26,7 +26,8 @@ class Solution {
 
         if(list1 != null) {
             tail.next = list1;
-        } else if(list2 != null) {
+        }
+        else if(list2 != null) {
             tail.next = list2;
         }
 
