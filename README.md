@@ -591,4 +591,8 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/suryanandanbabbar/LeetCode/tree/main/0146-lru-cache/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/suryanandanbabbar/LeetCode/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
