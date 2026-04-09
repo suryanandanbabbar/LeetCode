@@ -333,6 +333,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0054-spiral-matrix](https://github.com/suryanandanbabbar/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/suryanandanbabbar/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0162-find-peak-element](https://github.com/suryanandanbabbar/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/suryanandanbabbar/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/suryanandanbabbar/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -388,6 +389,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0018-4sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/suryanandanbabbar/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/suryanandanbabbar/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0169-majority-element](https://github.com/suryanandanbabbar/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/suryanandanbabbar/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -425,6 +427,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0141-linked-list-cycle](https://github.com/suryanandanbabbar/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/suryanandanbabbar/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/suryanandanbabbar/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/suryanandanbabbar/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -497,6 +500,7 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0169-majority-element](https://github.com/suryanandanbabbar/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Heap (Priority Queue)
@@ -513,6 +517,7 @@ Below, click on any topic to view the list of solved problems with details.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/suryanandanbabbar/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/suryanandanbabbar/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suryanandanbabbar/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
