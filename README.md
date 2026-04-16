@@ -352,6 +352,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [2906-construct-product-matrix](https://github.com/suryanandanbabbar/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/suryanandanbabbar/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/suryanandanbabbar/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -440,6 +441,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0451-sort-characters-by-frequency](https://github.com/suryanandanbabbar/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/suryanandanbabbar/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3714-longest-balanced-substring-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3714-longest-balanced-substring-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -505,6 +507,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0349-intersection-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/suryanandanbabbar/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suryanandanbabbar/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [3488-closest-equal-element-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/suryanandanbabbar/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
