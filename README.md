@@ -547,6 +547,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suryanandanbabbar/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0024-swap-nodes-in-pairs](https://github.com/suryanandanbabbar/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0141-linked-list-cycle](https://github.com/suryanandanbabbar/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/suryanandanbabbar/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -555,6 +556,7 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/suryanandanbabbar/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/suryanandanbabbar/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
