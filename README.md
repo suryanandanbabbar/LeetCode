@@ -450,6 +450,7 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/suryanandanbabbar/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/suryanandanbabbar/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/suryanandanbabbar/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
