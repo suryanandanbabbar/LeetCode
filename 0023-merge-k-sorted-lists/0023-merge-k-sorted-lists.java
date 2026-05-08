@@ -14,9 +14,8 @@ class Solution {
 
         PriorityQueue<ListNode> pq = new PriorityQueue<>((a,b) -> a.val - b.val);
 
-        for(ListNode node: lists) {
-            if(node != null)
-                pq.offer(node);
+        for(ListNode node : lists) {
+            if(node != null) pq.offer(node);
         }
 
         ListNode head = new ListNode();
@@ -33,6 +32,5 @@ class Solution {
         }
 
         return head.next;
-
     }
 }
