@@ -347,6 +347,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0994-rotting-oranges](https://github.com/suryanandanbabbar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suryanandanbabbar/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/suryanandanbabbar/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/suryanandanbabbar/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/suryanandanbabbar/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/suryanandanbabbar/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
@@ -394,6 +395,7 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/suryanandanbabbar/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/suryanandanbabbar/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2906-construct-product-matrix](https://github.com/suryanandanbabbar/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryanandanbabbar/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -471,6 +473,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0424-longest-repeating-character-replacement](https://github.com/suryanandanbabbar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/suryanandanbabbar/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/suryanandanbabbar/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/suryanandanbabbar/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
