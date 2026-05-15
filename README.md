@@ -443,6 +443,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0098-validate-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/suryanandanbabbar/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Breadth-First Search
@@ -643,6 +644,7 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -653,6 +655,7 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
