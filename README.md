@@ -413,6 +413,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0160-intersection-of-two-linked-lists](https://github.com/suryanandanbabbar/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/suryanandanbabbar/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/suryanandanbabbar/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/suryanandanbabbar/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/suryanandanbabbar/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 ## Sorting
@@ -531,6 +532,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0451-sort-characters-by-frequency](https://github.com/suryanandanbabbar/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/suryanandanbabbar/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/suryanandanbabbar/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1768-merge-strings-alternately](https://github.com/suryanandanbabbar/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/suryanandanbabbar/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suryanandanbabbar/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/suryanandanbabbar/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
