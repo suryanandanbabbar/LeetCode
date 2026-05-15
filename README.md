@@ -326,6 +326,7 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/suryanandanbabbar/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanandanbabbar/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/suryanandanbabbar/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -406,6 +407,7 @@ Below, click on any topic to view the list of solved problems with details.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/suryanandanbabbar/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suryanandanbabbar/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/suryanandanbabbar/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -632,6 +634,7 @@ Below, click on any topic to view the list of solved problems with details.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/suryanandanbabbar/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suryanandanbabbar/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/suryanandanbabbar/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/suryanandanbabbar/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
