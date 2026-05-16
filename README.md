@@ -452,6 +452,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/suryanandanbabbar/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/suryanandanbabbar/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Breadth-First Search
@@ -664,6 +665,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/suryanandanbabbar/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -678,6 +680,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/suryanandanbabbar/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
