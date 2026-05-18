@@ -351,6 +351,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0994-rotting-oranges](https://github.com/suryanandanbabbar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/suryanandanbabbar/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1306-jump-game-iii](https://github.com/suryanandanbabbar/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/suryanandanbabbar/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suryanandanbabbar/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/suryanandanbabbar/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -464,6 +465,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/suryanandanbabbar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/suryanandanbabbar/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/suryanandanbabbar/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -493,6 +495,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0451-sort-characters-by-frequency](https://github.com/suryanandanbabbar/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/suryanandanbabbar/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/suryanandanbabbar/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1345-jump-game-iv](https://github.com/suryanandanbabbar/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/suryanandanbabbar/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/suryanandanbabbar/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
