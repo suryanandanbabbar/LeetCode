@@ -366,6 +366,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/suryanandanbabbar/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suryanandanbabbar/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryanandanbabbar/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/suryanandanbabbar/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/suryanandanbabbar/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/suryanandanbabbar/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -497,6 +498,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [1207-unique-number-of-occurrences](https://github.com/suryanandanbabbar/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1345-jump-game-iv](https://github.com/suryanandanbabbar/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/suryanandanbabbar/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/suryanandanbabbar/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -716,4 +718,8 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryanandanbabbar/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 <!---LeetCode Topics End-->
