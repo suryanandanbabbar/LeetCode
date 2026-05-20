@@ -655,6 +655,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0155-min-stack](https://github.com/suryanandanbabbar/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/suryanandanbabbar/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/suryanandanbabbar/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/suryanandanbabbar/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -704,6 +705,7 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/suryanandanbabbar/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/suryanandanbabbar/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/suryanandanbabbar/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -724,4 +726,8 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/suryanandanbabbar/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
