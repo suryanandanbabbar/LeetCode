@@ -352,6 +352,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suryanandanbabbar/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/suryanandanbabbar/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1306-jump-game-iii](https://github.com/suryanandanbabbar/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/suryanandanbabbar/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/suryanandanbabbar/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suryanandanbabbar/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -441,6 +442,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0349-intersection-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/suryanandanbabbar/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/suryanandanbabbar/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1340-jump-game-v](https://github.com/suryanandanbabbar/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suryanandanbabbar/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/suryanandanbabbar/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -526,6 +528,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0392-is-subsequence](https://github.com/suryanandanbabbar/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/suryanandanbabbar/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/suryanandanbabbar/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1340-jump-game-v](https://github.com/suryanandanbabbar/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/suryanandanbabbar/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryanandanbabbar/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/suryanandanbabbar/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
