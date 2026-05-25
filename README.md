@@ -408,6 +408,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0209-minimum-size-subarray-sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/suryanandanbabbar/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/suryanandanbabbar/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/suryanandanbabbar/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2906-construct-product-matrix](https://github.com/suryanandanbabbar/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryanandanbabbar/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -529,6 +530,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [1137-n-th-tribonacci-number](https://github.com/suryanandanbabbar/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/suryanandanbabbar/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/suryanandanbabbar/LeetCode/tree/main/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/suryanandanbabbar/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/suryanandanbabbar/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryanandanbabbar/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/suryanandanbabbar/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -566,6 +568,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0657-robot-return-to-origin](https://github.com/suryanandanbabbar/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/suryanandanbabbar/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1768-merge-strings-alternately](https://github.com/suryanandanbabbar/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1871-jump-game-vii](https://github.com/suryanandanbabbar/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/suryanandanbabbar/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suryanandanbabbar/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/suryanandanbabbar/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -580,6 +583,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0209-minimum-size-subarray-sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/suryanandanbabbar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1871-jump-game-vii](https://github.com/suryanandanbabbar/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
