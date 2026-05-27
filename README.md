@@ -508,6 +508,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [2784-check-if-array-is-good](https://github.com/suryanandanbabbar/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3714-longest-balanced-substring-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3714-longest-balanced-substring-ii/) | Medium |
@@ -576,6 +577,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [2833-furthest-point-from-origin](https://github.com/suryanandanbabbar/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/suryanandanbabbar/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3714-longest-balanced-substring-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3714-longest-balanced-substring-ii/) | Medium |
 ## Sliding Window
