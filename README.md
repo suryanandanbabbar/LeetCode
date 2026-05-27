@@ -519,6 +519,7 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/suryanandanbabbar/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/suryanandanbabbar/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/suryanandanbabbar/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/suryanandanbabbar/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -571,6 +572,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0424-longest-repeating-character-replacement](https://github.com/suryanandanbabbar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/suryanandanbabbar/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/suryanandanbabbar/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/suryanandanbabbar/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/suryanandanbabbar/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1768-merge-strings-alternately](https://github.com/suryanandanbabbar/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1871-jump-game-vii](https://github.com/suryanandanbabbar/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
