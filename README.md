@@ -343,6 +343,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0283-move-zeroes](https://github.com/suryanandanbabbar/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0605-can-place-flowers](https://github.com/suryanandanbabbar/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/suryanandanbabbar/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/suryanandanbabbar/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -676,6 +677,7 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/suryanandanbabbar/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0605-can-place-flowers](https://github.com/suryanandanbabbar/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suryanandanbabbar/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/suryanandanbabbar/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/suryanandanbabbar/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
