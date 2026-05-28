@@ -375,6 +375,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [2784-check-if-array-is-good](https://github.com/suryanandanbabbar/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/suryanandanbabbar/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/suryanandanbabbar/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3093-longest-common-suffix-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryanandanbabbar/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/suryanandanbabbar/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryanandanbabbar/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -581,6 +582,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/suryanandanbabbar/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/suryanandanbabbar/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/suryanandanbabbar/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -737,6 +739,7 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suryanandanbabbar/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
