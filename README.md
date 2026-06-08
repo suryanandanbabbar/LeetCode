@@ -365,6 +365,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/suryanandanbabbar/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suryanandanbabbar/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/suryanandanbabbar/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suryanandanbabbar/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/suryanandanbabbar/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -441,6 +442,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [1768-merge-strings-alternately](https://github.com/suryanandanbabbar/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/suryanandanbabbar/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/suryanandanbabbar/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/suryanandanbabbar/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sorting
@@ -574,6 +576,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [1914-cyclically-rotating-a-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/suryanandanbabbar/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/suryanandanbabbar/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryanandanbabbar/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/suryanandanbabbar/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/suryanandanbabbar/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
