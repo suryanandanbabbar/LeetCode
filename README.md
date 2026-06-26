@@ -540,6 +540,7 @@ Below, click on any topic to view the list of solved problems with details.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/suryanandanbabbar/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/suryanandanbabbar/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/suryanandanbabbar/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/suryanandanbabbar/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -556,6 +557,7 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/suryanandanbabbar/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0062-unique-paths](https://github.com/suryanandanbabbar/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/suryanandanbabbar/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/suryanandanbabbar/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/suryanandanbabbar/LeetCode/tree/main/0392-is-subsequence/) | Easy |
@@ -808,4 +810,8 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/suryanandanbabbar/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
