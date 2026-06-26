@@ -484,6 +484,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0872-leaf-similar-trees](https://github.com/suryanandanbabbar/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1306-jump-game-iii](https://github.com/suryanandanbabbar/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/suryanandanbabbar/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -494,6 +495,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [1306-jump-game-iii](https://github.com/suryanandanbabbar/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/suryanandanbabbar/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -746,6 +748,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/suryanandanbabbar/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -761,6 +764,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/suryanandanbabbar/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
