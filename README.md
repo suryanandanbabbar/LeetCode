@@ -360,6 +360,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suryanandanbabbar/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/suryanandanbabbar/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/suryanandanbabbar/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryanandanbabbar/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/suryanandanbabbar/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/suryanandanbabbar/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -464,6 +465,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0977-squares-of-a-sorted-array](https://github.com/suryanandanbabbar/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1340-jump-game-v](https://github.com/suryanandanbabbar/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suryanandanbabbar/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryanandanbabbar/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suryanandanbabbar/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/suryanandanbabbar/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -735,6 +737,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0011-container-with-most-water](https://github.com/suryanandanbabbar/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0605-can-place-flowers](https://github.com/suryanandanbabbar/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suryanandanbabbar/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryanandanbabbar/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/suryanandanbabbar/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suryanandanbabbar/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/suryanandanbabbar/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
