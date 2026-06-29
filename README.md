@@ -364,6 +364,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/suryanandanbabbar/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/suryanandanbabbar/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryanandanbabbar/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/suryanandanbabbar/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suryanandanbabbar/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -624,6 +625,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/suryanandanbabbar/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1768-merge-strings-alternately](https://github.com/suryanandanbabbar/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1871-jump-game-vii](https://github.com/suryanandanbabbar/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryanandanbabbar/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/suryanandanbabbar/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suryanandanbabbar/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/suryanandanbabbar/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
