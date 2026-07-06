@@ -354,6 +354,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0994-rotting-oranges](https://github.com/suryanandanbabbar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suryanandanbabbar/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/suryanandanbabbar/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/suryanandanbabbar/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/suryanandanbabbar/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/suryanandanbabbar/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/suryanandanbabbar/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
@@ -465,6 +466,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0349-intersection-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/suryanandanbabbar/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/suryanandanbabbar/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/suryanandanbabbar/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/suryanandanbabbar/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suryanandanbabbar/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryanandanbabbar/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
