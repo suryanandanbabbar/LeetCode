@@ -564,6 +564,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/suryanandanbabbar/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryanandanbabbar/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/suryanandanbabbar/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -840,4 +841,8 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/suryanandanbabbar/LeetCode/tree/main/0062-unique-paths/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/suryanandanbabbar/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
