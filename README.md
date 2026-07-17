@@ -388,6 +388,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [3161-block-placement-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryanandanbabbar/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/suryanandanbabbar/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryanandanbabbar/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -429,6 +430,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [2574-left-and-right-sum-differences](https://github.com/suryanandanbabbar/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/suryanandanbabbar/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryanandanbabbar/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -551,6 +553,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suryanandanbabbar/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3714-longest-balanced-substring-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3714-longest-balanced-substring-ii/) | Medium |
@@ -567,6 +570,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/suryanandanbabbar/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryanandanbabbar/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/suryanandanbabbar/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -676,6 +680,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/suryanandanbabbar/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suryanandanbabbar/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3161-block-placement-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryanandanbabbar/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -710,6 +715,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [1189-maximum-number-of-balloons](https://github.com/suryanandanbabbar/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suryanandanbabbar/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/suryanandanbabbar/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -847,9 +853,11 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/suryanandanbabbar/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/suryanandanbabbar/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suryanandanbabbar/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
