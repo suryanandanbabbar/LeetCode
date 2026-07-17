@@ -343,6 +343,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0283-move-zeroes](https://github.com/suryanandanbabbar/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/suryanandanbabbar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0399-evaluate-division](https://github.com/suryanandanbabbar/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0605-can-place-flowers](https://github.com/suryanandanbabbar/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/suryanandanbabbar/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -493,6 +494,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0399-evaluate-division](https://github.com/suryanandanbabbar/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/suryanandanbabbar/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1306-jump-game-iii](https://github.com/suryanandanbabbar/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -504,6 +506,7 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suryanandanbabbar/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/suryanandanbabbar/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0994-rotting-oranges](https://github.com/suryanandanbabbar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/suryanandanbabbar/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/suryanandanbabbar/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
@@ -514,6 +517,7 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/suryanandanbabbar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/suryanandanbabbar/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/suryanandanbabbar/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/suryanandanbabbar/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -635,6 +639,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0242-valid-anagram](https://github.com/suryanandanbabbar/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/suryanandanbabbar/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/suryanandanbabbar/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0399-evaluate-division](https://github.com/suryanandanbabbar/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/suryanandanbabbar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/suryanandanbabbar/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/suryanandanbabbar/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -821,6 +826,7 @@ Below, click on any topic to view the list of solved problems with details.
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/suryanandanbabbar/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/suryanandanbabbar/LeetCode/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/suryanandanbabbar/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Trie
@@ -860,4 +866,8 @@ Below, click on any topic to view the list of solved problems with details.
 | [3312-sorted-gcd-pair-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/suryanandanbabbar/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suryanandanbabbar/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/suryanandanbabbar/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
