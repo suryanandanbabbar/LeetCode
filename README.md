@@ -527,6 +527,7 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/suryanandanbabbar/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suryanandanbabbar/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -662,6 +663,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [3120-count-the-number-of-special-characters-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/suryanandanbabbar/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3499-maximize-active-section-with-trade-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3714-longest-balanced-substring-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3714-longest-balanced-substring-ii/) | Medium |
 ## Sliding Window
