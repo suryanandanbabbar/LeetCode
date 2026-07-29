@@ -564,6 +564,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3714-longest-balanced-substring-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3714-longest-balanced-substring-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -582,6 +583,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryanandanbabbar/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryanandanbabbar/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/suryanandanbabbar/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/suryanandanbabbar/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -668,6 +670,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/suryanandanbabbar/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3614-process-string-with-special-operations-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3714-longest-balanced-substring-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3714-longest-balanced-substring-ii/) | Medium |
 ## Sliding Window
@@ -730,6 +733,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suryanandanbabbar/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/suryanandanbabbar/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -869,6 +873,7 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/suryanandanbabbar/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/suryanandanbabbar/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
