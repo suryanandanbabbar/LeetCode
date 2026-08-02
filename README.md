@@ -351,6 +351,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0746-min-cost-climbing-stairs](https://github.com/suryanandanbabbar/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/suryanandanbabbar/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/suryanandanbabbar/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/suryanandanbabbar/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/suryanandanbabbar/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/suryanandanbabbar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suryanandanbabbar/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -576,6 +577,7 @@ Below, click on any topic to view the list of solved problems with details.
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/suryanandanbabbar/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/suryanandanbabbar/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0877-stone-game](https://github.com/suryanandanbabbar/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/suryanandanbabbar/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/suryanandanbabbar/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/suryanandanbabbar/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -604,6 +606,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [0198-house-robber](https://github.com/suryanandanbabbar/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/suryanandanbabbar/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/suryanandanbabbar/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0877-stone-game](https://github.com/suryanandanbabbar/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/suryanandanbabbar/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/suryanandanbabbar/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/suryanandanbabbar/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -893,4 +896,8 @@ Below, click on any topic to view the list of solved problems with details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/suryanandanbabbar/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/suryanandanbabbar/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
