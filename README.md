@@ -405,6 +405,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/suryanandanbabbar/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3731-find-missing-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/suryanandanbabbar/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -494,6 +495,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/suryanandanbabbar/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3731-find-missing-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suryanandanbabbar/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -573,6 +575,7 @@ Below, click on any topic to view the list of solved problems with details.
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3714-longest-balanced-substring-ii](https://github.com/suryanandanbabbar/LeetCode/tree/main/3714-longest-balanced-substring-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/suryanandanbabbar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suryanandanbabbar/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Math
